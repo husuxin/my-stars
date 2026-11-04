@@ -2,7 +2,7 @@ name: Sync stars
 
 on:
   schedule:
-    # Daily at 02:23 UTC = 10:23 in Beijing.
+    # Daily at 02:23 UTC (10:23 Beijing time).
     - cron: "23 2 * * *"
   workflow_dispatch:
 
