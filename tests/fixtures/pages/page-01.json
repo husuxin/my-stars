@@ -1,0 +1,128 @@
+[
+  {
+    "starred_at": "2026-10-28T09:12:00Z",
+    "repo": {
+      "full_name": "langchain-ai/langchain",
+      "html_url": "https://github.com/langchain-ai/langchain",
+      "description": "Build context-aware reasoning applications with LLMs.",
+      "language": "Python",
+      "topics": ["llm", "langchain", "python", "ai", "agents", "rag"],
+      "stargazers_count": 118000,
+      "forks_count": 19200,
+      "archived": false,
+      "homepage": "https://python.langchain.com"
+    }
+  },
+  {
+    "starred_at": "2026-10-21T03:40:00Z",
+    "repo": {
+      "full_name": "openai/whisper",
+      "html_url": "https://github.com/openai/whisper",
+      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "language": "Python",
+      "topics": ["whisper", "speech", "ai", "speech-recognition", "pytorch"],
+      "stargazers_count": 76000,
+      "forks_count": 9100,
+      "archived": false,
+      "homepage": ""
+    }
+  },
+  {
+    "starred_at": "2026-10-09T14:05:00Z",
+    "repo": {
+      "full_name": "google/or-tools",
+      "html_url": "https://github.com/google/or-tools",
+      "description": "Google's Operations Research tools: CP-SAT, routing, linear and integer programming.",
+      "language": "C++",
+      "topics": ["optimization", "operations-research", "or-tools", "linear-programming", "solver"],
+      "stargazers_count": 11800,
+      "forks_count": 2200,
+      "archived": false,
+      "homepage": "https://developers.google.com/optimization"
+    }
+  },
+  {
+    "starred_at": "2026-09-18T07:22:00Z",
+    "repo": {
+      "full_name": "Pyomo/pyomo",
+      "html_url": "https://github.com/Pyomo/pyomo",
+      "description": "An object-oriented algebraic modeling language in Python for structured optimization problems.",
+      "language": "Python",
+      "topics": ["optimization", "python", "pyomo", "modeling", "operations-research"],
+      "stargazers_count": 2100,
+      "forks_count": 550,
+      "archived": false,
+      "homepage": "https://www.pyomo.org"
+    }
+  },
+  {
+    "starred_at": "2026-08-30T02:15:00Z",
+    "repo": {
+      "full_name": "duckdb/duckdb",
+      "html_url": "https://github.com/duckdb/duckdb",
+      "description": "DuckDB is an analytical in-process SQL database management system.",
+      "language": "C++",
+      "topics": ["database", "sql", "analytics", "duckdb", "olap"],
+      "stargazers_count": 26000,
+      "forks_count": 2100,
+      "archived": false,
+      "homepage": "https://duckdb.org"
+    }
+  },
+  {
+    "starred_at": "2026-08-02T11:00:00Z",
+    "repo": {
+      "full_name": "jgm/pandoc",
+      "html_url": "https://github.com/jgm/pandoc",
+      "description": "Universal markup converter. This is a deliberately long description used to verify that the README generator trims very long text at a sensible word boundary instead of letting one card or list item run on for many lines and ruin the layout of the whole index page.",
+      "language": "Haskell",
+      "topics": ["markdown", "pandoc", "document-conversion", "latex", "haskell"],
+      "stargazers_count": 37000,
+      "forks_count": 3500,
+      "archived": false,
+      "homepage": "https://pandoc.org"
+    }
+  },
+  {
+    "starred_at": "2026-07-14T16:48:00Z",
+    "repo": {
+      "full_name": "shadcn-ui/ui",
+      "html_url": "https://github.com/shadcn-ui/ui",
+      "description": "Beautifully designed components that you can copy and paste into your apps.",
+      "language": "TypeScript",
+      "topics": ["react", "typescript", "tailwindcss", "ui", "components"],
+      "stargazers_count": 72000,
+      "forks_count": 4200,
+      "archived": false,
+      "homepage": "https://ui.shadcn.com"
+    }
+  },
+  {
+    "starred_at": "2026-06-25T05:30:00Z",
+    "repo": {
+      "full_name": "tauri-apps/tauri",
+      "html_url": "https://github.com/tauri-apps/tauri",
+      "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+      "language": "Rust",
+      "topics": ["rust", "desktop", "tauri", "webview"],
+      "stargazers_count": 85000,
+      "forks_count": 2500,
+      "archived": false,
+      "homepage": "https://tauri.app"
+    }
+  },
+  {
+    "starred_at": "2026-06-01T09:20:00Z",
+    "repo": {
+      "full_name": "jupyter/notebook",
+      "html_url": "https://github.com/jupyter/notebook",
+      "description": "Jupyter Interactive Notebook",
+      "language": "Jupyter Notebook",
+      "topics": ["jupyter", "notebook", "python"],
+      "stargazers_count": 11800,
+      "forks_count": 5200,
+      "archived": false,
+      "homepage": ""
+    }
+  }
+]

@@ -1,0 +1,206 @@
+{
+  "title": "我的 Star 收藏夹",
+  "subtitle": "把 star 过的项目整理成可检索的索引，每天自动同步。",
+  "min_language_group": 2,
+  "max_description": 160,
+  "language_buckets": {
+    "Python": "🐍 Python",
+    "TypeScript": "🟨 JavaScript / TypeScript",
+    "JavaScript": "🟨 JavaScript / TypeScript",
+    "Jupyter Notebook": "📓 Jupyter Notebook",
+    "R": "📈 R",
+    "Julia": "🧮 Julia",
+    "MATLAB": "🧮 MATLAB",
+    "TeX": "📄 TeX / LaTeX",
+    "C++": "⚙️ C / C++",
+    "C": "⚙️ C / C++",
+    "Rust": "🦀 Rust",
+    "Go": "🐹 Go",
+    "Java": "☕ Java",
+    "Kotlin": "☕ Kotlin",
+    "Swift": "🍎 Swift",
+    "Objective-C": "🍎 Objective-C",
+    "Ruby": "💎 Ruby",
+    "PHP": "🐘 PHP",
+    "C#": "🎯 C#",
+    "Shell": "🐚 Shell",
+    "PowerShell": "🐚 PowerShell",
+    "HTML": "🌐 HTML / CSS",
+    "CSS": "🌐 HTML / CSS",
+    "Lua": "🌙 Lua",
+    "Dart": "🎯 Dart",
+    "Elixir": "💧 Elixir",
+    "Haskell": "λ Haskell",
+    "Zig": "⚡ Zig",
+    "Scala": "🔴 Scala",
+    "Perl": "🐪 Perl",
+    "Assembly": "🔩 Assembly",
+    "Makefile": "🛠️ Makefile",
+    "Dockerfile": "🐳 Dockerfile",
+    "Nix": "❄️ Nix"
+  },
+  "categories": [
+    {
+      "name": "AI / LLM / Agent",
+      "emoji": "🤖",
+      "id": "cat-ai",
+      "keywords": [
+        "ai", "artificial-intelligence", "llm", "llms", "gpt", "chatgpt", "openai",
+        "claude", "gemini", "llama", "mistral", "agent", "agents", "agentic",
+        "langchain", "llamaindex", "rag", "retrieval-augmented-generation",
+        "prompt-engineering", "prompts", "diffusion", "stable-diffusion",
+        "image-generation", "transformers", "embedding", "embeddings",
+        "vector-database", "vector-search", "mcp", "model-context-protocol",
+        "machine-learning", "deep-learning", "neural-network", "pytorch",
+        "tensorflow", "jax", "computer-vision", "nlp",
+        "natural-language-processing", "speech", "whisper", "tts",
+        "fine-tuning", "inference", "ollama", "vllm", "huggingface"
+      ]
+    },
+    {
+      "name": "运筹优化 / 科学计算",
+      "emoji": "🧮",
+      "id": "cat-or",
+      "keywords": [
+        "optimization", "operations-research", "or", "or-tools",
+        "linear-programming", "integer-programming",
+        "mixed-integer-programming", "milp", "mip", "solver", "solvers",
+        "gurobi", "cplex", "scip", "highs", "pulp", "pyomo", "cvxpy",
+        "convex-optimization", "facility-location", "lot-sizing", "scheduling",
+        "routing", "vehicle-routing", "heuristics", "metaheuristics",
+        "simulation", "simplex", "column-generation", "branch-and-bound",
+        "constraint-programming", "minizinc", "ampl", "jump",
+        "graph-algorithms", "combinatorial-optimization"
+      ]
+    },
+    {
+      "name": "科研 / 论文工具",
+      "emoji": "🔬",
+      "id": "cat-research",
+      "keywords": [
+        "research", "paper", "papers", "arxiv", "latex", "typst", "citation",
+        "bibliography", "zotero", "academic", "scientific", "science", "math",
+        "mathematics", "statistics", "symbolic-math", "sympy", "reproducible-research",
+        "peer-review", "thesis", "dissertation"
+      ]
+    },
+    {
+      "name": "数据 / 可视化",
+      "emoji": "📊",
+      "id": "cat-data",
+      "keywords": [
+        "data-science", "data-analysis", "data-visualization", "visualization",
+        "dataviz", "charts", "plotting", "d3", "plotly", "matplotlib", "seaborn",
+        "altair", "jupyter", "jupyter-notebook", "notebooks", "pandas", "polars",
+        "dataframe", "sql", "database", "postgres", "sqlite", "duckdb", "parquet",
+        "etl", "data-engineering", "streamlit", "dashboard", "dashboards",
+        "analytics", "spreadsheet", "excel", "csv"
+      ]
+    },
+    {
+      "name": "前端 / Web",
+      "emoji": "🌐",
+      "id": "cat-web",
+      "keywords": [
+        "web", "frontend", "front-end", "javascript", "typescript", "react",
+        "reactjs", "vue", "vuejs", "svelte", "nextjs", "next.js", "nuxt", "astro",
+        "remix", "nodejs", "node", "deno", "bun", "css", "tailwindcss", "tailwind",
+        "html", "web-components", "browser", "pwa", "threejs", "webgl", "wasm",
+        "webassembly", "vite", "webpack", "express", "hono", "django", "fastapi",
+        "flask", "rails", "laravel"
+      ]
+    },
+    {
+      "name": "开发工具 / 效率",
+      "emoji": "🛠️",
+      "id": "cat-tools",
+      "keywords": [
+        "cli", "command-line", "terminal", "shell", "bash", "zsh", "fish", "tmux",
+        "git", "dotfiles", "vim", "neovim", "emacs", "vscode", "vscode-extension",
+        "editor", "ide", "productivity", "automation", "workflow", "github-actions",
+        "ci", "cd", "testing", "test", "debugging", "linter", "formatter", "api",
+        "http", "https", "curl", "macos", "homebrew", "raycast", "alfred"
+      ]
+    },
+    {
+      "name": "云 / DevOps",
+      "emoji": "☁️",
+      "id": "cat-infra",
+      "keywords": [
+        "cloud", "aws", "azure", "gcp", "google-cloud", "serverless",
+        "infrastructure", "infrastructure-as-code", "terraform", "ansible",
+        "kubernetes", "k8s", "docker", "container", "containers", "self-hosted",
+        "homelab", "nginx", "linux", "networking", "vpn", "proxy", "hosting",
+        "deployment", "devops", "observability", "monitoring", "prometheus",
+        "grafana", "cloudflare"
+      ]
+    },
+    {
+      "name": "安全 / 隐私",
+      "emoji": "🔒",
+      "id": "cat-security",
+      "keywords": [
+        "security", "cybersecurity", "infosec", "privacy", "encryption",
+        "cryptography", "authentication", "authorization", "oauth", "auth",
+        "password", "passwords", "pentest", "penetration-testing", "malware",
+        "reverse-engineering", "vulnerability", "cve", "fuzzing", "sandbox",
+        "zero-trust"
+      ]
+    },
+    {
+      "name": "移动 / 桌面",
+      "emoji": "📱",
+      "id": "cat-mobile",
+      "keywords": [
+        "android", "ios", "swift", "swiftui", "objective-c", "flutter", "dart",
+        "react-native", "expo", "electron", "tauri", "macos-app", "desktop",
+        "desktop-app", "mobile", "app", "ios-app", "android-app", "kotlin",
+        "jetpack-compose"
+      ]
+    },
+    {
+      "name": "写作 / 知识管理",
+      "emoji": "✍️",
+      "id": "cat-writing",
+      "keywords": [
+        "writing", "markdown", "notes", "note-taking", "notes-app", "obsidian",
+        "notion", "logseq", "roam", "knowledge-base", "documentation", "docs",
+        "wiki", "blog", "blogging", "static-site-generator", "hugo", "jekyll",
+        "pdf", "ebook", "pkm", "second-brain", "zettelkasten"
+      ]
+    },
+    {
+      "name": "设计 / 创意",
+      "emoji": "🎨",
+      "id": "cat-design",
+      "keywords": [
+        "design", "ui", "ux", "figma", "icons", "icon", "fonts", "font",
+        "typography", "animation", "animations", "graphics", "creative-coding",
+        "generative-art", "image", "images", "video", "audio", "ffmpeg", "color",
+        "color-palette", "logo", "svg", "css-art", "shaders"
+      ]
+    },
+    {
+      "name": "学习资源 / Awesome",
+      "emoji": "📚",
+      "id": "cat-learning",
+      "keywords": [
+        "awesome", "awesome-list", "awesome-lists", "tutorial", "tutorials",
+        "roadmap", "learning", "learn", "course", "courses", "books", "book",
+        "interview", "interview-questions", "cheatsheet", "cheat-sheets", "guide",
+        "guides", "examples", "resources", "curated-list", "education",
+        "programming-exercises"
+      ]
+    },
+    {
+      "name": "游戏 / 趣味",
+      "emoji": "🎮",
+      "id": "cat-game",
+      "keywords": [
+        "game", "games", "gamedev", "game-development", "game-engine", "unity",
+        "unreal-engine", "godot", "emulator", "emulators", "minecraft", "chess",
+        "fun", "playground", "toy"
+      ]
+    }
+  ]
+}
