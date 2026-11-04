@@ -4,13 +4,14 @@
 
 > 把 star 过的项目整理成可检索的索引，每天自动同步。
 >
-> 自动整理自 [@husuxin 的 Stars](https://github.com/husuxin?tab=stars)，共 **61** 个仓库 · **13** 种语言 · 累计 **★ 1.9M**
-> 上次同步：**2026-11-05 00:09**（UTC+8，每天自动更新）
+> 自动整理自 [@husuxin 的 Stars](https://github.com/husuxin?tab=stars)，共 **62** 个仓库 · **13** 种语言 · 累计 **★ 1.9M**
+> 上次同步：**2026-11-05 00:27**（UTC+8，每天自动更新）
 
 [GitHub Stars](https://github.com/husuxin?tab=stars) · [🔍 在线搜索](https://husuxin.github.io/my-stars/) · [🛠️ 维护说明](#maintenance)
 
 ## 🕘 最近收藏 · 15
 
+- [**datawhalechina/pumpkin-book**](https://github.com/datawhalechina/pumpkin-book) — 南瓜书：《机器学习》（西瓜书）公式详解 · ★ 26k · 2026-11-04
 - [**datawhalechina/machine-learning-toy-code**](https://github.com/datawhalechina/machine-learning-toy-code) — 《机器学习》（西瓜书）代码实战 · `Jupyter Notebook` · ★ 1k · 2026-11-04
 - [**qwdwqfwq/topconf-paper-figure-gallery**](https://github.com/qwdwqfwq/topconf-paper-figure-gallery) — 3,516 curated Figure 1 / teasers from ICLR, ICML, NeurIPS, CVPR, ACL, AAAI (2023-2026), with tier badges and FigureForge retrieval-augmented figure drafting · `JavaScript` · ★ 1.4k · 2026-11-04
 - [**billryan/resume**](https://github.com/billryan/resume) — An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git · `TeX` · ★ 12k · 2026-11-03
@@ -18,14 +19,13 @@
 - [**HKUDS/Vibe-Trading**](https://github.com/HKUDS/Vibe-Trading) — "Vibe-Trading: Your Personal Trading Agent" · `Python` · ★ 38k · 2026-10-31
 - [**MorvanZhou/agentup**](https://github.com/MorvanZhou/agentup) — Use AI the way you use WhatsApp 像微信一样用 ai agents · `TypeScript` · ★ 7 · 2026-10-29
 - [**aa1143/NamiGPT**](https://github.com/aa1143/NamiGPT) — 零基础入门大模型（LLM）的基础教程：从零手写 GPT-2，一行行看懂大模型是怎么工作的 | Build GPT-2 from scratch in PyTorch, step by step · `Python` · ★ 181 · 2026-10-28
-- [**Xiaoc7r/DOVideo-AI**](https://github.com/Xiaoc7r/DOVideo-AI) — 一个面向长视频内容理解的 Video Agent 平台。 · `Java` · ★ 455 · 2026-10-28
+- [**Xiaoc7r/DOVideo-AI**](https://github.com/Xiaoc7r/DOVideo-AI) — 一个面向长视频内容理解的 Video Agent 平台。 · `Java` · ★ 456 · 2026-10-28
 - [**Licht123/-**](https://github.com/Licht123/-) — 秋招投递记录和面试经验 · ★ 10 · 2026-10-26
 - [**Adkid-Zephyr/anti-defensive-writing-Skill**](https://github.com/Adkid-Zephyr/anti-defensive-writing-Skill) — 极致轻量｜阻止论文的防御性写作 | Anti-defensive writing for academic papers — 学术写作原则 Skill + prompt pack (CN/EN) · `Python` · ★ 5.1k · 2026-10-19
 - [**alchaincyf/huashu-skills**](https://github.com/alchaincyf/huashu-skills) — 花叔全部开源 Agent Skills 总目录：16 旗舰 + 14 人物视角 + 22 内置共 52 个 skill，分层分类 + AI Agent 安装协议 + 机器可读 skills.json + 更新检查机制 · `Python` · ★ 2.2k · 2026-10-14
 - [**jiarui-liu/IdeaScientist**](https://github.com/jiarui-liu/IdeaScientist) — `Python` · ★ 333 · 2026-10-13
 - [**feiniaoyun/feiniaoyun**](https://github.com/feiniaoyun/feiniaoyun) — ★ 2.6k · 2026-10-10
 - [**eternity4719/HowToLiveBetter**](https://github.com/eternity4719/HowToLiveBetter) — 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 · `HTML` · ★ 73k · 2026-10-06
-- [**LingxiaoWu2021/VSPP**](https://github.com/LingxiaoWu2021/VSPP) — This repository contains the instances and code used in our paper "Vessel Service Planning in Seaports". · `C++` · ★ 17 · 2026-10-05
 
 ## 🎲 遗忘角落
 
@@ -40,7 +40,7 @@
 
 ## 🧭 分类索引
 
-- [🤖 AI / LLM / Agent](#cat-ai) · 19
+- [🤖 AI / LLM / Agent](#cat-ai) · 20
 - [🧮 运筹优化 / 科学计算](#cat-or) · 9
 - [🔬 科研 / 论文工具](#cat-research) · 3
 - [📊 数据 / 可视化](#cat-data) · 1
@@ -55,7 +55,7 @@
 - [📓 Jupyter Notebook](#lang-jupyter-notebook) · 2
 
 <a name="cat-ai"></a>
-## 🤖 AI / LLM / Agent · 19
+## 🤖 AI / LLM / Agent · 20
 
 - [**openclaw/openclaw**](https://github.com/openclaw/openclaw) — The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 · `TypeScript` · ★ 394k · 2026-03-13
 - [**anthropics/skills**](https://github.com/anthropics/skills) — Public repository for Agent Skills · `Python` · ★ 187k · 2026-06-03
@@ -65,13 +65,14 @@
 - [**HKUDS/Vibe-Trading**](https://github.com/HKUDS/Vibe-Trading) — "Vibe-Trading: Your Personal Trading Agent" · `Python` · ★ 38k · 2026-10-31
 - [**openai/gym**](https://github.com/openai/gym) 🗄️ — A toolkit for developing and comparing reinforcement learning algorithms. · `Python` · ★ 37k · 2025-06-28
 - [**openai/skills**](https://github.com/openai/skills) — Skills Catalog for Codex · `Python` · ★ 29k · 2026-06-03
+- [**datawhalechina/pumpkin-book**](https://github.com/datawhalechina/pumpkin-book) — 南瓜书：《机器学习》（西瓜书）公式详解 · ★ 26k · 2026-11-04
 - [**tanweai/pua**](https://github.com/tanweai/pua) — 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。 一个agent使用的高能动性的skill。 Your AI has been placed on a PIP. 30 days to show improvement. · `Python` · ★ 20k · 2026-03-13
 - [**OpenByteInc/QuantDinger**](https://github.com/OpenByteInc/QuantDinger) — Open-source AI Trading OS, agent trading, and vibe trading, with Jev System One integration. Research, build Python strategies, backtest, and paper/live trade… · `Python` · ★ 14k · 2026-06-02
 - [**greyhatguy007/Machine-Learning-Specialization-Coursera**](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera) — Contains Solutions and Notes for the Machine Learning Specialization By Stanford University and Deeplearning.ai - Coursera (2022) by Prof. Andrew NG · `Jupyter Notebook` · ★ 8.2k · 2025-08-01
 - [**alchaincyf/huashu-skills**](https://github.com/alchaincyf/huashu-skills) — 花叔全部开源 Agent Skills 总目录：16 旗舰 + 14 人物视角 + 22 内置共 52 个 skill，分层分类 + AI Agent 安装协议 + 机器可读 skills.json + 更新检查机制 · `Python` · ★ 2.2k · 2026-10-14
 - [**qwdwqfwq/topconf-paper-figure-gallery**](https://github.com/qwdwqfwq/topconf-paper-figure-gallery) — 3,516 curated Figure 1 / teasers from ICLR, ICML, NeurIPS, CVPR, ACL, AAAI (2023-2026), with tier badges and FigureForge retrieval-augmented figure drafting · `JavaScript` · ★ 1.4k · 2026-11-04
 - [**datawhalechina/machine-learning-toy-code**](https://github.com/datawhalechina/machine-learning-toy-code) — 《机器学习》（西瓜书）代码实战 · `Jupyter Notebook` · ★ 1k · 2026-11-04
-- [**Xiaoc7r/DOVideo-AI**](https://github.com/Xiaoc7r/DOVideo-AI) — 一个面向长视频内容理解的 Video Agent 平台。 · `Java` · ★ 455 · 2026-10-28
+- [**Xiaoc7r/DOVideo-AI**](https://github.com/Xiaoc7r/DOVideo-AI) — 一个面向长视频内容理解的 Video Agent 平台。 · `Java` · ★ 456 · 2026-10-28
 - [**ai-for-decision-making-tue/Job_Shop_Scheduling_Benchmark_Environments_and_Instances**](https://github.com/ai-for-decision-making-tue/Job_Shop_Scheduling_Benchmark_Environments_and_Instances) — A benchmarking repo with various solution methods to various machine scheduling problems · `Jupyter Notebook` · ★ 218 · 2025-04-04
 - [**aa1143/NamiGPT**](https://github.com/aa1143/NamiGPT) — 零基础入门大模型（LLM）的基础教程：从零手写 GPT-2，一行行看懂大模型是怎么工作的 | Build GPT-2 from scratch in PyTorch, step by step · `Python` · ★ 181 · 2026-10-28
 - [**JKZuo/Diff-DGMN**](https://github.com/JKZuo/Diff-DGMN) — Diff-DGMN: A Diffusion-based Dual Graph Multi-attention Network for POI Recommendation · `Python` · ★ 151 · 2025-03-28

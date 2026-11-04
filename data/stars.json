@@ -1,11 +1,11 @@
 {
   "login": "husuxin",
-  "generated_at": "2026-11-05T00:09+08:00",
-  "count": 61,
+  "generated_at": "2026-11-05T00:27+08:00",
+  "count": 62,
   "categories": [
     {
       "heading": "🤖 AI / LLM / Agent",
-      "count": 19
+      "count": 20
     },
     {
       "heading": "🧮 运筹优化 / 科学计算",
@@ -57,6 +57,24 @@
     }
   ],
   "stars": [
+    {
+      "full_name": "datawhalechina/pumpkin-book",
+      "url": "https://github.com/datawhalechina/pumpkin-book",
+      "description": "南瓜书：《机器学习》（西瓜书）公式详解",
+      "language": "",
+      "topics": [
+        "book",
+        "machine-learning",
+        "pumpkin-book"
+      ],
+      "stars": 26150,
+      "forks": 4781,
+      "archived": false,
+      "homepage": "",
+      "starred_at": "2026-11-04T16:12:11Z",
+      "category": "🤖 AI / LLM / Agent",
+      "note": ""
+    },
     {
       "full_name": "datawhalechina/machine-learning-toy-code",
       "url": "https://github.com/datawhalechina/machine-learning-toy-code",
@@ -213,7 +231,7 @@
       "description": "一个面向长视频内容理解的 Video Agent 平台。",
       "language": "Java",
       "topics": [],
-      "stars": 455,
+      "stars": 456,
       "forks": 57,
       "archived": false,
       "homepage": "",
@@ -267,7 +285,7 @@
         "claude-code",
         "skills"
       ],
-      "stars": 2201,
+      "stars": 2202,
       "forks": 303,
       "archived": false,
       "homepage": "",
@@ -309,7 +327,7 @@
       "description": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
       "language": "HTML",
       "topics": [],
-      "stars": 73389,
+      "stars": 73392,
       "forks": 6447,
       "archived": false,
       "homepage": "https://eternity4719.github.io/HowToLiveBetter/",
@@ -406,7 +424,7 @@
         "nature",
         "nature-skills"
       ],
-      "stars": 52192,
+      "stars": 52196,
       "forks": 2721,
       "archived": false,
       "homepage": "",
@@ -659,7 +677,7 @@
       "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
       "language": "Jupyter Notebook",
       "topics": [],
-      "stars": 59136,
+      "stars": 59137,
       "forks": 7054,
       "archived": false,
       "homepage": "",
@@ -732,8 +750,8 @@
       "description": "The open agent skills tool - npx skills",
       "language": "TypeScript",
       "topics": [],
-      "stars": 38073,
-      "forks": 3305,
+      "stars": 38076,
+      "forks": 3306,
       "archived": false,
       "homepage": "https://skills.sh",
       "starred_at": "2026-06-03T17:32:51Z",
@@ -746,7 +764,7 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "topics": [],
-      "stars": 28515,
+      "stars": 28518,
       "forks": 1982,
       "archived": false,
       "homepage": "",
@@ -762,8 +780,8 @@
       "topics": [
         "agent-skills"
       ],
-      "stars": 187326,
-      "forks": 22102,
+      "stars": 187332,
+      "forks": 22104,
       "archived": false,
       "homepage": "",
       "starred_at": "2026-06-03T17:32:27Z",
@@ -818,7 +836,7 @@
         "own-your-data",
         "personal"
       ],
-      "stars": 393889,
+      "stars": 393891,
       "forks": 82785,
       "archived": false,
       "homepage": "https://openclaw.ai",
@@ -928,7 +946,7 @@
         "sorting-algorithms",
         "sorts"
       ],
-      "stars": 225866,
+      "stars": 225867,
       "forks": 51273,
       "archived": false,
       "homepage": "https://thealgorithms.github.io/Python/",
@@ -951,7 +969,7 @@
         "kmp",
         "leetcode"
       ],
-      "stars": 136026,
+      "stars": 136027,
       "forks": 23530,
       "archived": false,
       "homepage": "https://labuladong.online/",
@@ -1027,7 +1045,7 @@
       "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
       "language": "Python",
       "topics": [],
-      "stars": 37230,
+      "stars": 37231,
       "forks": 8666,
       "archived": true,
       "homepage": "https://www.gymlibrary.dev",
@@ -1152,7 +1170,7 @@
         "rlhf",
         "transformers"
       ],
-      "stars": 75886,
+      "stars": 75887,
       "forks": 9340,
       "archived": false,
       "homepage": "https://llamafactory.readthedocs.io",
@@ -1166,7 +1184,7 @@
       "description": "科技爱好者周刊，每周五发布",
       "language": "",
       "topics": [],
-      "stars": 107610,
+      "stars": 107612,
       "forks": 4568,
       "archived": false,
       "homepage": "",
@@ -1185,7 +1203,7 @@
         "hellogithub",
         "python"
       ],
-      "stars": 186839,
+      "stars": 186844,
       "forks": 13198,
       "archived": false,
       "homepage": "https://hellogithub.com",
