@@ -5,7 +5,7 @@
 > 把 star 过的项目整理成可检索的索引，每天自动同步。
 >
 > 自动整理自 [@husuxin 的 Stars](https://github.com/husuxin?tab=stars)，共 **62** 个仓库 · **13** 种语言 · 累计 **★ 1.9M**
-> 上次同步：**2026-11-05 13:00**（UTC+8，每天自动更新）
+> 上次同步：**2026-11-05 17:39**（UTC+8，每天自动更新）
 
 [GitHub Stars](https://github.com/husuxin?tab=stars) · [🔍 在线搜索](https://husuxin.github.io/my-stars/) · [🛠️ 维护说明](#maintenance)
 
@@ -18,12 +18,12 @@
 - [**geekcompany/ResumeSample**](https://github.com/geekcompany/ResumeSample) — 📝 程序员中文简历模板合集，按岗位分册 · Resume template for Chinese programmers… · ★ 28k · 2026-11-03
 - [**HKUDS/Vibe-Trading**](https://github.com/HKUDS/Vibe-Trading) — 📝 个人交易 Agent，LLM 做量化交易的一个样本 · "Vibe-Trading: Your Personal Trading Agent" · `Python` · ★ 38k · 2026-10-31
 - [**MorvanZhou/agentup**](https://github.com/MorvanZhou/agentup) — 📝 把 AI 助手当联系人用的桌面应用 · Use AI the way you use WhatsApp 像微信一样用 ai agents · `TypeScript` · ★ 7 · 2026-10-29
-- [**aa1143/NamiGPT**](https://github.com/aa1143/NamiGPT) — 📝 从零手写 GPT-2 的中文教程，看底层实现 · 零基础入门大模型（LLM）的基础教程：从零手写 GPT-2，一行行看懂大模型是怎么工作的 | Build GPT-2 from scratch in PyTorch, step by step · `Python` · ★ 183 · 2026-10-28
-- [**Xiaoc7r/DOVideo-AI**](https://github.com/Xiaoc7r/DOVideo-AI) — 📝 长视频理解 Video Agent 平台，视频 RAG 参考 · 一个面向长视频内容理解的 Video Agent 平台。 · `Java` · ★ 456 · 2026-10-28
+- [**aa1143/NamiGPT**](https://github.com/aa1143/NamiGPT) — 📝 从零手写 GPT-2 的中文教程，看底层实现 · 零基础入门大模型（LLM）的基础教程：从零手写 GPT-2，一行行看懂大模型是怎么工作的 | Build GPT-2 from scratch in PyTorch, step by step · `Python` · ★ 185 · 2026-10-28
+- [**Xiaoc7r/DOVideo-AI**](https://github.com/Xiaoc7r/DOVideo-AI) — 📝 长视频理解 Video Agent 平台，视频 RAG 参考 · 一个面向长视频内容理解的 Video Agent 平台。 · `Java` · ★ 457 · 2026-10-28
 - [**Licht123/-**](https://github.com/Licht123/-) — 📝 秋招运筹优化岗面经，含美团、淘天题型 · 秋招投递记录和面试经验 · ★ 10 · 2026-10-26
-- [**Adkid-Zephyr/anti-defensive-writing-Skill**](https://github.com/Adkid-Zephyr/anti-defensive-writing-Skill) — 📝 论文防防御性写作 Skill，改语气和措辞时参考 · 极致轻量｜阻止论文的防御性写作 | Anti-defensive writing for academic papers — 学术写作原则 Skill + prompt pack (CN/EN) · `Python` · ★ 5.1k · 2026-10-19
+- [**Adkid-Zephyr/anti-defensive-writing-Skill**](https://github.com/Adkid-Zephyr/anti-defensive-writing-Skill) — 📝 论文防防御性写作 Skill，改语气和措辞时参考 · 极致轻量｜阻止论文的防御性写作 | Anti-defensive writing for academic papers — 学术写作原则 Skill + prompt pack (CN/EN) · `Python` · ★ 5.2k · 2026-10-19
 - [**alchaincyf/huashu-skills**](https://github.com/alchaincyf/huashu-skills) — 📝 花叔的 Agent Skills 合集，中文技能包参考 · 花叔全部开源 Agent Skills 总目录：16 旗舰 + 14 人物视角 + 22 内置共 52 个 skill，分层分类 + AI Agent 安装协议 + 机器可读 skills.json + 更新检查机制 · `Python` · ★ 2.2k · 2026-10-14
-- [**jiarui-liu/IdeaScientist**](https://github.com/jiarui-liu/IdeaScientist) — 📝 多 Agent 科研选题：找 gap、迁移机制、写报告 · `Python` · ★ 334 · 2026-10-13
+- [**jiarui-liu/IdeaScientist**](https://github.com/jiarui-liu/IdeaScientist) — 📝 多 Agent 科研选题：找 gap、迁移机制、写报告 · `Python` · ★ 336 · 2026-10-13
 - [**feiniaoyun/feiniaoyun**](https://github.com/feiniaoyun/feiniaoyun) — 📝 机场防失联发布页，纯信息页 · ★ 2.6k · 2026-10-10
 - [**eternity4719/HowToLiveBetter**](https://github.com/eternity4719/HowToLiveBetter) — 📝 生活决策指南，每条给成本、收益和证据来源 · 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 · `HTML` · ★ 74k · 2026-10-06
 
@@ -58,7 +58,7 @@
 ## 🤖 AI / LLM / Agent · 20
 
 - [**openclaw/openclaw**](https://github.com/openclaw/openclaw) — 📝 自托管 AI 助手，一个网关接入多种聊天工具 · The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 · `TypeScript` · ★ 394k · 2026-03-13
-- [**anthropics/skills**](https://github.com/anthropics/skills) — 📝 Anthropic 官方 Skills 示例，写自定义技能先看这里 · Public repository for Agent Skills · `Python` · ★ 187k · 2026-06-03
+- [**anthropics/skills**](https://github.com/anthropics/skills) — 📝 Anthropic 官方 Skills 示例，写自定义技能先看这里 · Public repository for Agent Skills · `Python` · ★ 188k · 2026-06-03
 - [**hiyouga/LlamaFactory**](https://github.com/hiyouga/LlamaFactory) — 📝 统一微调 100+ LLM/VLM 的框架，LoRA 全参都支持 · Unified Efficient Fine-Tuning of 100+ LLMs &amp; VLMs (ACL 2024) · `Python` · ★ 76k · 2025-03-31
 - [**Lordog/dive-into-llms**](https://github.com/Lordog/dive-into-llms) — 📝 动手学大模型系列教程，系统过一遍 LLM 基础 · 《动手学大模型Dive into LLMs》系列编程实践教程 · `Jupyter Notebook` · ★ 59k · 2026-06-17
 - [**vercel-labs/skills**](https://github.com/vercel-labs/skills) — 📝 npx skills：安装和管理 Agent 技能包的命令行工具 · The open agent skills tool - npx skills · `TypeScript` · ★ 38k · 2026-06-03
@@ -72,9 +72,9 @@
 - [**alchaincyf/huashu-skills**](https://github.com/alchaincyf/huashu-skills) — 📝 花叔的 Agent Skills 合集，中文技能包参考 · 花叔全部开源 Agent Skills 总目录：16 旗舰 + 14 人物视角 + 22 内置共 52 个 skill，分层分类 + AI Agent 安装协议 + 机器可读 skills.json + 更新检查机制 · `Python` · ★ 2.2k · 2026-10-14
 - [**qwdwqfwq/topconf-paper-figure-gallery**](https://github.com/qwdwqfwq/topconf-paper-figure-gallery) — 📝 顶会论文 Figure 1 灵感库，科研绘图参考 · 3,516 curated Figure 1 / teasers from ICLR, ICML, NeurIPS, CVPR, ACL, AAAI (2023-2026), with tier badges and FigureForge retrieval-augmented figure drafting · `JavaScript` · ★ 1.4k · 2026-11-04
 - [**datawhalechina/machine-learning-toy-code**](https://github.com/datawhalechina/machine-learning-toy-code) — 📝 西瓜书配套代码，公式和实现对照看 · 《机器学习》（西瓜书）代码实战 · `Jupyter Notebook` · ★ 1k · 2026-11-04
-- [**Xiaoc7r/DOVideo-AI**](https://github.com/Xiaoc7r/DOVideo-AI) — 📝 长视频理解 Video Agent 平台，视频 RAG 参考 · 一个面向长视频内容理解的 Video Agent 平台。 · `Java` · ★ 456 · 2026-10-28
+- [**Xiaoc7r/DOVideo-AI**](https://github.com/Xiaoc7r/DOVideo-AI) — 📝 长视频理解 Video Agent 平台，视频 RAG 参考 · 一个面向长视频内容理解的 Video Agent 平台。 · `Java` · ★ 457 · 2026-10-28
 - [**ai-for-decision-making-tue/Job_Shop_Scheduling_Benchmark_Environments_and_Instances**](https://github.com/ai-for-decision-making-tue/Job_Shop_Scheduling_Benchmark_Environments_and_Instances) — 📝 车间调度基准算例与多种求解方法，做对比实验用 · A benchmarking repo with various solution methods to various machine scheduling problems · `Jupyter Notebook` · ★ 218 · 2025-04-04
-- [**aa1143/NamiGPT**](https://github.com/aa1143/NamiGPT) — 📝 从零手写 GPT-2 的中文教程，看底层实现 · 零基础入门大模型（LLM）的基础教程：从零手写 GPT-2，一行行看懂大模型是怎么工作的 | Build GPT-2 from scratch in PyTorch, step by step · `Python` · ★ 183 · 2026-10-28
+- [**aa1143/NamiGPT**](https://github.com/aa1143/NamiGPT) — 📝 从零手写 GPT-2 的中文教程，看底层实现 · 零基础入门大模型（LLM）的基础教程：从零手写 GPT-2，一行行看懂大模型是怎么工作的 | Build GPT-2 from scratch in PyTorch, step by step · `Python` · ★ 185 · 2026-10-28
 - [**JKZuo/Diff-DGMN**](https://github.com/JKZuo/Diff-DGMN) — 📝 扩散模型 + 双图注意力的 POI 推荐 · Diff-DGMN: A Diffusion-based Dual Graph Multi-attention Network for POI Recommendation · `Python` · ★ 151 · 2025-03-28
 - [**MorvanZhou/agentup**](https://github.com/MorvanZhou/agentup) — 📝 把 AI 助手当联系人用的桌面应用 · Use AI the way you use WhatsApp 像微信一样用 ai agents · `TypeScript` · ★ 7 · 2026-10-29
 
@@ -95,7 +95,7 @@
 ## 🔬 科研 / 论文工具 · 3
 
 - [**billryan/resume**](https://github.com/billryan/resume) — 📝 LaTeX 简历模板，排版干净，支持中文 · An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git · `TeX` · ★ 12k · 2026-11-03
-- [**Adkid-Zephyr/anti-defensive-writing-Skill**](https://github.com/Adkid-Zephyr/anti-defensive-writing-Skill) — 📝 论文防防御性写作 Skill，改语气和措辞时参考 · 极致轻量｜阻止论文的防御性写作 | Anti-defensive writing for academic papers — 学术写作原则 Skill + prompt pack (CN/EN) · `Python` · ★ 5.1k · 2026-10-19
+- [**Adkid-Zephyr/anti-defensive-writing-Skill**](https://github.com/Adkid-Zephyr/anti-defensive-writing-Skill) — 📝 论文防防御性写作 Skill，改语气和措辞时参考 · 极致轻量｜阻止论文的防御性写作 | Anti-defensive writing for academic papers — 学术写作原则 Skill + prompt pack (CN/EN) · `Python` · ★ 5.2k · 2026-10-19
 - [**LingxiaoWu2021/VSPP**](https://github.com/LingxiaoWu2021/VSPP) — 📝 港口船舶服务规划论文的算例与代码 · This repository contains the instances and code used in our paper "Vessel Service Planning in Seaports". · `C++` · ★ 17 · 2026-10-05
 
 <a name="cat-data"></a>
@@ -111,7 +111,7 @@
 <a name="cat-tools"></a>
 ## 🛠️ 开发工具 / 效率 · 2
 
-- [**AlephAITech/DoubaoWorkGuide**](https://github.com/AlephAITech/DoubaoWorkGuide) — 📝 豆包工作流中文指南，Skills、连接器、多 Agent 示例 · 豆包工作系统化中文实践指南：教程、真实任务、Skills、连接器、自动化与多 Agent 工作流。 · `JavaScript` · ★ 233 · 2026-09-01
+- [**AlephAITech/DoubaoWorkGuide**](https://github.com/AlephAITech/DoubaoWorkGuide) — 📝 豆包工作流中文指南，Skills、连接器、多 Agent 示例 · 豆包工作系统化中文实践指南：教程、真实任务、Skills、连接器、自动化与多 Agent 工作流。 · `JavaScript` · ★ 235 · 2026-09-01
 - [**enginefuture/mac-gaming-uncle**](https://github.com/enginefuture/mac-gaming-uncle) — 📝 在 Mac 上跑 Windows 游戏的非商业工具 · Mac Gaming Uncle — a permanently noncommercial project making Windows gaming on Mac as simple as SteamOS. · `Swift` · ★ 44 · 2026-09-07
 
 <a name="cat-infra"></a>
@@ -131,7 +131,7 @@
 - [**TheAlgorithms/Python**](https://github.com/TheAlgorithms/Python) — 📝 Python 算法大全，查经典实现 · All Algorithms implemented in Python · `Python` · ★ 226k · 2025-12-29
 - [**521xueweihan/HelloGitHub**](https://github.com/521xueweihan/HelloGitHub) — 📝 每月一期的开源项目月刊，适合找入门项目 · :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. · `Python` · ★ 187k · 2025-03-28
 - [**labuladong/fucking-algorithm**](https://github.com/labuladong/fucking-algorithm) — 📝 labuladong 算法笔记，刷题和写题解参考 · Crack LeetCode, not only how, but also why. · `Markdown` · ★ 136k · 2025-12-14
-- [**LAMDA-NeSy/Research-Starter-Kit**](https://github.com/LAMDA-NeSy/Research-Starter-Kit) — 📝 从零学做科研、写论文的流程指南 · 从0开始，掌握做科研、写论文的基本流程。 · ★ 9.7k · 2026-10-02
+- [**LAMDA-NeSy/Research-Starter-Kit**](https://github.com/LAMDA-NeSy/Research-Starter-Kit) — 📝 从零学做科研、写论文的流程指南 · 从0开始，掌握做科研、写论文的基本流程。 · ★ 9.8k · 2026-10-02
 - [**SoYuCry/awesome-quant-interview**](https://github.com/SoYuCry/awesome-quant-interview) — 📝 量化面试八股与高频考点整理 · 量化金融八股文 | 55道高频考点 × 详细解答 | 数学统计 · Python/C++ · 因子与Alpha策略 · 机器学习/深度学习 | 面试 + 学习两用指南 · ★ 865 · 2026-06-16
 - [**JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA**](https://github.com/JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA) — 📝 行程时间与到达时间预测的论文清单 · A curated list/survey of/on Deep learning for Travel-Time-Estimation (TTE) &amp; Estimated Time of Arrival (ETA) · ★ 115 · 2025-03-28
 - [**SylvanasSun/algs4-study**](https://github.com/SylvanasSun/algs4-study) — 📝 《算法》第四版学习笔记与代码 · algorithms4 book study. · `Java` · ★ 7 · 2026-01-02
@@ -151,7 +151,7 @@
 
 - [**Yuan1z0825/nature-skills**](https://github.com/Yuan1z0825/nature-skills) — 📝 偏 Nature 风格的学术表达与科研绘图 Skill · 符合nature论文学术表达和科研绘图的Skill · `Python` · ★ 52k · 2026-09-15
 - [**EvoScientist/EvoSkills**](https://github.com/EvoScientist/EvoSkills) — 📝 EvoScientist 的可安装技能包，科研 Agent 扩展 · 🧬 Extend EvoScientist with Installable Skill &amp; Knowledge Packs · `Python` · ★ 484 · 2026-10-02
-- [**jiarui-liu/IdeaScientist**](https://github.com/jiarui-liu/IdeaScientist) — 📝 多 Agent 科研选题：找 gap、迁移机制、写报告 · `Python` · ★ 334 · 2026-10-13
+- [**jiarui-liu/IdeaScientist**](https://github.com/jiarui-liu/IdeaScientist) — 📝 多 Agent 科研选题：找 gap、迁移机制、写报告 · `Python` · ★ 336 · 2026-10-13
 - [**Aihong-Sun/MOEA-D-and-NSGA--for-FJSP**](https://github.com/Aihong-Sun/MOEA-D-and-NSGA--for-FJSP) — 📝 MOEA/D + NSGA-II 解多目标柔性车间调度 · this repo has use MOEA/D and NSGA-Ⅱ to solve multi-objective FJSP problem · `Python` · ★ 74 · 2025-04-04
 - [**RahulShagri/Interactive-Assembly-Line-Balancer**](https://github.com/RahulShagri/Interactive-Assembly-Line-Balancer) — 📝 装配线平衡的 Python GUI 小工具 · A python based GUI to solve simple assembly line balancing problems quickly. · `Python` · ★ 39 · 2025-05-18
 - [**NJUWallSpider/IECourseGuide**](https://github.com/NJUWallSpider/IECourseGuide) — 📝 南大工业工程课程指南，IE 学习路线和资料 · `Python` · ★ 34 · 2026-06-24

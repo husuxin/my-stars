@@ -36,7 +36,7 @@
   },
   "HKUDS/Vibe-Trading": {
     "excerpt": "English 中文 日本語 한국어 العربية Español Bahasa Indonesia Vibe-Trading: Your Personal Trading Agent One Command to Empower Your Agent with Comprehensive Trading Capabilities GitHub topic rankings by stars · Nov 4, 2026 1 Backtesting · 3 Algorithmic Trading · 4 Quantitative Finance Website · Docs · News · Features · Shadow Account · Demo · Quick Start · Examples · API / MCP · Roadmap · Contributors 📰 News 2026-11-04 📊 Gildata financial queries, stock screening and Shannon portfolio diagnosis — Screen stocks by market cap and retrieve their half-year revenue in one request, or inspect portfolio factor exposures and each holding’s contribution to volatility. All nine Gildata features are opt-in…",
-    "pushed_at": "2026-11-05T03:50:25Z",
+    "pushed_at": "2026-11-05T08:49:42Z",
     "v": 2
   },
   "Ixiaohuihuihui/Tiny-Defect-Detection-for-PCB": {
@@ -95,8 +95,8 @@
     "v": 2
   },
   "OpenByteInc/QuantDinger": {
-    "excerpt": "QuantDinger - Open-Source AI Quant Research Platform Turn trading ideas into Python strategies, backtests, paper trading, live execution, and monitoring — all in one self-hosted stack. QuantDinger is a product of Open Byte Inc. AI research → Strategy code → Backtest → Paper/Live execution → Monitoring English 简体中文 繁體中文 日本語 Deutsch Français Tiếng Việt API AI Agents & MCP Live App Website Deploy on AWS Marketplace Video Demo Official Support Email SUPPORTED BY Open Byte Inc. has joined NVIDIA Inception. Want to contribute? Explore the public roadmap or claim a scoped task from Ready for contributors. QuantDinger can submit real orders when live trading is explicitly enabled. Start with paper…",
-    "pushed_at": "2026-11-05T03:07:27Z",
+    "excerpt": "QuantDinger - Open-Source AI Quant Research Platform Turn trading ideas into Python strategies, backtests, paper trading, live execution, and monitoring — all in one self-hosted stack. QuantDinger is a product of Open Byte Inc. AI research → Strategy code → Backtest → Paper/Live execution → Monitoring 简体中文 繁體中文 Tiếng Việt API AI Agents & MCP Live App Website Deploy on AWS Marketplace Video Demo Official Support Email SUPPORTED BY Open Byte Inc. has joined NVIDIA Inception. Want to contribute? Explore the public roadmap or claim a scoped task from Ready for contributors. QuantDinger can submit real orders when live trading is explicitly enabled. Start with paper trading, use restricted API…",
+    "pushed_at": "2026-11-05T09:34:16Z",
     "v": 2
   },
   "RahulShagri/Interactive-Assembly-Line-Balancer": {
@@ -196,7 +196,7 @@
   },
   "eternity4719/HowToLiveBetter": {
     "excerpt": "高性价比人生指南 讲怎么活得久、怎么少生病，出了意外怎么救。讲怎么少花冤枉钱，哪些事会让人被骗、摊上官司。讲没工作没钱时能去领什么，开店、开公司、做网站要办什么手续。也讲恋爱结婚生孩子、出国和学手艺。法律、医保、社保这些制度上的内容，按中国大陆的现行规定写。 772 条建议，每条写明花掉什么、换回什么、证据有多硬，来源只引期刊论文和官方文件，少数官方不公开的案件引署名的原创新闻报道并附网页存档。 不用全做：这是一份备选单，不是任务清单——挑走一两条就算数，作者自己也没做到其中大部分。 书里的内容可能过时，也可能有错。不少政策各地执行不一样。真去办事、看病、打官司时，以当地部门、医生和律师的说法为准。发现写错了，欢迎提 issue。 电子书平台上的官方版本由果麦文化独家出品，2026 年 10 月上架，其他版本都不是官方的。本页的网页版、EPUB、PDF 照旧免费，更新也最快。 打开在线检索页 · 让 AI 照书回答（skill） AI 助手 skill 支持 Claude Code 和 Codex。装上后直接问「替朋友担保签不签」，它先查书里的条目再回答，并注明出自第几节第几条。 下载 PDF · EPUB · 离线单文件（HTML） · Anki 牌组 查阅 目录 · 术语表 · 核实记录 自查 生活自查：回答几十道是否题，看看书里哪些事你还没做到、先做哪几件 长文 结婚划不划算 · 家庭应急装备清单 · 遇到陌生人出事该不该停 · 做平台要办哪些证 · 生物钟和夜班 · 被裁了之后先做什么 · 孩子出生前后要办的事 · 刚确诊慢性病之后 · 换工作、换城市之前 交流 QQ…",
-    "pushed_at": "2026-11-04T06:35:44Z",
+    "pushed_at": "2026-11-05T07:22:40Z",
     "v": 2
   },
   "feiniaoyun/feiniaoyun": {
@@ -251,7 +251,7 @@
   },
   "openclaw/openclaw": {
     "excerpt": "OpenClaw 🦞 — Your assistant, on your devices, in your chats OpenClaw is an open-source AI assistant that runs on your own computer and meets you in the channels you already use: Discord, iMessage, Slack, Teams, Telegram, WhatsApp, and 20+ more, plus native apps for macOS, iOS, Android, Windows, and Linux. One Gateway runs it as a personal claw on a laptop or as a shared multiplayer claw; configuration is the only difference. Yours, with no catch. State, memory, and credentials live on your hardware. Models and agent harnesses (Claude, Codex, local models) are plugins you can swap without changing anything else. Your prompts go to the model provider and chat platforms you configure, plus any…",
-    "pushed_at": "2026-11-05T05:00:12Z",
+    "pushed_at": "2026-11-05T09:38:54Z",
     "v": 2
   },
   "qwdwqfwq/topconf-paper-figure-gallery": {
@@ -281,7 +281,7 @@
   },
   "vercel-labs/skills": {
     "excerpt": "skills The CLI for the open agent skills ecosystem. Agent skills are reusable instructions that teach coding agents how to perform tasks, from reviewing code to working with a library. Discover skills at skills.sh. Supports OpenCode, Claude Code, Codex, Cursor, and 75 more. Install a Skill Requires Node.js 22.20 or later. Run this from your project: Choose the skills and coding agents to install to. Skills are installed to the current project by default; add -g to make them available across projects. See the installation reference for source formats, private repositories, and all options. Other Commands Command Description npx skills find [query] Search for skills npx skills list List…",
-    "pushed_at": "2026-11-05T03:35:31Z",
+    "pushed_at": "2026-11-05T09:34:21Z",
     "v": 2
   },
   "wesm/pydata-book": {
