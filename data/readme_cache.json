@@ -251,7 +251,7 @@
   },
   "openclaw/openclaw": {
     "excerpt": "OpenClaw 🦞 — Your assistant, on your devices, in your chats OpenClaw is an open-source AI assistant that runs on your own computer and meets you in the channels you already use: Discord, iMessage, Slack, Teams, Telegram, WhatsApp, and 20+ more, plus native apps for macOS, iOS, Android, Windows, and Linux. One Gateway runs it as a personal claw on a laptop or as a shared multiplayer claw; configuration is the only difference. Yours, with no catch. State, memory, and credentials live on your hardware. Models and agent harnesses (Claude, Codex, local models) are plugins you can swap without changing anything else. Your prompts go to the model provider and chat platforms you configure, plus any…",
-    "pushed_at": "2026-11-05T04:50:59Z",
+    "pushed_at": "2026-11-05T04:57:12Z",
     "v": 2
   },
   "qwdwqfwq/topconf-paper-figure-gallery": {
