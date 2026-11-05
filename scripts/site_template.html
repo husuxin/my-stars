@@ -43,7 +43,7 @@
     -webkit-font-smoothing: antialiased;
   }
   a { color: inherit; }
-  .hero { max-width: 1280px; margin: 0 auto; padding: 60px 24px 24px; }
+  .hero { max-width: 1320px; margin: 0 auto; padding: 60px 24px 24px; }
   .eyebrow {
     font-size: 11px; letter-spacing: .18em; text-transform: uppercase;
     color: var(--muted); font-weight: 600;
@@ -53,7 +53,7 @@
     letter-spacing: -.025em; margin: 12px 0 12px;
   }
   h1 .star { color: var(--accent); margin-right: .08em; }
-  .sub { margin: 0 0 22px; max-width: 680px; color: var(--muted); font-size: 15px; }
+  .sub { margin: 0 0 22px; max-width: 720px; color: var(--muted); font-size: 15px; }
   .stats { display: flex; flex-wrap: wrap; gap: 8px; }
   .stat {
     background: var(--card); border: 1px solid var(--border);
@@ -66,7 +66,7 @@
   }
   .hero-links a { color: var(--accent); font-weight: 650; text-decoration: none; }
   .hero-links a:hover { text-decoration: underline; }
-  main { max-width: 1280px; margin: 0 auto; padding: 0 24px 64px; }
+  main { max-width: 1320px; margin: 0 auto; padding: 0 24px 64px; }
   .toolbar {
     position: sticky; top: 0; z-index: 20;
     display: flex; gap: 10px; flex-wrap: wrap; align-items: center;
@@ -112,28 +112,46 @@
   .chip.active { background: var(--text); color: var(--bg); border-color: var(--text); }
   .meta-row {
     display: flex; justify-content: space-between; align-items: center;
-    gap: 16px; flex-wrap: wrap;
-    padding: 12px 2px 10px; font-size: 12.5px; color: var(--muted);
+    gap: 12px 16px; flex-wrap: wrap;
+    padding: 12px 2px 6px; font-size: 12.5px; color: var(--muted);
   }
+  .meta-actions { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; }
   .switch { display: flex; align-items: center; gap: 7px; cursor: pointer; user-select: none; }
   .switch input { accent-color: var(--accent); }
+  .ghost {
+    background: none; border: 1px solid var(--border); border-radius: 999px;
+    padding: 4px 11px; font: inherit; font-size: 12px; color: var(--text);
+    cursor: pointer; transition: border-color .15s, color .15s;
+  }
+  .ghost:hover { border-color: var(--accent); color: var(--accent); }
+  .hint { margin: 0; padding: 2px 2px 12px; font-size: 12px; color: var(--muted); }
   .grid {
-    display: grid; gap: 14px;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    display: grid; gap: 14px; align-items: start;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
   }
   .card {
-    display: flex; flex-direction: column; gap: 10px; min-width: 0;
+    display: flex; flex-direction: column; gap: 9px; min-width: 0;
     padding: 16px; border: 1px solid var(--border); border-radius: 14px;
     background: var(--card); box-shadow: var(--shadow);
-    transition: transform .15s ease, border-color .15s ease;
+    scroll-margin-top: 92px;
+    transition: border-color .15s ease;
   }
-  .card:hover { transform: translateY(-2px); border-color: var(--accent); }
+  .card:hover { border-color: var(--accent); }
+  .card.open { border-color: var(--accent); }
+  .card.flash { animation: flash 1.6s ease; }
+  @keyframes flash {
+    0%, 100% { box-shadow: var(--shadow); }
+    30% { box-shadow: 0 0 0 3px var(--accent-soft), 0 0 0 1px var(--accent); }
+  }
   .card-top { display: flex; align-items: flex-start; justify-content: space-between; gap: 10px; }
   .repo {
-    font-size: 14.5px; font-weight: 650; letter-spacing: -.01em;
-    text-decoration: none; overflow-wrap: anywhere;
+    background: none; border: 0; padding: 0; margin: 0;
+    font: inherit; font-size: 14.5px; font-weight: 650; letter-spacing: -.01em;
+    color: inherit; text-align: left; cursor: pointer; overflow-wrap: anywhere;
   }
   .repo:hover { color: var(--accent); }
+  .repo::after { content: " ▾"; font-size: 10px; color: var(--muted); }
+  .card.open .repo::after { content: " ▴"; }
   .tags { flex: none; display: flex; align-items: center; gap: 5px; max-width: 48%; }
   .cat {
     font-size: 10.5px; color: var(--muted); border: 1px solid var(--border);
@@ -145,14 +163,29 @@
     border-radius: 5px; padding: 1px 5px; white-space: nowrap;
   }
   .desc {
-    margin: 0; color: var(--muted); font-size: 13px; overflow-wrap: anywhere;
+    margin: 0; color: var(--text); font-size: 13px; overflow-wrap: anywhere;
     display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
     overflow: hidden;
   }
+  .desc.empty { color: var(--muted); }
   .note {
     margin: 0; padding: 7px 9px; font-size: 12.5px;
     background: var(--accent-soft); border-left: 3px solid var(--accent);
     border-radius: 0 8px 8px 0; overflow-wrap: anywhere;
+  }
+  .excerpt {
+    margin: 0; padding: 1px 0 1px 10px; border-left: 2px solid var(--border);
+    display: flex; flex-direction: column; gap: 2px; min-width: 0;
+  }
+  .excerpt-tag {
+    font-size: 9.5px; letter-spacing: .14em; text-transform: uppercase;
+    color: var(--accent); font-weight: 700;
+  }
+  .excerpt-text {
+    margin: 0; color: var(--muted); font-size: 12.5px; line-height: 1.62;
+    overflow-wrap: anywhere;
+    display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+    overflow: hidden;
   }
   .topics { display: flex; flex-wrap: wrap; gap: 5px; }
   .topics span {
@@ -160,17 +193,55 @@
     border-radius: 6px; padding: 2px 7px;
   }
   .card-foot {
-    margin-top: auto; display: flex; align-items: center; gap: 10px;
+    display: flex; align-items: center; gap: 10px;
     font-size: 11.5px; color: var(--muted); font-variant-numeric: tabular-nums;
+    padding-top: 2px;
   }
   .lang { display: flex; align-items: center; gap: 5px; min-width: 0; }
   .lang span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
   .dot { width: 8px; height: 8px; border-radius: 50%; flex: none; }
   .stars { color: var(--accent); font-weight: 650; flex: none; }
   .when { margin-left: auto; flex: none; }
+  .card-actions {
+    display: flex; align-items: center; gap: 14px;
+    font-size: 12px; padding-top: 1px;
+  }
+  .link-btn {
+    background: none; border: 0; padding: 0; font: inherit; font-size: 12px;
+    color: var(--accent); font-weight: 650; cursor: pointer;
+  }
+  .link-btn:hover { text-decoration: underline; }
+  .gh-link {
+    margin-left: auto; color: var(--muted); text-decoration: none; font-size: 12px;
+  }
+  .gh-link:hover { color: var(--accent); text-decoration: underline; }
+  .details {
+    margin-top: 3px; padding-top: 12px; border-top: 1px dashed var(--border);
+    display: grid; gap: 11px; font-size: 12.5px;
+  }
+  .details[hidden] { display: none; }
+  .details h4 {
+    margin: 0 0 3px; font-size: 10.5px; letter-spacing: .12em;
+    text-transform: uppercase; color: var(--muted); font-weight: 700;
+  }
+  .details p { margin: 0; overflow-wrap: anywhere; }
+  .detail-readme { color: var(--muted); line-height: 1.7; }
+  .meta-grid {
+    margin: 0; display: grid; gap: 5px 16px;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .meta-grid div {
+    display: flex; justify-content: space-between; gap: 10px;
+    border-bottom: 1px dotted var(--border); padding-bottom: 2px;
+  }
+  .meta-grid dt { color: var(--muted); flex: none; }
+  .meta-grid dd { margin: 0; text-align: right; overflow-wrap: anywhere; }
+  .detail-links { display: flex; flex-wrap: wrap; gap: 6px 16px; }
+  .detail-links a { color: var(--accent); font-weight: 600; text-decoration: none; }
+  .detail-links a:hover { text-decoration: underline; }
   .empty { padding: 72px 20px; text-align: center; color: var(--muted); font-size: 14px; }
   footer {
-    max-width: 1280px; margin: 0 auto; padding: 24px;
+    max-width: 1320px; margin: 0 auto; padding: 24px;
     border-top: 1px solid var(--border); color: var(--muted); font-size: 12px;
     display: flex; justify-content: space-between; gap: 12px 20px; flex-wrap: wrap;
   }
@@ -180,7 +251,8 @@
     main { padding: 0 16px 48px; }
     .grid { grid-template-columns: 1fr; }
     select { flex: 1 1 auto; max-width: none; }
-    .when { display: none; }
+    .meta-grid { grid-template-columns: 1fr; }
+    .tags { max-width: 42%; }
   }
 </style>
 </head>
@@ -207,20 +279,25 @@
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
         <circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.5-3.5"></path>
       </svg>
-      <input id="search" type="search" placeholder="搜索仓库、描述、topic、笔记…（按 / 聚焦）" autocomplete="off">
+      <input id="search" type="search" placeholder="搜索仓库、描述、README 摘要、topic、笔记…（按 / 聚焦）" autocomplete="off">
     </div>
     <select id="language" aria-label="按语言筛选"><option value="all">全部语言</option></select>
     <select id="sort" aria-label="排序方式">
       <option value="stars">按 star 数排序</option>
       <option value="recent">按收藏时间排序</option>
+      <option value="updated">按最近更新排序</option>
       <option value="name">按名称排序</option>
     </select>
   </div>
   <div class="chips" id="chips"></div>
   <div class="meta-row">
     <span id="result-count"></span>
-    <label class="switch"><input type="checkbox" id="notes-only"> 只看有笔记</label>
+    <div class="meta-actions">
+      <label class="switch"><input type="checkbox" id="notes-only"> 只看有笔记</label>
+      <button type="button" class="ghost" id="random">🎲 随便看看</button>
+    </div>
   </div>
+  <p class="hint">点仓库名或「展开详情」可在本页查看 README 摘要和元数据，不会跳转。</p>
   <div class="grid" id="grid"></div>
   <div class="empty" id="empty" hidden>没有匹配的项目，换个关键词或分类试试。</div>
 </main>
@@ -251,10 +328,13 @@
   };
 
   var state = { q: "", cat: "all", lang: "all", sort: "stars", notes: false };
+  var expanded = {};
+  var currentList = [];
   var search = $("#search");
   var language = $("#language");
   var sort = $("#sort");
   var notesOnly = $("#notes-only");
+  var randomButton = $("#random");
   var chips = $("#chips");
   var grid = $("#grid");
   var empty = $("#empty");
@@ -272,13 +352,23 @@
     var k = n / 1000;
     return (k < 10 ? k.toFixed(1).replace(/\.0$/, "") : String(Math.round(k))) + "k";
   };
+  var day = function (value) {
+    return value ? String(value).slice(0, 10) : "";
+  };
+  var cardId = function (name) {
+    return "card-" + String(name).toLowerCase()
+      .replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
+  };
+  var isHTTP = function (value) {
+    return /^https?:\/\//i.test(String(value || ""));
+  };
 
   var langCounts = {};
   stars.forEach(function (star) {
     if (star.language) langCounts[star.language] = (langCounts[star.language] || 0) + 1;
     star._hay = [
-      star.full_name, star.description, star.language, star.note, star.category,
-      (star.topics || []).join(" ")
+      star.full_name, star.description, star.excerpt, star.language,
+      star.note, star.category, star.license, (star.topics || []).join(" ")
     ].join(" ").toLowerCase();
   });
 
@@ -325,7 +415,7 @@
     return option.value === state.lang;
   });
   if (!langExists) state.lang = "all";
-  if (["stars", "recent", "name"].indexOf(state.sort) === -1) state.sort = "stars";
+  if (["stars", "recent", "updated", "name"].indexOf(state.sort) === -1) state.sort = "stars";
 
   search.value = state.q;
   language.value = state.lang;
@@ -346,23 +436,63 @@
     window.history.replaceState(null, "", query ? "?" + query : window.location.pathname);
   }
 
+  function detailsHTML(star) {
+    var rows = [];
+    if (star.language) rows.push(["语言", escapeHTML(star.language)]);
+    rows.push(["Forks", formatStars(star.forks)]);
+    if (star.stars) rows.push(["Stars", formatStars(star.stars)]);
+    if (star.pushed_at) rows.push(["最近更新", escapeHTML(day(star.pushed_at))]);
+    if (star.starred_at) rows.push(["收藏于", escapeHTML(day(star.starred_at))]);
+    if (star.created_at) rows.push(["创建于", escapeHTML(day(star.created_at))]);
+    if (star.license) rows.push(["License", escapeHTML(star.license)]);
+    if (star.open_issues) rows.push(["开放 issue", String(star.open_issues)]);
+
+    var meta = rows.map(function (row) {
+      return "<div><dt>" + row[0] + "</dt><dd>" + row[1] + "</dd></div>";
+    }).join("");
+
+    var links = [];
+    if (isHTTP(star.homepage)) {
+      links.push('<a href="' + escapeHTML(star.homepage) + '" target="_blank" rel="noopener">项目主页 ↗</a>');
+    }
+    links.push('<a href="' + escapeHTML(star.url) + '" target="_blank" rel="noopener">在 GitHub 打开 ↗</a>');
+
+    return '<div class="details" hidden>' +
+      '<div><h4>完整描述</h4><p>' +
+        (star.description ? escapeHTML(star.description) : '<span class="desc empty">作者没有填写描述</span>') +
+      '</p></div>' +
+      '<div><h4>README 摘要</h4><p class="detail-readme">' +
+        (star.excerpt ? escapeHTML(star.excerpt) : "没有抓取到 README，可以点下方链接查看仓库原文。") +
+      '</p></div>' +
+      '<div><h4>仓库信息</h4><dl class="meta-grid">' + meta + '</dl></div>' +
+      '<div class="detail-links">' + links.join("") + '</div>' +
+    '</div>';
+  }
+
   function card(star) {
-    var topics = (star.topics || []).slice(0, 5);
+    var topics = (star.topics || []).slice(0, 6);
     var color = LANG_COLORS[star.language] || "#8b8b8b";
-    return '<article class="card">' +
+    var open = !!expanded[star.full_name];
+    var updated = day(star.pushed_at) || day(star.starred_at);
+    return '<article class="card' + (open ? " open" : "") + '" id="' + cardId(star.full_name) +
+        '" data-name="' + escapeHTML(star.full_name) + '">' +
       '<div class="card-top">' +
-        '<a class="repo" href="' + escapeHTML(star.url) + '" target="_blank" rel="noopener">' +
+        '<button type="button" class="repo" data-toggle aria-expanded="' + open + '">' +
           escapeHTML(star.full_name) +
-        '</a>' +
+        '</button>' +
         '<div class="tags">' +
           (star.category ? '<span class="cat" title="分类">' + escapeHTML(star.category) + '</span>' : '') +
           (star.archived ? '<span class="badge">已归档</span>' : '') +
         '</div>' +
       '</div>' +
-      (star.description
-        ? '<p class="desc">' + escapeHTML(star.description) + '</p>'
-        : '<p class="desc">暂无描述</p>') +
+      '<p class="desc' + (star.description ? '' : ' empty') + '">' +
+        escapeHTML(star.description || "暂无描述") +
+      '</p>' +
       (star.note ? '<p class="note">📝 ' + escapeHTML(star.note) + '</p>' : '') +
+      (star.excerpt
+        ? '<div class="excerpt"><span class="excerpt-tag">README</span>' +
+          '<p class="excerpt-text">' + escapeHTML(star.excerpt) + '</p></div>'
+        : '') +
       (topics.length
         ? '<div class="topics">' + topics.map(function (topic) {
             return '<span>' + escapeHTML(topic) + '</span>';
@@ -374,11 +504,32 @@
             escapeHTML(star.language) + '</span></span>'
           : '<span class="lang">—</span>') +
         '<span class="stars" title="GitHub stars">★ ' + formatStars(star.stars) + '</span>' +
-        (star.starred_at
-          ? '<span class="when" title="收藏时间">' + escapeHTML(star.starred_at.slice(0, 10)) + '</span>'
+        (updated
+          ? '<span class="when" title="最近更新时间">更新 ' + escapeHTML(updated) + '</span>'
           : '') +
       '</div>' +
+      '<div class="card-actions">' +
+        '<button type="button" class="link-btn" data-toggle aria-expanded="' + open + '">' +
+          (open ? "收起详情" : "展开详情") +
+        '</button>' +
+        '<a class="gh-link" href="' + escapeHTML(star.url) + '" target="_blank" rel="noopener">GitHub ↗</a>' +
+      '</div>' +
+      detailsHTML(star) +
     '</article>';
+  }
+
+  function setOpen(element, open) {
+    var details = element.querySelector(".details");
+    if (!details) return;
+    details.hidden = !open;
+    element.classList.toggle("open", open);
+    element.querySelectorAll("[data-toggle]").forEach(function (button) {
+      button.setAttribute("aria-expanded", open ? "true" : "false");
+    });
+    var label = element.querySelector(".link-btn");
+    if (label) label.textContent = open ? "收起详情" : "展开详情";
+    var name = element.dataset.name;
+    if (open) expanded[name] = true; else delete expanded[name];
   }
 
   function apply() {
@@ -394,10 +545,13 @@
       list.sort(function (a, b) { return (b.stars || 0) - (a.stars || 0); });
     } else if (state.sort === "recent") {
       list.sort(function (a, b) { return String(b.starred_at || "").localeCompare(String(a.starred_at || "")); });
+    } else if (state.sort === "updated") {
+      list.sort(function (a, b) { return String(b.pushed_at || "").localeCompare(String(a.pushed_at || "")); });
     } else {
       list.sort(function (a, b) { return a.full_name.toLowerCase().localeCompare(b.full_name.toLowerCase()); });
     }
 
+    currentList = list;
     var html = [];
     for (var i = 0; i < list.length; i++) html.push(card(list[i]));
     grid.innerHTML = html.join("");
@@ -442,6 +596,28 @@
     state.notes = notesOnly.checked;
     syncURL();
     apply();
+  });
+
+  grid.addEventListener("click", function (event) {
+    var toggle = event.target.closest("[data-toggle]");
+    if (!toggle) return;
+    var article = toggle.closest(".card");
+    if (article) setOpen(article, !article.classList.contains("open"));
+  });
+
+  randomButton.addEventListener("click", function () {
+    if (!currentList.length) return;
+    var pick = currentList[Math.floor(Math.random() * currentList.length)];
+    var element = document.getElementById(cardId(pick.full_name));
+    if (!element) {
+      apply();
+      element = document.getElementById(cardId(pick.full_name));
+    }
+    if (!element) return;
+    setOpen(element, true);
+    element.classList.add("flash");
+    element.scrollIntoView({ behavior: "smooth", block: "center" });
+    window.setTimeout(function () { element.classList.remove("flash"); }, 1700);
   });
 
   document.addEventListener("keydown", function (event) {

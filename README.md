@@ -5,7 +5,7 @@
 > 把 star 过的项目整理成可检索的索引，每天自动同步。
 >
 > 自动整理自 [@husuxin 的 Stars](https://github.com/husuxin?tab=stars)，共 **62** 个仓库 · **13** 种语言 · 累计 **★ 1.9M**
-> 上次同步：**2026-11-05 00:27**（UTC+8，每天自动更新）
+> 上次同步：**2026-11-05 12:49**（UTC+8，每天自动更新）
 
 [GitHub Stars](https://github.com/husuxin?tab=stars) · [🔍 在线搜索](https://husuxin.github.io/my-stars/) · [🛠️ 维护说明](#maintenance)
 
@@ -18,14 +18,14 @@
 - [**geekcompany/ResumeSample**](https://github.com/geekcompany/ResumeSample) — Resume template for Chinese programmers… · ★ 28k · 2026-11-03
 - [**HKUDS/Vibe-Trading**](https://github.com/HKUDS/Vibe-Trading) — "Vibe-Trading: Your Personal Trading Agent" · `Python` · ★ 38k · 2026-10-31
 - [**MorvanZhou/agentup**](https://github.com/MorvanZhou/agentup) — Use AI the way you use WhatsApp 像微信一样用 ai agents · `TypeScript` · ★ 7 · 2026-10-29
-- [**aa1143/NamiGPT**](https://github.com/aa1143/NamiGPT) — 零基础入门大模型（LLM）的基础教程：从零手写 GPT-2，一行行看懂大模型是怎么工作的 | Build GPT-2 from scratch in PyTorch, step by step · `Python` · ★ 181 · 2026-10-28
+- [**aa1143/NamiGPT**](https://github.com/aa1143/NamiGPT) — 零基础入门大模型（LLM）的基础教程：从零手写 GPT-2，一行行看懂大模型是怎么工作的 | Build GPT-2 from scratch in PyTorch, step by step · `Python` · ★ 183 · 2026-10-28
 - [**Xiaoc7r/DOVideo-AI**](https://github.com/Xiaoc7r/DOVideo-AI) — 一个面向长视频内容理解的 Video Agent 平台。 · `Java` · ★ 456 · 2026-10-28
 - [**Licht123/-**](https://github.com/Licht123/-) — 秋招投递记录和面试经验 · ★ 10 · 2026-10-26
 - [**Adkid-Zephyr/anti-defensive-writing-Skill**](https://github.com/Adkid-Zephyr/anti-defensive-writing-Skill) — 极致轻量｜阻止论文的防御性写作 | Anti-defensive writing for academic papers — 学术写作原则 Skill + prompt pack (CN/EN) · `Python` · ★ 5.1k · 2026-10-19
 - [**alchaincyf/huashu-skills**](https://github.com/alchaincyf/huashu-skills) — 花叔全部开源 Agent Skills 总目录：16 旗舰 + 14 人物视角 + 22 内置共 52 个 skill，分层分类 + AI Agent 安装协议 + 机器可读 skills.json + 更新检查机制 · `Python` · ★ 2.2k · 2026-10-14
-- [**jiarui-liu/IdeaScientist**](https://github.com/jiarui-liu/IdeaScientist) — `Python` · ★ 333 · 2026-10-13
+- [**jiarui-liu/IdeaScientist**](https://github.com/jiarui-liu/IdeaScientist) — `Python` · ★ 334 · 2026-10-13
 - [**feiniaoyun/feiniaoyun**](https://github.com/feiniaoyun/feiniaoyun) — ★ 2.6k · 2026-10-10
-- [**eternity4719/HowToLiveBetter**](https://github.com/eternity4719/HowToLiveBetter) — 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 · `HTML` · ★ 73k · 2026-10-06
+- [**eternity4719/HowToLiveBetter**](https://github.com/eternity4719/HowToLiveBetter) — 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 · `HTML` · ★ 74k · 2026-10-06
 
 ## 🎲 遗忘角落
 
@@ -74,7 +74,7 @@
 - [**datawhalechina/machine-learning-toy-code**](https://github.com/datawhalechina/machine-learning-toy-code) — 《机器学习》（西瓜书）代码实战 · `Jupyter Notebook` · ★ 1k · 2026-11-04
 - [**Xiaoc7r/DOVideo-AI**](https://github.com/Xiaoc7r/DOVideo-AI) — 一个面向长视频内容理解的 Video Agent 平台。 · `Java` · ★ 456 · 2026-10-28
 - [**ai-for-decision-making-tue/Job_Shop_Scheduling_Benchmark_Environments_and_Instances**](https://github.com/ai-for-decision-making-tue/Job_Shop_Scheduling_Benchmark_Environments_and_Instances) — A benchmarking repo with various solution methods to various machine scheduling problems · `Jupyter Notebook` · ★ 218 · 2025-04-04
-- [**aa1143/NamiGPT**](https://github.com/aa1143/NamiGPT) — 零基础入门大模型（LLM）的基础教程：从零手写 GPT-2，一行行看懂大模型是怎么工作的 | Build GPT-2 from scratch in PyTorch, step by step · `Python` · ★ 181 · 2026-10-28
+- [**aa1143/NamiGPT**](https://github.com/aa1143/NamiGPT) — 零基础入门大模型（LLM）的基础教程：从零手写 GPT-2，一行行看懂大模型是怎么工作的 | Build GPT-2 from scratch in PyTorch, step by step · `Python` · ★ 183 · 2026-10-28
 - [**JKZuo/Diff-DGMN**](https://github.com/JKZuo/Diff-DGMN) — Diff-DGMN: A Diffusion-based Dual Graph Multi-attention Network for POI Recommendation · `Python` · ★ 151 · 2025-03-28
 - [**MorvanZhou/agentup**](https://github.com/MorvanZhou/agentup) — Use AI the way you use WhatsApp 像微信一样用 ai agents · `TypeScript` · ★ 7 · 2026-10-29
 
@@ -111,7 +111,7 @@
 <a name="cat-tools"></a>
 ## 🛠️ 开发工具 / 效率 · 2
 
-- [**AlephAITech/DoubaoWorkGuide**](https://github.com/AlephAITech/DoubaoWorkGuide) — 豆包工作系统化中文实践指南：教程、真实任务、Skills、连接器、自动化与多 Agent 工作流。 · `JavaScript` · ★ 232 · 2026-09-01
+- [**AlephAITech/DoubaoWorkGuide**](https://github.com/AlephAITech/DoubaoWorkGuide) — 豆包工作系统化中文实践指南：教程、真实任务、Skills、连接器、自动化与多 Agent 工作流。 · `JavaScript` · ★ 233 · 2026-09-01
 - [**enginefuture/mac-gaming-uncle**](https://github.com/enginefuture/mac-gaming-uncle) — Mac Gaming Uncle — a permanently noncommercial project making Windows gaming on Mac as simple as SteamOS. · `Swift` · ★ 44 · 2026-09-07
 
 <a name="cat-infra"></a>
@@ -140,7 +140,7 @@
 ## 📦 其他 · 6
 
 - [**ruanyf/weekly**](https://github.com/ruanyf/weekly) — 科技爱好者周刊，每周五发布 · ★ 108k · 2025-03-28
-- [**eternity4719/HowToLiveBetter**](https://github.com/eternity4719/HowToLiveBetter) — 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 · `HTML` · ★ 73k · 2026-10-06
+- [**eternity4719/HowToLiveBetter**](https://github.com/eternity4719/HowToLiveBetter) — 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 · `HTML` · ★ 74k · 2026-10-06
 - [**feiniaoyun/feiniaoyun**](https://github.com/feiniaoyun/feiniaoyun) — ★ 2.6k · 2026-10-10
 - [**JackyTJie/SJTURunningMan_Advanced_Edition**](https://github.com/JackyTJie/SJTURunningMan_Advanced_Edition) — SJTU跑步打卡上传 · `JavaScript` · ★ 167 · 2026-09-07
 - [**SmilingWayne/me**](https://github.com/SmilingWayne/me) — My personal website. :) 笑笑的个人网站。smilingwayne.github.io/me/ · `Markdown` · ★ 51 · 2026-06-24
@@ -150,8 +150,8 @@
 ## 🐍 Python · 6
 
 - [**Yuan1z0825/nature-skills**](https://github.com/Yuan1z0825/nature-skills) — 符合nature论文学术表达和科研绘图的Skill · `Python` · ★ 52k · 2026-09-15
-- [**EvoScientist/EvoSkills**](https://github.com/EvoScientist/EvoSkills) — 🧬 Extend EvoScientist with Installable Skill &amp; Knowledge Packs · `Python` · ★ 483 · 2026-10-02
-- [**jiarui-liu/IdeaScientist**](https://github.com/jiarui-liu/IdeaScientist) — `Python` · ★ 333 · 2026-10-13
+- [**EvoScientist/EvoSkills**](https://github.com/EvoScientist/EvoSkills) — 🧬 Extend EvoScientist with Installable Skill &amp; Knowledge Packs · `Python` · ★ 484 · 2026-10-02
+- [**jiarui-liu/IdeaScientist**](https://github.com/jiarui-liu/IdeaScientist) — `Python` · ★ 334 · 2026-10-13
 - [**Aihong-Sun/MOEA-D-and-NSGA--for-FJSP**](https://github.com/Aihong-Sun/MOEA-D-and-NSGA--for-FJSP) — this repo has use MOEA/D and NSGA-Ⅱ to solve multi-objective FJSP problem · `Python` · ★ 74 · 2025-04-04
 - [**RahulShagri/Interactive-Assembly-Line-Balancer**](https://github.com/RahulShagri/Interactive-Assembly-Line-Balancer) — A python based GUI to solve simple assembly line balancing problems quickly. · `Python` · ★ 39 · 2025-05-18
 - [**NJUWallSpider/IECourseGuide**](https://github.com/NJUWallSpider/IECourseGuide) — `Python` · ★ 34 · 2026-06-24

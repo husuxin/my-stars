@@ -20,13 +20,31 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 API = "https://api.github.com"
+RAW = "https://raw.githubusercontent.com"
 USER_AGENT = "star-index-builder/1.0"
 PER_PAGE = 100
 BEIJING = timezone(timedelta(hours=8))
+
+README_NAMES = (
+    "README.md",
+    "readme.md",
+    "Readme.md",
+    "README.MD",
+    "README.rst",
+    "README",
+    "README.txt",
+    "README.markdown",
+    "README.adoc",
+    "README.org",
+)
+README_MAX_BYTES = 200_000
+README_EXCERPT = 700
+README_CACHE_VERSION = 2
 
 
 # ---------------------------------------------------------------- utilities
@@ -175,6 +193,15 @@ def normalize(item: dict) -> dict:
     topics = repo.get("topics") or []
     if not isinstance(topics, list):
         topics = []
+    license_info = repo.get("license")
+    if isinstance(license_info, dict):
+        license_name = license_info.get("spdx_id") or license_info.get("name") or ""
+    elif isinstance(license_info, str):
+        license_name = license_info
+    else:
+        license_name = ""
+    if license_name in ("NOASSERTION", "NONE"):
+        license_name = ""
     return {
         "full_name": repo.get("full_name") or "",
         "url": repo.get("html_url") or "",
@@ -186,7 +213,156 @@ def normalize(item: dict) -> dict:
         "archived": bool(repo.get("archived")),
         "homepage": repo.get("homepage") or "",
         "starred_at": starred_at,
+        "created_at": repo.get("created_at") or "",
+        "pushed_at": repo.get("pushed_at") or "",
+        "open_issues": int(repo.get("open_issues_count") or 0),
+        "license": license_name,
+        "excerpt": "",
     }
+
+
+# --------------------------------------------------------------- readme text
+
+
+def fetch_readme_text(full_name: str) -> str:
+    """Return the raw README of a public repo, or "" if there is none.
+
+    raw.githubusercontent.com does not consume API quota. Most repos expose
+    README.md, so the common case is a single request per repo per push.
+    """
+    for name in README_NAMES:
+        url = f"{RAW}/{full_name}/HEAD/{name}"
+        request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+        try:
+            with urllib.request.urlopen(request, timeout=15) as response:
+                raw = response.read(README_MAX_BYTES)
+                charset = response.headers.get_content_charset() or "utf-8"
+        except urllib.error.HTTPError as error:
+            if error.code == 404:
+                continue
+            return ""
+        except (urllib.error.URLError, OSError):
+            return ""
+        for encoding in (charset, "utf-8", "gb18030"):
+            try:
+                return raw.decode(encoding)
+            except (UnicodeDecodeError, LookupError):
+                continue
+        return raw.decode("utf-8", "replace")
+    return ""
+
+
+def clean_readme(text: str) -> str:
+    """Strip Markdown/HTML noise so the excerpt reads as plain prose."""
+    if not text:
+        return ""
+    text = re.sub(r"<!--.*?-->", " ", text, flags=re.S)
+    text = re.sub(r"```.*?```", " ", text, flags=re.S)
+    text = re.sub(r"~~~.*?~~~", " ", text, flags=re.S)
+    # Linked badges before plain images.
+    text = re.sub(r"\[\!\[[^\]]*\]\([^)]*\)\]\([^)]*\)", " ", text)
+    text = re.sub(r"!\[[^\]]*\]\([^)]*\)", " ", text)
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", text)
+    text = re.sub(r"\[([^\]]*)\]\[[^\]]*\]", r"\1", text)
+    text = re.sub(r"https?://\S+", " ", text)
+    text = re.sub(r":[a-z0-9_+\-]+:", " ", text)
+    text = re.sub(r"(?m)^\s{0,3}#{1,6}\s*", "", text)
+    text = re.sub(r"(?m)^\s{0,3}([=\-])\1{2,}\s*$", " ", text)
+    # Table separator rows, then remaining pipes.
+    text = re.sub(r"(?m)^\s*\|?[\s:\-|]+\|[\s:\-|]*$", " ", text)
+    text = text.replace("|", " ")
+    text = re.sub(r"(\*\*|__|`+)", "", text)
+    text = re.sub(r"(?m)^\s{0,3}([-*+]|\d+[.)]|>)\s+", "", text)
+    text = html.unescape(text)
+
+    skip = {"table of contents", "table of content", "contents", "目录"}
+    language_switcher = re.compile(
+        r"(中文|english|日本語|한국어|français|deutsch|español|русский)"
+        r"([\s|·/]+(中文|english|日本語|한국어|français|deutsch|español|русский))*"
+    )
+    lines = []
+    for line in text.splitlines():
+        line = collapse(line)
+        if not line or line.lower().strip(" :-") in skip:
+            continue
+        if not re.search(r"[A-Za-z\u4e00-\u9fff]", line):
+            continue
+        if language_switcher.fullmatch(line.lower()):
+            continue
+        # Long "issue 1, issue 2, issue 3…" index lines are not prose.
+        if len(re.findall(r"第\s*\d+\s*期", line)) >= 2:
+            continue
+        lines.append(line)
+    return trim(" ".join(lines), README_EXCERPT)
+
+
+def read_excerpt(repo: dict) -> str:
+    """Fetch and clean, retrying once for transient network/rate-limit errors."""
+    for attempt in range(2):
+        excerpt = clean_readme(fetch_readme_text(repo["full_name"]))
+        if excerpt:
+            return excerpt
+        if attempt == 0:
+            time.sleep(1.0)
+    return ""
+
+
+def enrich_readmes(repos, root: Path, enabled: bool) -> None:
+    """Attach README excerpts, cached by pushed_at to avoid repeated fetches."""
+    if not enabled:
+        for repo in repos:
+            repo["excerpt"] = ""
+        return
+
+    cache_path = root / "data/readme_cache.json"
+    cache = load_json(cache_path, {})
+    if not isinstance(cache, dict):
+        cache = {}
+
+    pending = []
+    for repo in repos:
+        entry = cache.get(repo["full_name"]) or {}
+        if (
+            repo["pushed_at"]
+            and entry.get("pushed_at") == repo["pushed_at"]
+            and entry.get("v") == README_CACHE_VERSION
+            and entry.get("excerpt")
+        ):
+            repo["excerpt"] = entry.get("excerpt") or ""
+        else:
+            pending.append(repo)
+
+    if pending:
+        print(f"读取 README 摘要（{len(pending)} 个仓库）…", file=sys.stderr)
+        done = 0
+        with ThreadPoolExecutor(max_workers=4) as pool:
+            futures = {pool.submit(read_excerpt, repo): repo for repo in pending}
+            for future in as_completed(futures):
+                repo = futures[future]
+                try:
+                    repo["excerpt"] = future.result()
+                except Exception:
+                    repo["excerpt"] = ""
+                done += 1
+                if done % 10 == 0 or done == len(pending):
+                    print(f"  已完成 {done}/{len(pending)}", file=sys.stderr)
+
+    fresh = {}
+    for repo in repos:
+        if not repo["excerpt"]:
+            # Do not cache failures: a later run should retry them.
+            continue
+        fresh[repo["full_name"]] = {
+            "v": README_CACHE_VERSION,
+            "pushed_at": repo["pushed_at"],
+            "excerpt": repo["excerpt"],
+        }
+    cache_path.parent.mkdir(exist_ok=True)
+    cache_path.write_text(
+        json.dumps(fresh, ensure_ascii=False, indent=2, sort_keys=True) + "\n",
+        encoding="utf-8",
+    )
 
 
 # ------------------------------------------------------------- categorizing
@@ -521,6 +697,11 @@ def make_site_data(login, repos, groups, classifier, now):
                 "archived": repo["archived"],
                 "homepage": repo["homepage"],
                 "starred_at": repo["starred_at"],
+                "created_at": repo["created_at"],
+                "pushed_at": repo["pushed_at"],
+                "open_issues": repo["open_issues"],
+                "license": repo["license"],
+                "excerpt": repo["excerpt"],
                 "category": category_of.get(repo["full_name"], "📦 其他"),
                 "note": classifier.note(repo["full_name"]),
             }
@@ -557,6 +738,7 @@ def main() -> int:
     parser.add_argument("--login", default="", help="GitHub username")
     parser.add_argument("--token", default="", help="optional GitHub token")
     parser.add_argument("--fixture", type=Path, help="read API payloads from a directory")
+    parser.add_argument("--no-readme", action="store_true", help="skip README excerpt fetching")
     parser.add_argument("--root", type=Path, default=Path(__file__).resolve().parents[1])
     args = parser.parse_args()
 
@@ -578,6 +760,7 @@ def main() -> int:
     repos = [normalize(item) for item in raw]
     repos = [repo for repo in repos if repo["full_name"]]
     print(f"共 {len(repos)} 个仓库", file=sys.stderr)
+    enrich_readmes(repos, root, not args.no_readme)
 
     classifier = Classifier(config, overrides)
     groups = build_groups(repos, classifier, config)
