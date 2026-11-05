@@ -1,6 +1,6 @@
 {
   "login": "husuxin",
-  "generated_at": "2026-11-05T12:59+08:00",
+  "generated_at": "2026-11-05T13:00+08:00",
   "count": 62,
   "categories": [
     {
@@ -467,7 +467,7 @@
         "research-assistant",
         "research-skills"
       ],
-      "stars": 9732,
+      "stars": 9733,
       "forks": 360,
       "archived": false,
       "homepage": "",
@@ -519,7 +519,7 @@
         "nature",
         "nature-skills"
       ],
-      "stars": 52264,
+      "stars": 52265,
       "forks": 2723,
       "archived": false,
       "homepage": "",
@@ -837,7 +837,7 @@
       "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
       "language": "Jupyter Notebook",
       "topics": [],
-      "stars": 59238,
+      "stars": 59239,
       "forks": 7061,
       "archived": false,
       "homepage": "",
@@ -970,7 +970,7 @@
       "topics": [
         "agent-skills"
       ],
-      "stars": 187482,
+      "stars": 187483,
       "forks": 22116,
       "archived": false,
       "homepage": "",
@@ -1042,8 +1042,8 @@
       "homepage": "https://openclaw.ai",
       "starred_at": "2026-03-13T05:11:36Z",
       "created_at": "2025-11-24T10:16:47Z",
-      "pushed_at": "2026-11-05T04:57:12Z",
-      "open_issues": 7686,
+      "pushed_at": "2026-11-05T05:00:12Z",
+      "open_issues": 7690,
       "license": "MIT",
       "excerpt": "OpenClaw 🦞 — Your assistant, on your devices, in your chats OpenClaw is an open-source AI assistant that runs on your own computer and meets you in the channels you already use: Discord, iMessage, Slack, Teams, Telegram, WhatsApp, and 20+ more, plus native apps for macOS, iOS, Android, Windows, and Linux. One Gateway runs it as a personal claw on a laptop or as a shared multiplayer claw; configuration is the only difference. Yours, with no catch. State, memory, and credentials live on your hardware. Models and agent harnesses (Claude, Codex, local models) are plugins you can swap without changing anything else. Your prompts go to the model provider and chat platforms you configure, plus any…",
       "category": "🤖 AI / LLM / Agent",
@@ -1474,7 +1474,7 @@
       "description": "科技爱好者周刊，每周五发布",
       "language": "",
       "topics": [],
-      "stars": 107637,
+      "stars": 107638,
       "forks": 4567,
       "archived": false,
       "homepage": "",
