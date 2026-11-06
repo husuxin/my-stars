@@ -1,7 +1,7 @@
 {
   "029danio/fly": {
-    "excerpt": "机场推荐 2026：稳定高速翻墙机场 / VPN 推荐（每月更新） 内容最后更新：2026年11月2日｜本页每月更新，榜单内均为国内实测可用的翻墙机场节点，采用 Shadowsocks / V2Ray / Trojan 等协议，稳定高速。 快速结论：2026 年机场推荐怎么选？ 要性价比，追剧 + AI 全都要：选 超实惠机场，年付低至 5.25 元/月，还送 Emby 全网影视会员。 要稳定，做外贸或长期备用：选 狗狗加速VPN，注册送 3 天免费，高速专线。 要便宜，流量不限时慢慢用：选 飞鸟云机场，10 元/月起，不限时套餐流量用完才停。 要速度，专线直连：选 蜂群cheap，直连原生双线路，千兆下行。 要专线，流量不限时慢慢用：选 扬帆云机场，19.99 元/月起，IEPL 专线+不限时流量包，流量用完才停。 目录：机场推荐榜 · 超实惠机场 · 狗狗加速VPN · 飞鸟云机场 · 蜂群cheap · 扬帆云机场 · 机场选购指南 · 常见问题 · 客户端下载 机场推荐榜（2026年11月） 排名 机场 线路与协议 解锁能力 适合人群 官网直达 🥇 超实惠机场 高质量线路，晚高峰 8K 秒开 Netflix / Disney+ / TikTok / ChatGPT / DeepSeek 追剧、AI 工具、主力机场 立即前往 🥈 狗狗加速VPN 高速专线，Hysteria2 协议 流媒体、ChatGPT 外贸、长期备用 立即前往 🥉 飞鸟云机场 节点多、线路多，三年老牌 ChatGPT / Netflix / TikTok / Telegram 备用机场、高性价比…",
-    "pushed_at": "2026-11-02T16:07:30Z",
+    "excerpt": "机场推荐 2026：稳定高速翻墙机场 / VPN 推荐（每月更新） 内容最后更新：2026年11月5日｜本页每月更新，榜单内均为国内实测可用的翻墙机场节点，采用 Shadowsocks / V2Ray / Trojan 等协议，稳定高速。 快速结论：2026 年机场推荐怎么选？ 要性价比，追剧 + AI 全都要：选 超实惠机场，年付低至 5.25 元/月，还送 Emby 全网影视会员。 要稳定，做外贸或长期备用：选 狗狗加速VPN，注册送 3 天免费，高速专线。 要便宜，流量不限时慢慢用：选 飞鸟云机场，10 元/月起，不限时套餐流量用完才停。 要速度，专线直连：选 蜂群cheap，直连原生双线路，千兆下行。 要专线，流量不限时慢慢用：选 扬帆云机场，19.99 元/月起，IEPL 专线+不限时流量包，流量用完才停。 目录：机场推荐榜 · 超实惠机场 · 狗狗加速VPN · 飞鸟云机场 · 蜂群cheap · 扬帆云机场 · 机场选购指南 · 常见问题 · 客户端下载 机场推荐榜（2026年11月） 排名 机场 线路与协议 解锁能力 适合人群 官网直达 🥇 超实惠机场 高质量线路，晚高峰 8K 秒开 Netflix / Disney+ / TikTok / ChatGPT / DeepSeek 追剧、AI 工具、主力机场 立即前往 🥈 狗狗加速VPN 高速专线，Hysteria2 协议 流媒体、ChatGPT 外贸、长期备用 立即前往 🥉 飞鸟云机场 节点多、线路多，三年老牌 ChatGPT / Netflix / TikTok / Telegram 备用机场、高性价比…",
+    "pushed_at": "2026-11-05T15:59:27Z",
     "v": 2
   },
   "521xueweihan/HelloGitHub": {
@@ -31,12 +31,12 @@
   },
   "Gurobi/modeling-examples": {
     "excerpt": "Target audience Data scientists, engineers, computer scientists, economists, and in general, professionals with a background in mathematical modeling and a basic knowledge of Python. Goals of modeling examples Illustrate the broad applicability of mathematical optimization. Show how to build mathematical optimization models. These modeling examples are coded using the Gurobi Python API and distributed as Jupyter Notebooks. These modeling examples illustrate important capabilities of the Gurobi Python API, including adding decision variables, building linear expressions, adding constraints, and adding an objective function. They touch on more advanced features such as generalized…",
-    "pushed_at": "2026-10-29T09:26:05Z",
+    "pushed_at": "2026-11-05T11:10:35Z",
     "v": 2
   },
   "HKUDS/Vibe-Trading": {
-    "excerpt": "English 中文 日本語 한국어 العربية Español Bahasa Indonesia Vibe-Trading: Your Personal Trading Agent One Command to Empower Your Agent with Comprehensive Trading Capabilities GitHub topic rankings by stars · Nov 4, 2026 1 Backtesting · 3 Algorithmic Trading · 4 Quantitative Finance Website · Docs · News · Features · Shadow Account · Demo · Quick Start · Examples · API / MCP · Roadmap · Contributors 📰 News 2026-11-04 📊 Gildata financial queries, stock screening and Shannon portfolio diagnosis — Screen stocks by market cap and retrieve their half-year revenue in one request, or inspect portfolio factor exposures and each holding’s contribution to volatility. All nine Gildata features are opt-in…",
-    "pushed_at": "2026-11-05T08:49:42Z",
+    "excerpt": "English 中文 日本語 한국어 العربية Español Bahasa Indonesia Vibe-Trading: Your Personal Trading Agent One Command to Empower Your Agent with Comprehensive Trading Capabilities GitHub topic rankings by stars · Nov 4, 2026 1 Backtesting · 3 Algorithmic Trading · 4 Quantitative Finance Website · Docs · News · Features · Shadow Account · Demo · Quick Start · Examples · API / MCP · Roadmap · Contributors 📰 News 2026-11-05 🚀 v0.1.19 released (Release notes, pip install -U vibe-trading-ai): research that outlives the chat — save versioned research artifacts with their evidence and revise them, reuse backtests from earlier turns and sessions, and edit a research goal in place. New opt-ins: a five-minute…",
+    "pushed_at": "2026-11-05T12:20:38Z",
     "v": 2
   },
   "Ixiaohuihuihui/Tiny-Defect-Detection-for-PCB": {
@@ -81,12 +81,12 @@
   },
   "MetaCubeX/ClashMetaForAndroid": {
     "excerpt": "Clash Meta for Android A Graphical user interface of Clash.Meta for Android Feature Feature of Clash.Meta Requirement Android 5.0+ (minimum) Android 7.0+ (recommend) armeabi-v7a , arm64-v8a, x86 or x86_64 Architecture Build Update submodules Install OpenJDK 11, Android SDK, CMake and Golang Create local.properties in project root with (Optional) Custom app package name. Add the following configuration to local.properties. properties keystore.path=/path/to/keystore/file keystore.password= key.alias= key.password= bash ./gradlew app:assembleAlphaRelease Automation APP package name is com.github.metacubex.clash.meta Toggle Clash.Meta service status Send intent to activity…",
-    "pushed_at": "2026-10-30T09:30:31Z",
+    "pushed_at": "2026-11-06T02:48:17Z",
     "v": 2
   },
   "MorvanZhou/agentup": {
-    "excerpt": "AgentUp 中文 Your AI Assistants — use AI the way you use WhatsApp. Study, write, look things up, plan a trip. Each assistant handles one kind of job. When the ask spans topics, it brings in another helper. Add assistants to your contacts like friends One assistant, one kind of chat. No mixing. It can read files on your computer and save results there Download App · agentup.me After installing to Applications, run this once in Terminal so macOS will open the app: What AgentUp is (and isn’t) Coding tools manage the workbench. AgentUp hosts the relationship. AgentUp is AgentUp is not An IM for AI companions — add specialists like contacts Another coding agent, IDE, or terminal agent manager One…",
-    "pushed_at": "2026-11-04T16:52:11Z",
+    "excerpt": "AgentUp Your AI Assistants — use AI the way you use WhatsApp. Study, write, look things up, plan a trip. Each assistant handles one kind of job. When the ask spans topics, it brings in another helper. Add assistants to your contacts like friends One assistant, one kind of chat. No mixing. It can read files on your computer and save results there Download App · agentup.me After installing to Applications, run this once in Terminal so macOS will open the app: What AgentUp is (and isn’t) Coding tools manage the workbench. AgentUp hosts the relationship. AgentUp is AgentUp is not An IM for AI companions — add specialists like contacts Another coding agent, IDE, or terminal agent manager One…",
+    "pushed_at": "2026-11-05T15:35:44Z",
     "v": 2
   },
   "NJUWallSpider/IECourseGuide": {
@@ -96,7 +96,7 @@
   },
   "OpenByteInc/QuantDinger": {
     "excerpt": "QuantDinger - Open-Source AI Quant Research Platform Turn trading ideas into Python strategies, backtests, paper trading, live execution, and monitoring — all in one self-hosted stack. QuantDinger is a product of Open Byte Inc. AI research → Strategy code → Backtest → Paper/Live execution → Monitoring 简体中文 繁體中文 Tiếng Việt API AI Agents & MCP Live App Website Deploy on AWS Marketplace Video Demo Official Support Email SUPPORTED BY Open Byte Inc. has joined NVIDIA Inception. Want to contribute? Explore the public roadmap or claim a scoped task from Ready for contributors. QuantDinger can submit real orders when live trading is explicitly enabled. Start with paper trading, use restricted API…",
-    "pushed_at": "2026-11-05T09:34:16Z",
+    "pushed_at": "2026-11-06T07:50:31Z",
     "v": 2
   },
   "RahulShagri/Interactive-Assembly-Line-Balancer": {
@@ -134,6 +134,11 @@
     "pushed_at": "2026-09-01T05:06:19Z",
     "v": 2
   },
+  "WoYun520/pixel-gif-sticker-pack": {
+    "excerpt": "GIF 表情包工作室 给 Codex 一张角色图，帮你做一套聊天用的 GIF 表情包。 像素小人、动漫插画、真人和宠物照片都可以试。每张可以只是轻轻晃动，也可以让人物完整地做一个动作，比如挥手、比心、提裙行礼。 做完会给你单张 GIF、整套压缩包和播放预览。拿不准效果时，可以先做一张；已经选好了样子，就接着做一套。 还能拿角色做品牌短片。 让吉祥物拉开店铺、递出产品、装进包装袋，把角色动作和纸片拼贴连成一个小故事。成片之外，也交付能继续修改的工程。看看面包店的例子。 表情包展厅 这里有 242 张已有示例，还有 2 张刚重做的动作试样，等使用者确认。点击动图可以看原尺寸。大部分约两秒一轮，部分动作示例会短一些。品牌短片单独展示，不计入表情包数量。 各系列默认收起；点击对应窗口即可展开分类动图。 下载整个项目：242 张已有示例＋2 张重做试样＋品牌短片案例 大肥鱼 · 精选动态预览 🐋 大肥鱼（鲸鱼娘） · 100 张 · 点击窗口展开 蓝发鲸鱼娘的日常聊天表情，分为日常问候、开心撒娇、情绪反应、聊天回应、工作学习、生活状态和鲸喜祝福。 日常问候 · 16 张 001 你好呀 002 早安 003 晚安 004 请多关照 005 欢迎呀 006 谢谢你 007 对不起 008 好哒 009 赞一个 010 拜拜啦 011 有点害羞 012 乖巧等候 013 在吗在吗 014 探个头 015 是我呀 016 为你服务 开心撒娇 · 16 张 017 哈哈哈哈 018 耶 019 开心起飞 020 好耶 021 得意一下 022 啵一个 023 害羞了 024 抱抱你 025…",
+    "pushed_at": "2026-11-06T06:16:42Z",
+    "v": 2
+  },
   "Xiaoc7r/DOVideo-AI": {
     "excerpt": "DoVideoAI 面向长视频内容理解的 Video Agent 。 致力于将长视频转化为可检索、可追溯、可继续追问的结构化知识。 项目预览 登录与注册 视频工作台 Agent 目标输入 Agent 分析结果 用户完成登录后，可以上传视频并在工作台管理解析任务；选择视频并输入分析目标后，可以手动选择分析模式，也可以交给 Agent 自动判断。工作台会展示结构化结论、时间戳证据、执行计划、阶段轨迹与质量评估，并支持基于同一视频继续追问；追问历史会通过 Redis 保存，模型可结合多轮对话上下文作答。 核心功能 长视频处理天然是长耗时、高资源消耗、外部调用成本敏感的场景。DoVideoAI 的设计都围绕这一背景展开，可以概括为四层能力。 🎬 可靠的视频任务链路 把大文件上传与耗时的视频解析从请求主链路中剥离，提交即返回，不阻塞、不重复烧钱。 分片上传 + 断点续传 — 前端按 5 MB 分片，Redis 记录已完成分片，MinIO 保存合并后的视频，弱网中断后可从断点续传。 异步削峰 — RocketMQ 将视频解析移出请求线程，提交后立即返回任务 ID；Redisson 按「内容指纹 + 分析目标」加锁，拦截并发与重复消费。 成本护栏 — 用户级与全局令牌桶限制 AI 请求速率；ASR 与模型调用采用有限次数的指数退避重试，兜底第三方网络抖动。 🧩 时序多模态 VideoContext 把语音、画面文字与时间戳融合成一份可检索、可校验的统一上下文。 双分支抽取 — FFmpeg 将音频按 60 秒切片，同时通过场景变化检测抽取关键帧，并以 30 秒保底采样避免遗漏静态板书…",
     "pushed_at": "2026-10-31T11:46:41Z",
@@ -157,6 +162,11 @@
   "alchaincyf/huashu-skills": {
     "excerpt": "huashu-skills · 花叔开源Skills总目录 动画由 huashu-design skill制作 这里是花叔在GitHub上全部开源Skill的总目录，共57个，分三层收录。全部是标准Agent Skills格式（SKILL.md），Claude Code / Codex / Kimi Code等支持该格式的agent通用。 花叔 AI Native Coder · 独立开发者 · 全网50万+读者 代表作：小猫补光灯（App Store付费榜Top1）·《一本书玩转DeepSeek》· 女娲Skill生态 CCTV《焦点访谈》报道的「手搓经济」代表人物 30秒上手 全景一览 按需求找Skill 旗舰Skills（21个独立仓库） 人物视角Skills（14个独立仓库） 内置Skills（22个，本仓库） 安装指南 保持更新 给AI Agent的协议 这四个不是Skill 30秒上手 最省事的方式：把这句话发给你的AI agent—— 读 的README和skills.json，帮我安装（某个skill / 按我的需求推荐） 自己动手也只要一条命令（独立仓库skill）： 装完重启agent会话即生效。其余安装方式见安装指南。 全景一览 层 数量 是什么 怎么装 旗舰Skills 21 各自深耕一个领域的完整系统，独立仓库 git clone一条命令 人物视角Skills 14 女娲蒸馏的人物思维操作系统，独立仓库 git clone一条命令 内置Skills 22 轻量内容创作技能+更新检查工具，就在本仓库 复制子目录…",
     "pushed_at": "2026-11-02T07:12:40Z",
+    "v": 2
+  },
+  "aldegad/sprite-gen": {
+    "excerpt": "sprite-gen One drawing in. Game-ready sprites out — as an atlas, or as transparent motion loops. English · 한국어 · 日本語 · 简体中文 · Español · Français Help cover the model API costs of developing sprite-gen with an optional GitHub sponsorship . Choose your amount and a one-time or monthly contribution. Please wishlist Dungeon Sookuma on Steam , a game in development by the creator of sprite-gen with part of the game art made using this tool. Each character started as one still image . Grok Imagine brought it to life; sprite-gen extracted the transparent loops, and HyperFrames assembled this showcase. A separate village composition made from sprite-gen assets. This GIF preserves the 10-second…",
+    "pushed_at": "2026-11-06T07:27:21Z",
     "v": 2
   },
   "anthropics/skills": {
@@ -221,7 +231,12 @@
   },
   "hiyouga/LlamaFactory": {
     "excerpt": "Used by Amazon, NVIDIA, Aliyun, etc. Check our new open-source project — 🐧 PenguinHarness: Local-first multi-agent app development platform - create, fine-tune, deploy AI apps automatically! Follow us and give us a star ⭐: Supporters ❤️ Warp, the agentic terminal for developers Available for MacOS, Linux, & Windows Easily fine-tune 100+ large language models with zero-code CLI and Web UI 👋 Join our WeChat and NPU user groups. \\ English [中文 \\] Fine-tuning a large language model can be easy as... Start local training: Please refer to usage Start cloud training: Colab (free): PAI-DSW (free trial): AMD GPU Cloud (free credits): Read technical notes: Documentation (WIP): Documentation (AMD GPU)…",
-    "pushed_at": "2026-11-04T14:02:39Z",
+    "pushed_at": "2026-11-06T09:25:08Z",
+    "v": 2
+  },
+  "imraywang/ray-sticker-shop": {
+    "excerpt": "表情包工坊 ray-sticker-shop 一张照片或角色图，生成一整套形象一致的动态表情包，并打包成微信表情开放平台要的全部素材。 ChatGPT 现在能直接做 GIF，但一张一张做，形象容易跑，尺寸也不是微信要的。这个 skill 把剩下的事都做了： 一个参考图锁定整套角色 240×240 GIF，自动压到 500KB 以内 封面、图标、横幅、赞赏图一起出 按微信规范自动检查 上架文案和给客户的交付包 安装 把这个文件夹放进你的 Agent 的 skills 目录，比如： 然后对 Claude Code 或 Codex 说：「把这张猫的照片做成一套表情包。」 需要什么 Python 3.9+ 和 Pillow：pip install pillow OPENAI_API_KEY（中转站再设 OPENAI_BASE_URL） 没有 key 也行：Agent 会给你提示词，到 ChatGPT 里出图，放回来照样合成 花费 8 张表情加 5 张配套素材，按 OpenAI 官方单价约 $0.7，重抽另算。实际花费记录在项目目录的 costs.jsonl。 注意 只做你有权使用的形象。微信不收未授权的二创和同人。过审由微信决定，本工具不保证过审和收入。 MIT License",
+    "pushed_at": "2026-11-05T13:09:07Z",
     "v": 2
   },
   "jiarui-liu/IdeaScientist": {
@@ -251,7 +266,7 @@
   },
   "openclaw/openclaw": {
     "excerpt": "OpenClaw 🦞 — Your assistant, on your devices, in your chats OpenClaw is an open-source AI assistant that runs on your own computer and meets you in the channels you already use: Discord, iMessage, Slack, Teams, Telegram, WhatsApp, and 20+ more, plus native apps for macOS, iOS, Android, Windows, and Linux. One Gateway runs it as a personal claw on a laptop or as a shared multiplayer claw; configuration is the only difference. Yours, with no catch. State, memory, and credentials live on your hardware. Models and agent harnesses (Claude, Codex, local models) are plugins you can swap without changing anything else. Your prompts go to the model provider and chat platforms you configure, plus any…",
-    "pushed_at": "2026-11-05T09:38:54Z",
+    "pushed_at": "2026-11-06T09:32:13Z",
     "v": 2
   },
   "qwdwqfwq/topconf-paper-figure-gallery": {
@@ -260,13 +275,13 @@
     "v": 2
   },
   "ruanyf/weekly": {
-    "excerpt": "科技爱好者周刊 记录每周值得分享的科技内容，周五发布。 欢迎投稿文章/软件/资源，请提交 issue 。 P.S. 讨论区的《谁在招人》，是一个免费的程序员招聘帖，提供大量就业信息，欢迎发布工作/实习岗位。 十月 第 417 期：不要让 AI 代表你 第 416 期：编程已经面目全非 第 415 期：3D 版《看不见的城市》 第 414 期：Jev 决策模型有什么用 九月 第 413 期：再见了，React Native 第 412 期：禁止 issue，只用 PR 第 411 期：OpenClaw 2.0 是一个缩影 八月 第 410 期：你需要知道的 AI 三种机制 第 409 期：程序员的职业未来 第 408 期：你需要知道的 AI 缓存知识 第 407 期：国家为什么需要开源软件？ 七月 第 406 期：道可，道非，常道 第 405 期：资源，社会公平与算力 第 404 期：你需要知道的 AI 内存知识 第 403 期：为什么 Dropbox 不成功 第 402 期：我在智念 AI 的日子（小说） 六月 第 401 期：如何赚到10亿美元 第 400 期：rsync 的争论 第 399 期：中国 AI 大厂访问记 五月 第 398 期：Token 费用难以负担 第 397 期：财富正在向 AI 集中 第 396 期：互联网通信的替代方案 第 395 期：软件开发的第三种方式 四月 第 394 期：第二次 API 开放浪潮 第 393 期：脑腐状态 第 392 期：axios 投毒与好莱坞式骗术 第 391 期：AI 的贫富分化 三月 第 390…",
-    "pushed_at": "2026-10-31T23:37:58Z",
+    "excerpt": "科技爱好者周刊 记录每周值得分享的科技内容，周五发布。 欢迎投稿文章/软件/资源，请提交 issue 。 P.S. 讨论区的《谁在招人》，是一个免费的程序员招聘帖，提供大量就业信息，欢迎发布工作/实习岗位。 十一月 第 418 期：如果科技停止在21世纪初 十月 第 417 期：不要让 AI 代表你 第 416 期：编程已经面目全非 第 415 期：3D 版《看不见的城市》 第 414 期：Jev 决策模型有什么用 九月 第 413 期：再见了，React Native 第 412 期：禁止 issue，只用 PR 第 411 期：OpenClaw 2.0 是一个缩影 八月 第 410 期：你需要知道的 AI 三种机制 第 409 期：程序员的职业未来 第 408 期：你需要知道的 AI 缓存知识 第 407 期：国家为什么需要开源软件？ 七月 第 406 期：道可，道非，常道 第 405 期：资源，社会公平与算力 第 404 期：你需要知道的 AI 内存知识 第 403 期：为什么 Dropbox 不成功 第 402 期：我在智念 AI 的日子（小说） 六月 第 401 期：如何赚到10亿美元 第 400 期：rsync 的争论 第 399 期：中国 AI 大厂访问记 五月 第 398 期：Token 费用难以负担 第 397 期：财富正在向 AI 集中 第 396 期：互联网通信的替代方案 第 395 期：软件开发的第三种方式 四月 第 394 期：第二次 API 开放浪潮 第 393 期：脑腐状态 第 392 期：axios 投毒与好莱坞式骗术 第 391 期：AI…",
+    "pushed_at": "2026-11-05T23:51:46Z",
     "v": 2
   },
   "scipopt/PySCIPOpt": {
     "excerpt": "PySCIPOpt This project provides an interface from Python to the SCIP Optimization Suite. Starting from v8.0.3, SCIP uses the Apache2.0 license. If you plan to use an earlier version of SCIP, please review SCIP's license restrictions. Documentation Please consult the online documentation or use the help() function directly in Python or ? in IPython/Jupyter. The old documentation, which we are in the process of migrating from, is still more complete w.r.t. the API, and can be found here See CHANGELOG.md for added, removed or fixed functionality. Installation The recommended installation method is via PyPI: To avoid interfering with system packages, it's best to use a virtual environment…",
-    "pushed_at": "2026-11-01T21:49:06Z",
+    "pushed_at": "2026-11-05T17:03:40Z",
     "v": 2
   },
   "tanweai/pua": {
@@ -281,7 +296,7 @@
   },
   "vercel-labs/skills": {
     "excerpt": "skills The CLI for the open agent skills ecosystem. Agent skills are reusable instructions that teach coding agents how to perform tasks, from reviewing code to working with a library. Discover skills at skills.sh. Supports OpenCode, Claude Code, Codex, Cursor, and 75 more. Install a Skill Requires Node.js 22.20 or later. Run this from your project: Choose the skills and coding agents to install to. Skills are installed to the current project by default; add -g to make them available across projects. See the installation reference for source formats, private repositories, and all options. Other Commands Command Description npx skills find [query] Search for skills npx skills list List…",
-    "pushed_at": "2026-11-05T09:34:21Z",
+    "pushed_at": "2026-11-06T02:37:48Z",
     "v": 2
   },
   "wesm/pydata-book": {
