@@ -35,8 +35,8 @@
     "v": 2
   },
   "HKUDS/Vibe-Trading": {
-    "excerpt": "English 中文 日本語 한국어 العربية Español Bahasa Indonesia Vibe-Trading: Your Personal Trading Agent One Command to Empower Your Agent with Comprehensive Trading Capabilities GitHub topic rankings by stars · Nov 4, 2026 1 Backtesting · 3 Algorithmic Trading · 4 Quantitative Finance Website · Docs · News · Features · Shadow Account · Demo · Quick Start · Examples · API / MCP · Roadmap · Contributors 📰 News 2026-11-05 🚀 v0.1.19 released (Release notes, pip install -U vibe-trading-ai): research that outlives the chat — save versioned research artifacts with their evidence and revise them, reuse backtests from earlier turns and sessions, and edit a research goal in place. New opt-ins: a five-minute…",
-    "pushed_at": "2026-11-05T12:20:38Z",
+    "excerpt": "English 中文 日本語 한국어 العربية Español Bahasa Indonesia Vibe-Trading: Your Personal Trading Agent One Command to Empower Your Agent with Comprehensive Trading Capabilities GitHub topic rankings by stars · Nov 4, 2026 1 Backtesting · 3 Algorithmic Trading · 4 Quantitative Finance Website · Docs · News · Features · Shadow Account · Demo · Quick Start · Examples · API / MCP · Roadmap · Contributors 📰 News 2026-11-06 📈 Implied-volatility grids and paper-trading fixes — Build strike-by-expiry IV grids from supplied option observations, with observed/interpolated labels and no extrapolation (#2172). Extreme numeric inputs now produce finite results or explicit errors. A-share 5m market orders blocked…",
+    "pushed_at": "2026-11-06T11:44:32Z",
     "v": 2
   },
   "Ixiaohuihuihui/Tiny-Defect-Detection-for-PCB": {
@@ -86,7 +86,7 @@
   },
   "MorvanZhou/agentup": {
     "excerpt": "AgentUp Your AI Assistants — use AI the way you use WhatsApp. Study, write, look things up, plan a trip. Each assistant handles one kind of job. When the ask spans topics, it brings in another helper. Add assistants to your contacts like friends One assistant, one kind of chat. No mixing. It can read files on your computer and save results there Download App · agentup.me After installing to Applications, run this once in Terminal so macOS will open the app: What AgentUp is (and isn’t) Coding tools manage the workbench. AgentUp hosts the relationship. AgentUp is AgentUp is not An IM for AI companions — add specialists like contacts Another coding agent, IDE, or terminal agent manager One…",
-    "pushed_at": "2026-11-05T15:35:44Z",
+    "pushed_at": "2026-11-07T05:46:05Z",
     "v": 2
   },
   "NJUWallSpider/IECourseGuide": {
@@ -96,7 +96,7 @@
   },
   "OpenByteInc/QuantDinger": {
     "excerpt": "QuantDinger - Open-Source AI Quant Research Platform Turn trading ideas into Python strategies, backtests, paper trading, live execution, and monitoring — all in one self-hosted stack. QuantDinger is a product of Open Byte Inc. AI research → Strategy code → Backtest → Paper/Live execution → Monitoring 简体中文 繁體中文 Tiếng Việt API AI Agents & MCP Live App Website Deploy on AWS Marketplace Video Demo Official Support Email SUPPORTED BY Open Byte Inc. has joined NVIDIA Inception. Want to contribute? Explore the public roadmap or claim a scoped task from Ready for contributors. QuantDinger can submit real orders when live trading is explicitly enabled. Start with paper trading, use restricted API…",
-    "pushed_at": "2026-11-06T07:50:31Z",
+    "pushed_at": "2026-11-06T18:09:36Z",
     "v": 2
   },
   "RahulShagri/Interactive-Assembly-Line-Balancer": {
@@ -134,9 +134,9 @@
     "pushed_at": "2026-09-01T05:06:19Z",
     "v": 2
   },
-  "WoYun520/pixel-gif-sticker-pack": {
-    "excerpt": "GIF 表情包工作室 给 Codex 一张角色图，帮你做一套聊天用的 GIF 表情包。 像素小人、动漫插画、真人和宠物照片都可以试。每张可以只是轻轻晃动，也可以让人物完整地做一个动作，比如挥手、比心、提裙行礼。 做完会给你单张 GIF、整套压缩包和播放预览。拿不准效果时，可以先做一张；已经选好了样子，就接着做一套。 还能拿角色做品牌短片。 让吉祥物拉开店铺、递出产品、装进包装袋，把角色动作和纸片拼贴连成一个小故事。成片之外，也交付能继续修改的工程。看看面包店的例子。 表情包展厅 这里有 242 张已有示例，还有 2 张刚重做的动作试样，等使用者确认。点击动图可以看原尺寸。大部分约两秒一轮，部分动作示例会短一些。品牌短片单独展示，不计入表情包数量。 各系列默认收起；点击对应窗口即可展开分类动图。 下载整个项目：242 张已有示例＋2 张重做试样＋品牌短片案例 大肥鱼 · 精选动态预览 🐋 大肥鱼（鲸鱼娘） · 100 张 · 点击窗口展开 蓝发鲸鱼娘的日常聊天表情，分为日常问候、开心撒娇、情绪反应、聊天回应、工作学习、生活状态和鲸喜祝福。 日常问候 · 16 张 001 你好呀 002 早安 003 晚安 004 请多关照 005 欢迎呀 006 谢谢你 007 对不起 008 好哒 009 赞一个 010 拜拜啦 011 有点害羞 012 乖巧等候 013 在吗在吗 014 探个头 015 是我呀 016 为你服务 开心撒娇 · 16 张 017 哈哈哈哈 018 耶 019 开心起飞 020 好耶 021 得意一下 022 啵一个 023 害羞了 024 抱抱你 025…",
-    "pushed_at": "2026-11-06T06:16:42Z",
+  "WoYun520/gif-factory": {
+    "excerpt": "GIF 工厂 挑一种风格，给一张参考图，把角色、相片和想法做成循环 GIF。 像素小人、人物与宠物、粘土吉祥物、光栅变画、漫画动态海报。 先看效果，再换成你自己的角色和主题；拿不准就先做一张。 6 个分类 · 9 个 GIF 风格入口 · 56 个动态案例 浏览风格 · 完整作品库 · 怎么使用 · Skill · 下载项目 精选：漫画印刷动态海报 人物、背景和大字一起设计。黑白打底，每个角色保留一种主色；从平静切到登场，字体也跟着展开，6 秒循环。 ▶ 播放九宫格 GIF · 使用这个风格 · 九张独立 GIF 挑一种风格 每个分类都放了多个角色、动作或场景。点击动图看原尺寸，点击风格名看制作方法；各风格详情页共有 56 个动态案例。100 张完整系列继续放在作品库，默认收起。 像素与游戏 鲸鱼娘·问候 像素轻动效 小秘书·回消息 像素轻动效 小秘书·生活 像素轻动效 眼镜男孩·冲鸭 像素完整动作 红帽女孩·你好呀 像素完整动作 太空猫·起飞啦 像素完整动作 像素轻动效 · 全部 6 张 · 像素完整动作 · 全部 8 张 插画与二次元 鸣人·加油 插画角色动作 路飞·冲鸭 插画角色动作 初音·嗨呀 插画角色动作 公主裙·提裙行礼 插画角色动作 插画角色动作 · 全部 4 张 真人与宠物 马斯克 真人轻动效 Tibo 真人轻动效 黄仁勋 真人轻动效 柯基·整活1 宠物拟人 柯基·整活4 宠物拟人 柯基·生活3 宠物拟人 真人轻动效 · 全部 4 张 · 宠物拟人 · 全部 8 张 材质与吉祥物 牛角包 粘土吉祥物 吐司 粘土吉祥物 咖啡 粘土吉祥物 拉开纸片 粘土吉祥物…",
+    "pushed_at": "2026-11-07T08:24:23Z",
     "v": 2
   },
   "Xiaoc7r/DOVideo-AI": {
@@ -146,7 +146,7 @@
   },
   "Yuan1z0825/nature-skills": {
     "excerpt": "在线网站 · 立即安装 · 快速开始 · 技能索引 · 其他安装 · 贡献方式 · English Nature Skills 网页版：内置 Nature Polishing（论文润色）与 Nature Figure（科研绘图）核心功能，访问地址 nature-skills 面向全球 AI 学者收录可复用科研技能，强调真实问题解决、可验证工作流与可直接使用的科研产物。 1. 项目发起人与运营信息 1.1 创始人介绍 1.2 自营 GPT / Claude 代充与成品号 1.3 知识星球 1.4 商务合作 2. Skills 主要开发者 3. 项目理念与社区 4. 快速开始 5. 安装 5.1 npx skills 安装方式 5.2 Claude Code 安装方式 5.3 Codex 安装方式 5.4 Chatbox 安装与使用 5.5 其他 Agent 场景 6. 技能索引 7. 贡献与开发 8. Star 历史 项目发起人与运营信息 1.1 创始人介绍 大家好，我是 nature-skills 的创立者袁一哲。感谢大家持续关注本项目。我们在抖音更新了许多视频教程，大家可以根据名称检索查看，希望能够真正帮助到科研工作。 1.2 自营 GPT / Claude 代充与成品号 严格筛选渠道商，提供完全正规的充值渠道与服务。欢迎访问 Nature AI 充值卡网（已上线plus一年代充，Pro5x，20x等等）： Nature AI 充值卡网 扫码添加微信客服 1.3 知识星球 知识星球名称：Nature Skills 以及背后的哲学，以加入知识星球代替打赏。 1.4 商务合作…",
-    "pushed_at": "2026-11-04T07:09:33Z",
+    "pushed_at": "2026-11-07T02:22:42Z",
     "v": 2
   },
   "aa1143/NamiGPT": {
@@ -166,12 +166,12 @@
   },
   "aldegad/sprite-gen": {
     "excerpt": "sprite-gen One drawing in. Game-ready sprites out — as an atlas, or as transparent motion loops. English · 한국어 · 日本語 · 简体中文 · Español · Français Help cover the model API costs of developing sprite-gen with an optional GitHub sponsorship . Choose your amount and a one-time or monthly contribution. Please wishlist Dungeon Sookuma on Steam , a game in development by the creator of sprite-gen with part of the game art made using this tool. Each character started as one still image . Grok Imagine brought it to life; sprite-gen extracted the transparent loops, and HyperFrames assembled this showcase. A separate village composition made from sprite-gen assets. This GIF preserves the 10-second…",
-    "pushed_at": "2026-11-06T07:27:21Z",
+    "pushed_at": "2026-11-07T05:01:55Z",
     "v": 2
   },
   "anthropics/skills": {
     "excerpt": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's creating documents with your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: What are skills? Using skills in Claude How to create custom skills Equipping agents for the real world with Agent Skills About This…",
-    "pushed_at": "2026-10-28T19:20:39Z",
+    "pushed_at": "2026-11-06T22:32:32Z",
     "v": 2
   },
   "billryan/resume": {
@@ -206,7 +206,7 @@
   },
   "eternity4719/HowToLiveBetter": {
     "excerpt": "高性价比人生指南 讲怎么活得久、怎么少生病，出了意外怎么救。讲怎么少花冤枉钱，哪些事会让人被骗、摊上官司。讲没工作没钱时能去领什么，开店、开公司、做网站要办什么手续。也讲恋爱结婚生孩子、出国和学手艺。法律、医保、社保这些制度上的内容，按中国大陆的现行规定写。 772 条建议，每条写明花掉什么、换回什么、证据有多硬，来源只引期刊论文和官方文件，少数官方不公开的案件引署名的原创新闻报道并附网页存档。 不用全做：这是一份备选单，不是任务清单——挑走一两条就算数，作者自己也没做到其中大部分。 书里的内容可能过时，也可能有错。不少政策各地执行不一样。真去办事、看病、打官司时，以当地部门、医生和律师的说法为准。发现写错了，欢迎提 issue。 电子书平台上的官方版本由果麦文化独家出品，2026 年 10 月上架，其他版本都不是官方的。本页的网页版、EPUB、PDF 照旧免费，更新也最快。 打开在线检索页 · 让 AI 照书回答（skill） AI 助手 skill 支持 Claude Code 和 Codex。装上后直接问「替朋友担保签不签」，它先查书里的条目再回答，并注明出自第几节第几条。 下载 PDF · EPUB · 离线单文件（HTML） · Anki 牌组 查阅 目录 · 术语表 · 核实记录 自查 生活自查：回答几十道是否题，看看书里哪些事你还没做到、先做哪几件 长文 结婚划不划算 · 家庭应急装备清单 · 遇到陌生人出事该不该停 · 做平台要办哪些证 · 生物钟和夜班 · 被裁了之后先做什么 · 孩子出生前后要办的事 · 刚确诊慢性病之后 · 换工作、换城市之前 交流 QQ…",
-    "pushed_at": "2026-11-05T07:22:40Z",
+    "pushed_at": "2026-11-06T10:20:15Z",
     "v": 2
   },
   "feiniaoyun/feiniaoyun": {
@@ -221,7 +221,7 @@
   },
   "google/or-tools": {
     "excerpt": "OR-Tools - Google Optimization Tools Google's software suite for combinatorial optimization. About OR-Tools Codemap Installation Quick Start Documentation Contributing License About OR-Tools Google Optimization Tools (a.k.a., OR-Tools) is an open-source, fast and portable software suite for solving combinatorial optimization problems. The suite contains: Two constraint programming solver (CP* and CP-SAT); Two linear programming solvers (Glop and PDLP); Wrappers around commercial and other open source solvers, including mixed integer solvers; Bin packing and knapsack algorithms; Algorithms for the Traveling Salesman Problem and Vehicle Routing Problem; Graph algorithms (shortest paths, min…",
-    "pushed_at": "2026-11-04T10:49:43Z",
+    "pushed_at": "2026-11-07T07:35:47Z",
     "v": 2
   },
   "greyhatguy007/Machine-Learning-Specialization-Coursera": {
@@ -231,7 +231,7 @@
   },
   "hiyouga/LlamaFactory": {
     "excerpt": "Used by Amazon, NVIDIA, Aliyun, etc. Check our new open-source project — 🐧 PenguinHarness: Local-first multi-agent app development platform - create, fine-tune, deploy AI apps automatically! Follow us and give us a star ⭐: Supporters ❤️ Warp, the agentic terminal for developers Available for MacOS, Linux, & Windows Easily fine-tune 100+ large language models with zero-code CLI and Web UI 👋 Join our WeChat and NPU user groups. \\ English [中文 \\] Fine-tuning a large language model can be easy as... Start local training: Please refer to usage Start cloud training: Colab (free): PAI-DSW (free trial): AMD GPU Cloud (free credits): Read technical notes: Documentation (WIP): Documentation (AMD GPU)…",
-    "pushed_at": "2026-11-06T09:25:08Z",
+    "pushed_at": "2026-11-06T12:20:51Z",
     "v": 2
   },
   "imraywang/ray-sticker-shop": {
@@ -266,12 +266,12 @@
   },
   "openclaw/openclaw": {
     "excerpt": "OpenClaw 🦞 — Your assistant, on your devices, in your chats OpenClaw is an open-source AI assistant that runs on your own computer and meets you in the channels you already use: Discord, iMessage, Slack, Teams, Telegram, WhatsApp, and 20+ more, plus native apps for macOS, iOS, Android, Windows, and Linux. One Gateway runs it as a personal claw on a laptop or as a shared multiplayer claw; configuration is the only difference. Yours, with no catch. State, memory, and credentials live on your hardware. Models and agent harnesses (Claude, Codex, local models) are plugins you can swap without changing anything else. Your prompts go to the model provider and chat platforms you configure, plus any…",
-    "pushed_at": "2026-11-06T09:32:13Z",
+    "pushed_at": "2026-11-07T08:54:12Z",
     "v": 2
   },
   "qwdwqfwq/topconf-paper-figure-gallery": {
     "excerpt": "🎨 Top-Conf Figure Gallery 顶会论文主图灵感画廊 · ICLR · ICML · NeurIPS · CVPR · ACL · AAAI · 2023–2026 💖 寻求赞助与资源支持 · Sponsors welcome 让科研绘图灵感持续开放，让开源工具走得更远。 欢迎个人与机构提供 资金赞助、模型 API 额度、GPU 算力或云资源，支持画廊维护、FigureForge 开发与效果验证。也欢迎通过贡献代码、推荐论文和分享项目支持我们！ 🤝 洽谈赞助 / 提供资源支持：939123836@qq.com Help keep this project open and growing. Financial sponsorship, model API credits, GPU compute, and cloud resources are welcome. Please email us to discuss support. ✨ FigureForge 生图成品 · Generated examples 以下是画廊 FigureForge 的实际生图示例。 机器人策略与执行 Robot policy & execution 层级工作记忆 Hierarchical working memory 工作记忆系统 · 从输入到结果 Memory system overview LLM 迎合行为因果分析 Internal causes of sycophancy in LLMs -yellow.svg) 国内 AtomGit 托管：访问本项目的…",
-    "pushed_at": "2026-11-04T13:14:11Z",
+    "pushed_at": "2026-11-07T08:41:28Z",
     "v": 2
   },
   "ruanyf/weekly": {
@@ -291,7 +291,7 @@
   },
   "v2fly/v2ray-core": {
     "excerpt": "Project V Project V is a set of network tools that helps you to build your own computer network. It secures your network connections and thus protects your privacy. Related Links Documentation and Newcomer's Instructions Welcome to translate V2Ray documents via Transifex Packaging Status If you are willing to package V2Ray for other distros/platforms, please let us know or seek for help via GitHub issues. License The MIT License (MIT) Credits This repo relies on the following third-party projects: In production: gorilla/websocket quic-go/quic-go pires/go-proxyproto seiflotfy/cuckoofilter google/starlark-go jhump/protoreflect inetaf/netaddr For testing only: miekg/dns h12w/socks",
-    "pushed_at": "2026-11-03T23:58:21Z",
+    "pushed_at": "2026-11-06T22:52:56Z",
     "v": 2
   },
   "vercel-labs/skills": {
