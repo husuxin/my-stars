@@ -1,7 +1,7 @@
 {
   "029danio/fly": {
-    "excerpt": "机场推荐 2026：稳定高速翻墙机场 / VPN 推荐（每月更新） 内容最后更新：2026年11月8日｜本页每月更新，榜单内均为国内实测可用的翻墙机场节点，采用 Shadowsocks / V2Ray / Trojan 等协议，稳定高速。 快速结论：2026 年机场推荐怎么选？ 要性价比，追剧 + AI 全都要：选 超实惠机场，年付低至 5.25 元/月，还送 Emby 全网影视会员。 要稳定，做外贸或长期备用：选 狗狗加速VPN，注册送 3 天免费，高速专线。 要便宜，流量不限时慢慢用：选 飞鸟云机场，10 元/月起，不限时套餐流量用完才停。 要速度，专线直连：选 蜂群cheap，直连原生双线路，千兆下行。 要专线，流量不限时慢慢用：选 扬帆云机场，19.99 元/月起，IEPL 专线+不限时流量包，流量用完才停。 目录：机场推荐榜 · 超实惠机场 · 狗狗加速VPN · 飞鸟云机场 · 蜂群cheap · 扬帆云机场 · 机场选购指南 · 常见问题 · 客户端下载 机场推荐榜（2026年11月） 排名 机场 线路与协议 解锁能力 适合人群 官网直达 🥇 超实惠机场 高质量线路，晚高峰 8K 秒开 Netflix / Disney+ / TikTok / ChatGPT / DeepSeek 追剧、AI 工具、主力机场 立即前往 🥈 狗狗加速VPN 高速专线，Hysteria2 协议 流媒体、ChatGPT 外贸、长期备用 立即前往 🥉 飞鸟云机场 节点多、线路多，三年老牌 ChatGPT / Netflix / TikTok / Telegram 备用机场、高性价比…",
-    "pushed_at": "2026-11-08T13:52:02Z",
+    "excerpt": "机场推荐 2026：稳定高速翻墙机场 / VPN 推荐（每月更新） 内容最后更新：2026年11月11日｜本页每月更新，榜单内均为国内实测可用的翻墙机场节点，采用 Shadowsocks / V2Ray / Trojan 等协议，稳定高速。 快速结论：2026 年机场推荐怎么选？ 要性价比，追剧 + AI 全都要：选 超实惠机场，年付低至 5.25 元/月，还送 Emby 全网影视会员。 要稳定，做外贸或长期备用：选 狗狗加速VPN，注册送 3 天免费，高速专线。 要便宜，流量不限时慢慢用：选 飞鸟云机场，10 元/月起，不限时套餐流量用完才停。 要速度，专线直连：选 蜂群cheap，直连原生双线路，千兆下行。 要专线，流量不限时慢慢用：选 扬帆云机场，19.99 元/月起，IEPL 专线+不限时流量包，流量用完才停。 目录：机场推荐榜 · 超实惠机场 · 狗狗加速VPN · 飞鸟云机场 · 蜂群cheap · 扬帆云机场 · 机场选购指南 · 常见问题 · 客户端下载 机场推荐榜（2026年11月） 排名 机场 线路与协议 解锁能力 适合人群 官网直达 🥇 超实惠机场 高质量线路，晚高峰 8K 秒开 Netflix / Disney+ / TikTok / ChatGPT / DeepSeek 追剧、AI 工具、主力机场 立即前往 🥈 狗狗加速VPN 高速专线，Hysteria2 协议 流媒体、ChatGPT 外贸、长期备用 立即前往 🥉 飞鸟云机场 节点多、线路多，三年老牌 ChatGPT / Netflix / TikTok / Telegram 备用机场、高性价比…",
+    "pushed_at": "2026-11-11T13:46:55Z",
     "v": 2
   },
   "521xueweihan/HelloGitHub": {
@@ -35,8 +35,8 @@
     "v": 2
   },
   "HKUDS/Vibe-Trading": {
-    "excerpt": "English 中文 日本語 한국어 العربية Español Bahasa Indonesia Vibe-Trading: Your Personal Trading Agent One Command to Empower Your Agent with Comprehensive Trading Capabilities GitHub topic rankings by stars · Nov 4, 2026 1 Backtesting · 3 Algorithmic Trading · 4 Quantitative Finance Website · Docs · News · Features · Shadow Account · Demo · Quick Start · Examples · API / MCP · Roadmap · Contributors 📰 News 2026-11-10 📊 Interactive IV surfaces and options analysis fixes — Edit strike/expiry IV grids in Options Lab, with observed/interpolated labels and no extrapolation (#2186). Fix low-price presets, quantities, expiry dates, retries, language-switch loading and the 20-leg limit. Bare three-digit…",
-    "pushed_at": "2026-11-11T09:32:45Z",
+    "excerpt": "English 中文 日本語 한국어 العربية Español Bahasa Indonesia Vibe-Trading: Your Personal Trading Agent One Command to Empower Your Agent with Comprehensive Trading Capabilities GitHub topic rankings by stars · Nov 4, 2026 1 Backtesting · 3 Algorithmic Trading · 4 Quantitative Finance Website · Docs · News · Features · Shadow Account · Demo · Quick Start · Examples · API / MCP · Roadmap · Contributors 📰 News 2026-11-11 🧾 Paper-trade partial fills and ledger reconciliation — Opt into per-order volume caps, partial fills and reported order states for A-share 5-minute paper simulations (#2128). Independently reconcile fees, cash, positions and NAV arithmetic from returned fills with the new…",
+    "pushed_at": "2026-11-11T09:40:22Z",
     "v": 2
   },
   "Ixiaohuihuihui/Tiny-Defect-Detection-for-PCB": {
@@ -81,12 +81,12 @@
   },
   "MetaCubeX/ClashMetaForAndroid": {
     "excerpt": "Clash Meta for Android A Graphical user interface of Clash.Meta for Android Feature Feature of Clash.Meta Requirement Android 5.0+ (minimum) Android 7.0+ (recommend) armeabi-v7a , arm64-v8a, x86 or x86_64 Architecture Build Update submodules Install OpenJDK 11, Android SDK, CMake and Golang Create local.properties in project root with (Optional) Custom app package name. Add the following configuration to local.properties. properties keystore.path=/path/to/keystore/file keystore.password= key.alias= key.password= bash ./gradlew app:assembleAlphaRelease Automation APP package name is com.github.metacubex.clash.meta Toggle Clash.Meta service status Send intent to activity…",
-    "pushed_at": "2026-11-11T06:52:01Z",
+    "pushed_at": "2026-11-12T01:22:25Z",
     "v": 2
   },
   "MorvanZhou/agentup": {
     "excerpt": "AgentUp Use AI the way you use WhatsApp. A local-first multi-agent desktop IM — add assistants like friends. Download · Website · Your AI Assistants — use AI the way you use WhatsApp. AgentUp is an open-source desktop app for multi-agent collaboration. Study, write, look things up, plan a trip — each assistant handles one kind of job; when the ask spans topics, it brings in another helper. Add assistants to your contacts like friends One assistant, one kind of chat. No mixing. It can read files on your computer and save results there After installing to Applications, run this once in Terminal so macOS will open the app: What AgentUp is (and isn’t) Coding tools manage the workbench. AgentUp…",
-    "pushed_at": "2026-11-10T15:57:18Z",
+    "pushed_at": "2026-11-12T03:28:25Z",
     "v": 2
   },
   "NJUWallSpider/IECourseGuide": {
@@ -96,7 +96,7 @@
   },
   "OpenByteInc/QuantDinger": {
     "excerpt": "QuantDinger - Open-Source AI Quant Research Platform Turn trading ideas into Python strategies, backtests, paper trading, live execution, and monitoring — all in one self-hosted stack. QuantDinger is a product of Open Byte Inc. AI research → Strategy code → Backtest → Paper/Live execution → Monitoring 简体中文 繁體中文 Tiếng Việt API AI Agents & MCP Live App Website Deploy on AWS Marketplace Video Demo Official Support Email SUPPORTED BY Open Byte Inc. has joined NVIDIA Inception. Want to contribute? Explore the public roadmap or claim a scoped task from Ready for contributors. QuantDinger can submit real orders when live trading is explicitly enabled. Start with paper trading, use restricted API…",
-    "pushed_at": "2026-11-11T09:20:35Z",
+    "pushed_at": "2026-11-11T16:49:22Z",
     "v": 2
   },
   "RahulShagri/Interactive-Assembly-Line-Balancer": {
@@ -126,7 +126,7 @@
   },
   "TheAlgorithms/Python": {
     "excerpt": "The Algorithms - Python All algorithms implemented in Python - for education 📚 Implementations are for learning purposes only. They may be less efficient than the implementations in the Python standard library. Use them at your discretion. 🚀 Getting Started 📋 Read through our Contribution Guidelines before you contribute. 🌐 Community Channels We are on Discord! Community channels are a great way for you to ask questions and get help. Please join us! 📜 List of Algorithms See our directory for easier navigation and a better overview of the project.",
-    "pushed_at": "2026-11-02T19:35:18Z",
+    "pushed_at": "2026-11-11T19:44:24Z",
     "v": 2
   },
   "Unicorn369/HookEuicc": {
@@ -135,8 +135,8 @@
     "v": 2
   },
   "WoYun520/gif-factory": {
-    "excerpt": "GIF 工厂 像素与游戏 · 插画与二次元 · 真人与宠物 · 材质与吉祥物 · 卡片与变画 · 海报与文字 · 电影片名字形 · 品牌短片 · 动态绘本 挑一种风格，给一张参考图，把角色、相片和想法做成 GIF，也能延伸成动态绘本。 像素小人、人物与宠物、粘土吉祥物、光栅变画、漫画动态海报。 先看效果，再换成你自己的角色和主题；拿不准就先做一张。 6 个 GIF 分类 · 10 个 GIF 风格入口 · 75 个动态案例，另有动态绘本和品牌短片 浏览风格 · 完整作品库 · 怎么使用 · Skill · 下载项目 精选：漫画印刷动态海报 人物、背景和大字一起设计。黑白打底，每个角色保留一种主色；从平静切到登场，字体也跟着展开，6 秒循环。 ▶ 播放九宫格 GIF · 使用这个风格 · 九张独立 GIF 挑一种风格 每个分类都放了多个角色、动作或场景。点击动图看原尺寸，点击风格名看制作方法；各风格详情页共有 75 个动态案例。100 张完整系列继续放在作品库，默认收起。 像素与游戏 鲸鱼娘·问候 像素轻动效 小秘书·回消息 像素轻动效 小秘书·生活 像素轻动效 眼镜男孩·冲鸭 像素完整动作 红帽女孩·你好呀 像素完整动作 太空猫·起飞啦 像素完整动作 像素轻动效 · 全部 6 张 · 像素完整动作 · 全部 8 张 插画与二次元 鸣人·加油 插画角色动作 路飞·冲鸭 插画角色动作 初音·嗨呀 插画角色动作 公主裙·提裙行礼 插画角色动作 插画角色动作 · 全部 4 张 真人与宠物 马斯克 真人轻动效 Tibo 真人轻动效 黄仁勋 真人轻动效 柯基·整活1 宠物拟人…",
-    "pushed_at": "2026-11-11T09:11:49Z",
+    "excerpt": "GIF 工厂 把这句话发给 Codex 安装： 帮我安装 GIF 工厂： 安装 Skill 是加入制作说明和脚本；运行时需要的工具按功能分别准备，见需要装什么。 装好后，给一张图、一段文字，或直接说想做什么。角色图、场景图、片名、字稿和配乐都可以自己提供，缺的部分再一起补。 表情包 · 光栅变画卡 · 动态海报 · 动态签名 · 电影片头 · 动态绘本 · 品牌短片 分类说明 · 完整作品库 · 使用指南 · 下载项目 仓库里有哪些 Skill 一般安装 GIF 工厂总入口即可，直接说需求。如果只用某个功能，也可以让 Codex 单独安装对应的 Skill 文件夹。 Skill 能做什么 说明 GIF 工厂总入口 根据需求选择表情包、卡片、海报、签名、片头、绘本或品牌短片的做法 查看 动态签名 支持多种字体和自定义字稿，把名字与意象融成动态签名 查看 电影片头 40 种字形可选，可以设计字、配场景，也可以用你提供的素材 查看 动态绘本 让插画做完一个动作，再翻到下一页，能做横屏或竖屏 查看 表情包 可以做像素、插画、真人、宠物和粘土角色。既能轻轻点头、摇摆，也能让角色完整做完挥手、行礼等动作。 像素 插画 宠物 像素轻动效 · 像素完整动作 · 插画 · 真人 · 宠物 · 粘土吉祥物 · 全部案例 用这张角色图做 12 张中文表情包，每张表情和姿势不同，加轻微点头或摇摆，文字用我给的这组台词。 光栅变画卡 让一张卡片在两种样子之间切换，比如人物与面罩、日常与变身、产品的两种配色。 看做法 · 全部案例 用这两张图做一张变画卡，来回切换两种状态，标题保持不动。 动态海报…",
+    "pushed_at": "2026-11-12T08:28:37Z",
     "v": 2
   },
   "Xiaoc7r/DOVideo-AI": {
@@ -151,7 +151,7 @@
   },
   "ZhuLinsen/daily_stock_analysis": {
     "excerpt": "📈 股票智能分析系统 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱 产品预览 · 功能特性 · 快速开始 · 推送效果 · 文档中心 · 完整指南 简体中文 English 繁體中文 💖 赞助商 (Sponsors) 感谢 Modelflare 赞助本项目！由美国 Havenbyte LLC 运营，满血稳定不掺水，低成本接入 GPT、Claude、Gemini、Grok 及 40+ 图片/视频模型。指定 OpenAI 分组提供 65% / 75% / 85% 每日缓存命中率保障 ；单笔充值 US$20 解锁 GPT 0.015x ， US$50 解锁 Claude 0.03x 。 专属链接注册 🖥️ 产品预览 ✨ 功能特性 能力 覆盖内容 AI 决策报告 核心结论、评分、趋势、买卖点位、风险警报、催化因素、操作检查清单 多市场数据聚合 覆盖 A股、港股、美股、日股、韩股、台股和 ETF，支持行情、K 线、技术指标、新闻、公告、基本面与报告辅助数据；不同市场的数据源和能力边界见 市场支持边界 Web / 桌面工作台 手动分析、任务进度、历史报告、完整 Markdown、回测、持仓、配置管理、浅色 / 深色主题 Agent 策略问股 多轮追问，支持均线、缠论、波浪、趋势、热点、事件、成长、预期等 15 种内置策略，覆盖 Web/Bot/API 智能导入与补全 图片、CSV/Excel、剪贴板导入；股票代码/名称/拼音/别名补全 自动化与推送…",
-    "pushed_at": "2026-11-10T11:51:09Z",
+    "pushed_at": "2026-11-12T07:59:38Z",
     "v": 2
   },
   "aa1143/NamiGPT": {
@@ -185,8 +185,8 @@
     "v": 2
   },
   "coin-or/pulp": {
-    "excerpt": "pulp .. image:: .. image:: PyPI .. image:: PyPI - Downloads PuLP is an linear and mixed integer programming modeler written in Python. With PuLP, it is simple to create MILP optimisation problems and solve them with the latest open-source (or proprietary) solvers. PuLP can generate MPS or LP files and call solvers such as GLPK_, COIN-OR CLP/CBC_, CPLEX_, GUROBI_, MOSEK_, XPRESS_, CHOCO_, MIPCL_, HiGHS_, SCIP_/FSCIP_, and OR-Tools CP-SAT_ (via the CPSAT API). The documentation for PuLP can be found here _. PuLP is part of the COIN-OR project _. .. note:: Upgrading from PuLP 3.x? PuLP 4.0 has breaking changes: variables are created with prob.add_variable(...), prob.constraints() returns a…",
-    "pushed_at": "2026-11-03T15:16:07Z",
+    "excerpt": "pulp .. image:: .. image:: PyPI .. image:: PyPI - Downloads PuLP is an linear and mixed integer programming modeler written in Python. With PuLP, it is simple to create MILP optimisation problems and solve them with the latest open-source (or proprietary) solvers. PuLP can generate MPS or LP files and call solvers such as GLPK_, COIN-OR CLP/CBC_ (also through CyLP_), CPLEX_, GUROBI_, MOSEK_, XPRESS_, COPT_, CHOCO_, MIPCL_, HiGHS_, SCIP_/FSCIP_, Clarabel_, NVIDIA cuOpt_, SAS_, and OR-Tools CP-SAT_ and GLOP_ (via the CPSAT and GLOP APIs). The documentation for PuLP can be found here _. PuLP is part of the COIN-OR project _. .. note:: Upgrading from PuLP 3.x? PuLP 4.0 has breaking changes…",
+    "pushed_at": "2026-11-12T08:45:12Z",
     "v": 2
   },
   "datawhalechina/machine-learning-toy-code": {
@@ -201,7 +201,7 @@
   },
   "datawhalechina/whale-quant": {
     "excerpt": "Datawhale量化开源课程 [⚠️ Alpha内测版] 本项目为量化开源课程，可以帮助人们快速掌握量化金融知识以及使用Python进行量化开发的能力。更进一步地让人们更好地学习和研究量化交易策略。此项目提供了一套完整的流程和工具链，从策略的理念、研究需要的数据、回测再到实盘，希望给大家带来帮助。 使用说明 在线阅读地址 WhaleQuant 智海平台学习地址 WhaleQuant Notebook运行环境配置 Python版本 请使用python3.9.X，如使用其他版本，requirements.txt中所列的依赖包可能不兼容。 安装相关的依赖包 docsify框架运行 协作规范 由于章节内容中需要有程序和执行结果，采用jupyter notebook的格式进行编写（文件路径：notebook），然后将其导出成markdown格式，再覆盖到docs对应的章节下。 可按照Notebook运行环境配置，配置相关的运行环境。 如果涉及到引用文章，请附上参考引用链接。 当前进度 章节号 标题 进度 负责人&参与人 第一章 投资与量化投资 已完成 孙子涵、崔腾松 第二章 金融市场的基础概念 已完成 崔腾松、袁明坤、戳戳龍、朱松青、管柯琴 第三章 股票数据获取 已完成 戴聪、王复振 第四章 量化选股策略 已完成 王翔、张雨、孙子涵、刘瑞航、徐望杰 第五章 量化择时策略 已完成 张雨、孙子涵、张晋、戳戳龍 第六章 量化调仓策略 已完成 孙子涵、邓昌、何斌、叶梁 第七章 量化回测 已完成 张晋、戳戳龍、王文彬 第八章 机器学习与量化策略 已完成 王翔、徐望杰、管柯琴、王文彬 项目结构…",
-    "pushed_at": "2026-01-15T13:02:15Z",
+    "pushed_at": "2026-11-12T02:43:06Z",
     "v": 2
   },
   "enginefuture/mac-gaming-uncle": {
@@ -211,7 +211,7 @@
   },
   "eternity4719/HowToLiveBetter": {
     "excerpt": "高性价比人生指南 讲怎么活得久、怎么少生病，出了意外怎么救。讲怎么少花冤枉钱，哪些事会让人被骗、摊上官司。讲没工作没钱时能去领什么，开店、开公司、做网站要办什么手续。也讲恋爱结婚生孩子、出国和学手艺。法律、医保、社保这些制度上的内容，按中国大陆的现行规定写。 772 条建议，每条写明花掉什么、换回什么、证据有多硬，来源只引期刊论文和官方文件，少数官方不公开的案件引署名的原创新闻报道并附网页存档。 不用全做：这是一份备选单，不是任务清单——挑走一两条就算数，作者自己也没做到其中大部分。 书里的内容可能过时，也可能有错。不少政策各地执行不一样。真去办事、看病、打官司时，以当地部门、医生和律师的说法为准。发现写错了，欢迎提 issue。 电子书平台上的官方版本由果麦文化独家出品，2026 年 10 月上架，其他版本都不是官方的。本页的网页版、EPUB、PDF 照旧免费，更新也最快。 打开在线检索页 · 让 AI 照书回答（skill） AI 助手 skill 支持 Claude Code 和 Codex。装上后直接问「替朋友担保签不签」，它先查书里的条目再回答，并注明出自第几节第几条。 下载 PDF · EPUB · 离线单文件（HTML） · Anki 牌组 查阅 目录 · 术语表 · 核实记录 自查 生活自查：回答几十道是否题，看看书里哪些事你还没做到、先做哪几件 长文 结婚划不划算 · 家庭应急装备清单 · 遇到陌生人出事该不该停 · 做平台要办哪些证 · 生物钟和夜班 · 被裁了之后先做什么 · 孩子出生前后要办的事 · 刚确诊慢性病之后 · 换工作、换城市之前 交流 QQ…",
-    "pushed_at": "2026-11-09T00:32:45Z",
+    "pushed_at": "2026-11-12T03:51:49Z",
     "v": 2
   },
   "feiniaoyun/feiniaoyun": {
@@ -226,7 +226,7 @@
   },
   "google/or-tools": {
     "excerpt": "OR-Tools - Google Optimization Tools Google's software suite for combinatorial optimization. About OR-Tools Codemap Installation Quick Start Documentation Contributing License About OR-Tools Google Optimization Tools (a.k.a., OR-Tools) is an open-source, fast and portable software suite for solving combinatorial optimization problems. The suite contains: Two constraint programming solver (CP* and CP-SAT); Two linear programming solvers (Glop and PDLP); Wrappers around commercial and other open source solvers, including mixed integer solvers; Bin packing and knapsack algorithms; Algorithms for the Traveling Salesman Problem and Vehicle Routing Problem; Graph algorithms (shortest paths, min…",
-    "pushed_at": "2026-11-10T15:36:01Z",
+    "pushed_at": "2026-11-12T08:37:23Z",
     "v": 2
   },
   "greyhatguy007/Machine-Learning-Specialization-Coursera": {
@@ -271,12 +271,12 @@
   },
   "openclaw/openclaw": {
     "excerpt": "OpenClaw 🦞 — Your assistant, on your devices, in your chats OpenClaw is an open-source AI assistant that runs on your own computer and meets you in the channels you already use: Discord, iMessage, Slack, Teams, Telegram, WhatsApp, and 20+ more, plus native apps for macOS, iOS, Android, Windows, and Linux. One Gateway runs it as a personal claw on a laptop or as a shared multiplayer claw; configuration is the only difference. Yours, with no catch. State, memory, and credentials live on your hardware. Models and agent harnesses (Claude, Codex, local models) are plugins you can swap without changing anything else. Your prompts go to the model provider and chat platforms you configure, plus any…",
-    "pushed_at": "2026-11-11T09:33:50Z",
+    "pushed_at": "2026-11-12T09:57:47Z",
     "v": 2
   },
   "qwdwqfwq/topconf-paper-figure-gallery": {
-    "excerpt": "🎨 Top-Conf Figure Gallery 顶会论文主图灵感画廊 · ICLR · ICML · NeurIPS · CVPR · ACL · AAAI · 2023–2026 💖 寻求赞助与资源支持 · Sponsors welcome 让科研绘图灵感持续开放，让开源工具走得更远。 欢迎个人与机构提供 资金赞助、模型 API 额度、GPU 算力或云资源，支持画廊维护、FigureForge 开发与效果验证。也欢迎通过贡献代码、推荐论文和分享项目支持我们！ 🤝 洽谈赞助 / 提供资源支持：939123836@qq.com Help keep this project open and growing. Financial sponsorship, model API credits, GPU compute, and cloud resources are welcome. Please email us to discuss support. ✨ FigureForge 生图成品 · Generated examples 以下是画廊 FigureForge 的实际生图示例。 机器人策略与执行 Robot policy & execution 时空扩散 Transformer · 可控视频生成 Controllable video generation via spatio-temporal diffusion transformer 湿磨芦苇秸秆浆料 · 稳定性与流变控制 Stability and rheology control of wet-milled…",
-    "pushed_at": "2026-11-10T12:09:28Z",
+    "excerpt": "🌐 简体中文 · English · Français · Русский · 한국어 · 日本語 🎨 顶会论文主图灵感画廊 顶会论文主图灵感画廊 · ICLR · ICML · NeurIPS · CVPR · ACL · AAAI · 2023–2026 💖 寻求赞助与资源支持 让科研绘图灵感持续开放，让开源工具走得更远。 欢迎个人与机构提供 资金赞助、模型 API 额度、GPU 算力或云资源，支持画廊维护、FigureForge 开发与效果验证。也欢迎通过贡献代码、推荐论文和分享项目支持我们！ 🤝 洽谈赞助 / 提供资源支持：939123836@qq.com ✨ FigureForge 生图成品 以下是画廊 FigureForge 的实际生图示例。 机器人策略与执行 时空扩散 Transformer · 可控视频生成 湿磨芦苇秸秆浆料 · 稳定性与流变控制 LLM 迎合行为因果分析 -yellow.svg) 🌐 简体中文 · English · Français · Русский · 한국어 · 日本語 国内 AtomGit 托管：访问本项目的 AtomGit 仓库 画论文主图前，先看顶会论文怎么排版。 一个可搜索、可筛选的 Figure 1 / Teaser 画廊。纯静态、零构建、可离线打开。 🌐 在线画廊 · 🛠️ FigureForge 画图 · 🎬 演示视频 · 📚 数据与方法 · ⚖️ 版权 / 下架 · 🤝 贡献指南 🤝 赞助伙伴 感谢以下伙伴为本项目提供大模型 API 与算力支持。点击横幅或名称即可访问，完整介绍可展开查看。 Infistar.cc…",
+    "pushed_at": "2026-11-12T09:56:17Z",
     "v": 2
   },
   "ruanyf/weekly": {
@@ -286,7 +286,7 @@
   },
   "scipopt/PySCIPOpt": {
     "excerpt": "PySCIPOpt This project provides an interface from Python to the SCIP Optimization Suite. Starting from v8.0.3, SCIP uses the Apache2.0 license. If you plan to use an earlier version of SCIP, please review SCIP's license restrictions. Documentation Please consult the online documentation or use the help() function directly in Python or ? in IPython/Jupyter. The old documentation, which we are in the process of migrating from, is still more complete w.r.t. the API, and can be found here See CHANGELOG.md for added, removed or fixed functionality. Installation The recommended installation method is via PyPI: To avoid interfering with system packages, it's best to use a virtual environment…",
-    "pushed_at": "2026-11-11T09:11:12Z",
+    "pushed_at": "2026-11-11T16:01:57Z",
     "v": 2
   },
   "tanweai/pua": {
