@@ -1,7 +1,7 @@
 {
   "029danio/fly": {
-    "excerpt": "机场推荐 2026：稳定高速翻墙机场 / VPN 推荐（每月更新） 内容最后更新：2026年11月11日｜本页每月更新，榜单内均为国内实测可用的翻墙机场节点，采用 Shadowsocks / V2Ray / Trojan 等协议，稳定高速。 快速结论：2026 年机场推荐怎么选？ 要性价比，追剧 + AI 全都要：选 超实惠机场，年付低至 5.25 元/月，还送 Emby 全网影视会员。 要稳定，做外贸或长期备用：选 狗狗加速VPN，注册送 3 天免费，高速专线。 要便宜，流量不限时慢慢用：选 飞鸟云机场，10 元/月起，不限时套餐流量用完才停。 要速度，专线直连：选 蜂群cheap，直连原生双线路，千兆下行。 要专线，流量不限时慢慢用：选 扬帆云机场，19.99 元/月起，IEPL 专线+不限时流量包，流量用完才停。 目录：机场推荐榜 · 超实惠机场 · 狗狗加速VPN · 飞鸟云机场 · 蜂群cheap · 扬帆云机场 · 机场选购指南 · 常见问题 · 客户端下载 机场推荐榜（2026年11月） 排名 机场 线路与协议 解锁能力 适合人群 官网直达 🥇 超实惠机场 高质量线路，晚高峰 8K 秒开 Netflix / Disney+ / TikTok / ChatGPT / DeepSeek 追剧、AI 工具、主力机场 立即前往 🥈 狗狗加速VPN 高速专线，Hysteria2 协议 流媒体、ChatGPT 外贸、长期备用 立即前往 🥉 飞鸟云机场 节点多、线路多，三年老牌 ChatGPT / Netflix / TikTok / Telegram 备用机场、高性价比…",
-    "pushed_at": "2026-11-11T13:46:55Z",
+    "excerpt": "机场推荐 2026：稳定高速翻墙机场 / VPN 推荐（每月更新） 内容最后更新：2026年11月14日｜本页每月更新，榜单内均为国内实测可用的翻墙机场节点，采用 Shadowsocks / V2Ray / Trojan 等协议，稳定高速。 快速结论：2026 年机场推荐怎么选？ 要性价比，追剧 + AI 全都要：选 超实惠机场，年付低至 5.25 元/月，还送 Emby 全网影视会员。 要稳定，做外贸或长期备用：选 狗狗加速VPN，注册送 3 天免费，高速专线。 要便宜，流量不限时慢慢用：选 飞鸟云机场，10 元/月起，不限时套餐流量用完才停。 要速度，专线直连：选 蜂群cheap，直连原生双线路，千兆下行。 要专线，流量不限时慢慢用：选 扬帆云机场，19.99 元/月起，IEPL 专线+不限时流量包，流量用完才停。 目录：机场推荐榜 · 超实惠机场 · 狗狗加速VPN · 飞鸟云机场 · 蜂群cheap · 扬帆云机场 · 机场选购指南 · 常见问题 · 客户端下载 机场推荐榜（2026年11月） 排名 机场 线路与协议 解锁能力 适合人群 官网直达 🥇 超实惠机场 高质量线路，晚高峰 8K 秒开 Netflix / Disney+ / TikTok / ChatGPT / DeepSeek 追剧、AI 工具、主力机场 立即前往 🥈 狗狗加速VPN 高速专线，Hysteria2 协议 流媒体、ChatGPT 外贸、长期备用 立即前往 🥉 飞鸟云机场 节点多、线路多，三年老牌 ChatGPT / Netflix / TikTok / Telegram 备用机场、高性价比…",
+    "pushed_at": "2026-11-14T13:42:31Z",
     "v": 2
   },
   "521xueweihan/HelloGitHub": {
@@ -35,8 +35,8 @@
     "v": 2
   },
   "HKUDS/Vibe-Trading": {
-    "excerpt": "English 中文 日本語 한국어 العربية Español Bahasa Indonesia Vibe-Trading: Your Personal Trading Agent One Command to Empower Your Agent with Comprehensive Trading Capabilities GitHub topic rankings by stars · Nov 4, 2026 1 Backtesting · 3 Algorithmic Trading · 4 Quantitative Finance Website · Docs · News · Features · Shadow Account · Demo · Quick Start · Examples · API / MCP · Roadmap · Contributors 📰 News 2026-11-13 🛠️ Research delivery and calculation tools — Research answers stream without automatic numeric redaction, forced rewrites, or format-based completion gates. Interrupted committee runs preserve partial results and can resume unfinished roles while reusing completed work. Full…",
-    "pushed_at": "2026-11-13T10:05:51Z",
+    "excerpt": "English 中文 日本語 한국어 العربية Español Bahasa Indonesia Vibe-Trading: Your Personal Trading Agent One Command to Empower Your Agent with Comprehensive Trading Capabilities GitHub topic rankings by stars · Nov 4, 2026 1 Backtesting · 3 Algorithmic Trading · 4 Quantitative Finance Website · Docs · News · Features · Shadow Account · Demo · Quick Start · Examples · API / MCP · Roadmap · Contributors 📰 News 2026-11-14 🔌 Unified LLM gateway and version checks — Model providers now share one catalog and configuration layer across Agent, CLI, API and Swarm. Client settings stay isolated, native adapters respect explicit proxy settings, and cross-origin redirects are blocked before credentials or…",
+    "pushed_at": "2026-11-15T05:43:59Z",
     "v": 2
   },
   "Ixiaohuihuihui/Tiny-Defect-Detection-for-PCB": {
@@ -81,7 +81,7 @@
   },
   "MetaCubeX/ClashMetaForAndroid": {
     "excerpt": "Clash Meta for Android A Graphical user interface of Clash.Meta for Android Feature Feature of Clash.Meta Requirement Android 5.0+ (minimum) Android 7.0+ (recommend) armeabi-v7a , arm64-v8a, x86 or x86_64 Architecture Build Update submodules Install OpenJDK 11, Android SDK, CMake and Golang Create local.properties in project root with (Optional) Custom app package name. Add the following configuration to local.properties. properties keystore.path=/path/to/keystore/file keystore.password= key.alias= key.password= bash ./gradlew app:assembleAlphaRelease Automation APP package name is com.github.metacubex.clash.meta Toggle Clash.Meta service status Send intent to activity…",
-    "pushed_at": "2026-11-14T08:42:21Z",
+    "pushed_at": "2026-11-14T15:53:01Z",
     "v": 2
   },
   "MorvanZhou/agentup": {
@@ -135,8 +135,8 @@
     "v": 2
   },
   "WoYun520/gif-factory": {
-    "excerpt": "GIF 工厂 把这句话发给 Codex 安装： 帮我安装 GIF 工厂： 安装 Skill 是加入制作说明和脚本；运行时需要的工具按功能分别准备，见需要装什么。 装好后，给一张图、一段文字，或直接说想做什么。角色图、场景图、片名、字稿和配乐都可以自己提供，缺的部分再一起补。 表情包 · 光栅变画卡 · 动态海报 · 动态签名 · 电影片头 · 动态绘本 · 品牌短片 · vibe 知识大赏 分类说明 · 完整作品库 · 使用指南 · 下载项目 仓库里有哪些 Skill 一般安装 GIF 工厂总入口即可，直接说需求。如果只用某个功能，也可以让 Codex 单独安装对应的 Skill 文件夹。 Skill 能做什么 说明 GIF 工厂总入口 根据需求选择表情包、卡片、海报、签名、片头、绘本、品牌短片或「vibe 知识大赏」的做法 查看 动态签名 支持多种字体和自定义字稿，把名字与意象融成动态签名 查看 电影片头 中文50种写法，英文50款基础字体与装饰封面；可用自己的字体、照片或字稿 查看 动态绘本 让插画做完一个动作，再翻到下一页，能做横屏或竖屏 查看 vibe 知识大赏 三种内置风格；立体剖面联动使用外部 lemo-opuscar Skill，来源单独说明 查看 表情包 可以做像素、插画、真人、宠物和粘土角色。既能轻轻点头、摇摆，也能让角色完整做完挥手、行礼等动作。 像素 插画 宠物 像素轻动效 · 像素完整动作 · 插画 · 真人 · 宠物 · 粘土吉祥物 · 全部案例 用这张角色图做 12 张中文表情包，每张表情和姿势不同，加轻微点头或摇摆，文字用我给的这组台词…",
-    "pushed_at": "2026-11-14T09:00:57Z",
+    "excerpt": "GIF 工厂 把这句话发给 Codex 安装： 帮我安装 GIF 工厂： 安装 Skill 是加入制作说明和脚本；运行时需要的工具按功能分别准备，见需要装什么。 装好后，给一张图、一段文字，或直接说想做什么。角色图、场景图、片名、字稿和配乐都可以自己提供，缺的部分再一起补。 表情包 · 光栅变画卡 · 动态海报 · 动态签名 · 电影片头 · 动态绘本 · 品牌短片 · vibe 知识大赏 分类说明 · 完整作品库 · 使用指南 · 下载项目 仓库里有哪些 Skill 一般安装 GIF 工厂总入口即可，直接说需求。如果只用某个功能，也可以让 Codex 单独安装对应的 Skill 文件夹。 Skill 能做什么 说明 GIF 工厂总入口 根据需求选择表情包、卡片、海报、签名、片头、绘本、品牌短片或「vibe 知识大赏」的做法 查看 动态签名 支持多种字体和自定义字稿，把名字与意象融成动态签名 查看 电影片头 中文50种写法，英文50款基础字体与装饰封面；可用自己的字体、照片或字稿 查看 动态绘本 让插画做完一个动作，再翻到下一页，能做横屏或竖屏 查看 vibe 知识大赏 四种内置风格，含同屏实验；立体剖面联动使用外部 lemo-opuscar Skill 查看 表情包 可以做像素、插画、真人、宠物和粘土角色。既能轻轻点头、摇摆，也能让角色完整做完挥手、行礼等动作。 像素 插画 宠物 像素轻动效 · 像素完整动作 · 插画 · 真人 · 宠物 · 粘土吉祥物 · 全部案例 用这张角色图做 12 张中文表情包，每张表情和姿势不同，加轻微点头或摇摆，文字用我给的这组台词…",
+    "pushed_at": "2026-11-15T03:50:04Z",
     "v": 2
   },
   "Xiaoc7r/DOVideo-AI": {
@@ -151,7 +151,7 @@
   },
   "ZhuLinsen/daily_stock_analysis": {
     "excerpt": "📈 股票智能分析系统 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱 产品预览 · 功能特性 · 快速开始 · 推送效果 · 文档中心 · 完整指南 简体中文 English 繁體中文 💖 赞助商 (Sponsors) 感谢 Modelflare 赞助本项目！由美国 Havenbyte LLC 运营，满血稳定不掺水，低成本接入 GPT、Claude、Gemini、Grok 及 40+ 图片/视频模型。指定 OpenAI 分组提供 65% / 75% / 85% 每日缓存命中率保障 ；单笔充值 US$20 解锁 GPT 0.015x ， US$50 解锁 Claude 0.03x 。 专属链接注册 🖥️ 产品预览 点击动图查看完整演示 ✨ 功能特性 能力 覆盖内容 AI 决策报告 核心结论、评分、趋势、买卖点位、风险警报、催化因素、操作检查清单 多市场数据聚合 覆盖 A股、港股、美股、日股、韩股、台股和 ETF，支持行情、K 线、技术指标、新闻、公告、基本面与报告辅助数据；不同市场的数据源和能力边界见 市场支持边界 Web / 桌面工作台 手动分析、任务进度、历史报告、完整 Markdown、回测、持仓、配置管理、浅色 / 深色主题 Agent 策略问股 多轮追问，支持均线、缠论、波浪、趋势、热点、事件、成长、预期等 15 种内置策略，覆盖 Web/Bot/API 智能导入与补全…",
-    "pushed_at": "2026-11-14T07:25:13Z",
+    "pushed_at": "2026-11-15T08:27:24Z",
     "v": 2
   },
   "aa1143/NamiGPT": {
@@ -166,7 +166,7 @@
   },
   "alchaincyf/huashu-skills": {
     "excerpt": "huashu-skills · 花叔开源Skills总目录 动画由 huashu-design skill制作 这里是花叔在GitHub上全部开源Skill的总目录，共57个，分三层收录。全部是标准Agent Skills格式（SKILL.md），Claude Code / Codex / Kimi Code等支持该格式的agent通用。 花叔 AI Native Coder · 独立开发者 · 全网50万+读者 代表作：小猫补光灯（App Store付费榜Top1）·《一本书玩转DeepSeek》· 女娲Skill生态 CCTV《焦点访谈》报道的「手搓经济」代表人物 30秒上手 全景一览 按需求找Skill 旗舰Skills（21个独立仓库） 人物视角Skills（14个独立仓库） 内置Skills（22个，本仓库） 安装指南 保持更新 给AI Agent的协议 这四个不是Skill 30秒上手 最省事的方式：把这句话发给你的AI agent—— 读 的README和skills.json，帮我安装（某个skill / 按我的需求推荐） 自己动手也只要一条命令（独立仓库skill）： 装完重启agent会话即生效。其余安装方式见安装指南。 全景一览 层 数量 是什么 怎么装 旗舰Skills 21 各自深耕一个领域的完整系统，独立仓库 git clone一条命令 人物视角Skills 14 女娲蒸馏的人物思维操作系统，独立仓库 git clone一条命令 内置Skills 22 轻量内容创作技能+更新检查工具，就在本仓库 复制子目录…",
-    "pushed_at": "2026-11-09T07:38:53Z",
+    "pushed_at": "2026-11-15T08:14:14Z",
     "v": 2
   },
   "aldegad/sprite-gen": {
@@ -176,7 +176,7 @@
   },
   "anthropics/skills": {
     "excerpt": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's creating documents with your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: What are skills? Using skills in Claude How to create custom skills Equipping agents for the real world with Agent Skills About This…",
-    "pushed_at": "2026-11-14T07:04:17Z",
+    "pushed_at": "2026-11-14T21:52:49Z",
     "v": 2
   },
   "billryan/resume": {
@@ -271,17 +271,17 @@
   },
   "openclaw/openclaw": {
     "excerpt": "OpenClaw 🦞 — Your assistant, on your devices, in your chats OpenClaw is an open-source AI assistant that runs on your own computer and meets you in the channels you already use: Discord, iMessage, Slack, Teams, Telegram, WhatsApp, and 20+ more, plus native apps for macOS, iOS, Android, Windows, and Linux. One Gateway runs it as a personal claw on a laptop or as a shared multiplayer claw; configuration is the only difference. Yours, with no catch. State, memory, and credentials live on your hardware. Models and agent harnesses (Claude, Codex, local models) are plugins you can swap without changing anything else. Your prompts go to the model provider and chat platforms you configure, plus any…",
-    "pushed_at": "2026-11-14T09:06:57Z",
+    "pushed_at": "2026-11-15T09:37:34Z",
     "v": 2
   },
   "qwdwqfwq/topconf-paper-figure-gallery": {
     "excerpt": "🌐 简体中文 · English · Français · Русский · 한국어 · 日本語 🎨 顶会论文主图灵感画廊 顶会论文主图灵感画廊 · ICLR · ICML · NeurIPS · CVPR · ACL · AAAI · 2023–2026 💖 寻求赞助与资源支持 让科研绘图灵感持续开放，让开源工具走得更远。 欢迎个人与机构提供 资金赞助、模型 API 额度、GPU 算力或云资源，支持画廊维护、FigureForge 开发与效果验证。也欢迎通过贡献代码、推荐论文和分享项目支持我们！ 🤝 洽谈赞助 / 提供资源支持：939123836@qq.com ✨ FigureForge 生图成品 以下是画廊 FigureForge 的实际生图示例。 机器人策略与执行 时空扩散 Transformer · 可控视频生成 湿磨芦苇秸秆浆料 · 稳定性与流变控制 LLM 迎合行为因果分析 -yellow.svg) 🌐 简体中文 · English · Français · Русский · 한국어 · 日本語 国内 AtomGit 托管：访问本项目的 AtomGit 仓库 画论文主图前，先看顶会论文怎么排版。 一个可搜索、可筛选的 Figure 1 / Teaser 画廊。纯静态、零构建、可离线打开。 🌐 在线画廊 · 🛠️ FigureForge 画图 · 🎬 演示视频 · 📚 数据与方法 · ⚖️ 版权 / 下架 · 🤝 贡献指南 🤝 赞助伙伴 感谢以下伙伴为本项目提供大模型 API 与算力支持。点击横幅或名称即可访问，完整介绍可展开查看。 Infistar.cc…",
-    "pushed_at": "2026-11-14T06:27:51Z",
+    "pushed_at": "2026-11-15T09:08:53Z",
     "v": 2
   },
   "ruanyf/weekly": {
     "excerpt": "科技爱好者周刊 记录每周值得分享的科技内容，周五发布。 欢迎投稿文章/软件/资源，请提交 issue 。 P.S. 讨论区的《谁在招人》，是一个免费的程序员招聘帖，提供大量就业信息，欢迎发布工作/实习岗位。 十一月 第 419 期：机房来了，写字楼走了 第 418 期：如果科技停止在21世纪初 十月 第 417 期：不要让 AI 代表你 第 416 期：编程已经面目全非 第 415 期：3D 版《看不见的城市》 第 414 期：Jev 决策模型有什么用 九月 第 413 期：再见了，React Native 第 412 期：禁止 issue，只用 PR 第 411 期：OpenClaw 2.0 是一个缩影 八月 第 410 期：你需要知道的 AI 三种机制 第 409 期：程序员的职业未来 第 408 期：你需要知道的 AI 缓存知识 第 407 期：国家为什么需要开源软件？ 七月 第 406 期：道可，道非，常道 第 405 期：资源，社会公平与算力 第 404 期：你需要知道的 AI 内存知识 第 403 期：为什么 Dropbox 不成功 第 402 期：我在智念 AI 的日子（小说） 六月 第 401 期：如何赚到10亿美元 第 400 期：rsync 的争论 第 399 期：中国 AI 大厂访问记 五月 第 398 期：Token 费用难以负担 第 397 期：财富正在向 AI 集中 第 396 期：互联网通信的替代方案 第 395 期：软件开发的第三种方式 四月 第 394 期：第二次 API 开放浪潮 第 393 期：脑腐状态 第 392 期：axios…",
-    "pushed_at": "2026-11-13T00:18:08Z",
+    "pushed_at": "2026-11-14T13:10:11Z",
     "v": 2
   },
   "scipopt/PySCIPOpt": {
