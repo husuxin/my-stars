@@ -35,8 +35,8 @@
     "v": 2
   },
   "HKUDS/Vibe-Trading": {
-    "excerpt": "English 中文 日本語 한국어 العربية Español Bahasa Indonesia Vibe-Trading: Your Personal Trading Agent One Command to Empower Your Agent with Comprehensive Trading Capabilities GitHub topic rankings by stars · Nov 4, 2026 1 Backtesting · 3 Algorithmic Trading · 4 Quantitative Finance Website · Docs · News · Features · Shadow Account · Demo · Quick Start · Examples · API / MCP · Roadmap · Contributors 📰 News 2026-11-15 📡 Unified market-data gateway and ready-to-use CSVs — Historical bars and US option snapshots share a local data gateway with source fallback, shared caching and bounded concurrency. Responses preserve source, currency and price-adjustment metadata, with explicit coverage and freshness…",
-    "pushed_at": "2026-11-16T08:30:18Z",
+    "excerpt": "English 中文 日本語 한국어 العربية Español Bahasa Indonesia Vibe-Trading: Your Personal Trading Agent One Command to Empower Your Agent with Comprehensive Trading Capabilities GitHub topic rankings by stars · Nov 4, 2026 1 Backtesting · 3 Algorithmic Trading · 4 Quantitative Finance Website · Docs · News · Features · Shadow Account · Demo · Quick Start · Examples · API / MCP · Roadmap · Contributors 📰 News 2026-11-16 🛠️ More reliable reports, memory search and messaging — Shadow Account reports keep unmeasured P&L unavailable instead of showing zero, including cached HTML/PDF exports. Memory search repairs legacy indexes; partially failed PDF OCR is marked degraded. Fix Signal pairing, preserve…",
+    "pushed_at": "2026-11-16T12:41:13Z",
     "v": 2
   },
   "Ixiaohuihuihui/Tiny-Defect-Detection-for-PCB": {
@@ -151,7 +151,7 @@
   },
   "ZhuLinsen/daily_stock_analysis": {
     "excerpt": "📈 股票智能分析系统 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱 产品预览 · 功能特性 · 快速开始 · 推送效果 · 文档中心 · 完整指南 简体中文 English 繁體中文 💖 赞助商 (Sponsors) 感谢 Modelflare 赞助本项目！由美国 Havenbyte LLC 运营，满血稳定不掺水，低成本接入 GPT、Claude、Gemini、Grok 及 40+ 图片/视频模型。指定 OpenAI 分组提供 65% / 75% / 85% 每日缓存命中率保障 ；单笔充值 US$20 解锁 GPT 0.015x ， US$50 解锁 Claude 0.03x 。 专属链接注册 100+ 模型 $5 包月，Claude 1.9 折、GPT 0.9 折、DeepSeek 5.8 折，首充立减 20%。 专属链接注册 🖥️ 产品预览 点击动图查看完整演示 ✨ 功能特性 能力 覆盖内容 AI 决策报告 核心结论、评分、趋势、买卖点位、风险警报、催化因素、操作检查清单 多市场数据聚合 覆盖 A股、港股、美股、日股、韩股、台股和 ETF，支持行情、K 线、技术指标、新闻、公告、基本面与报告辅助数据；不同市场的数据源和能力边界见 市场支持边界 Web / 桌面工作台 手动分析、任务进度、历史报告、完整 Markdown、回测、持仓、配置管理、浅色 / 深色主题 Agent 策略问股…",
-    "pushed_at": "2026-11-15T15:47:25Z",
+    "pushed_at": "2026-11-16T13:20:41Z",
     "v": 2
   },
   "aa1143/NamiGPT": {
@@ -176,7 +176,7 @@
   },
   "anthropics/skills": {
     "excerpt": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's creating documents with your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: What are skills? Using skills in Claude How to create custom skills Equipping agents for the real world with Agent Skills About This…",
-    "pushed_at": "2026-11-14T21:52:49Z",
+    "pushed_at": "2026-11-16T14:22:50Z",
     "v": 2
   },
   "billryan/resume": {
@@ -215,8 +215,8 @@
     "v": 2
   },
   "feiniaoyun/feiniaoyun": {
-    "excerpt": "飞鸟云最新国内免翻网址,用手机流量访问：(2026/11/02更新) 点击下面地址跳转到飞鸟云官网。节点卡，不稳定，慢，延迟高，掉线，等问题，请官网重新导入订阅，用手机流量试下。账号报错找官网右下角客服恢复。 （2026/10/28更新公告） 遇到问题联系官网右下角蓝色图标在线客服解决，或者发工单。 请知悉无退款服务。 翻墙后访问的永久网址： 飞鸟云官网地址防失联发布页： 请加入我们的TG电报群群组:",
-    "pushed_at": "2026-11-02T01:10:27Z",
+    "excerpt": "飞鸟云最新国内免翻网址,用手机流量访问：(2026/11/17更新) 点击下面地址跳转到飞鸟云官网。节点卡，不稳定，慢，延迟高，掉线，等问题，请官网重新导入订阅，用手机流量试下。账号报错找官网右下角客服恢复。 （2026/11/17更新公告） 官网重新导入订阅，可以解决99%问题。 遇到问题联系官网右下角蓝色图标在线客服解决，或者发工单。 请知悉无退款服务。 翻墙后访问的永久网址： 飞鸟云官网地址防失联发布页： 请加入我们的TG电报群群组:",
+    "pushed_at": "2026-11-17T08:01:30Z",
     "v": 2
   },
   "geekcompany/ResumeSample": {
@@ -226,7 +226,7 @@
   },
   "google/or-tools": {
     "excerpt": "OR-Tools - Google Optimization Tools Google's software suite for combinatorial optimization. About OR-Tools Codemap Installation Quick Start Documentation Contributing License About OR-Tools Google Optimization Tools (a.k.a., OR-Tools) is an open-source, fast and portable software suite for solving combinatorial optimization problems. The suite contains: Two constraint programming solver (CP* and CP-SAT); Two linear programming solvers (Glop and PDLP); Wrappers around commercial and other open source solvers, including mixed integer solvers; Bin packing and knapsack algorithms; Algorithms for the Traveling Salesman Problem and Vehicle Routing Problem; Graph algorithms (shortest paths, min…",
-    "pushed_at": "2026-11-16T09:20:08Z",
+    "pushed_at": "2026-11-17T10:46:01Z",
     "v": 2
   },
   "greyhatguy007/Machine-Learning-Specialization-Coursera": {
@@ -236,7 +236,7 @@
   },
   "hiyouga/LlamaFactory": {
     "excerpt": "Used by Amazon, NVIDIA, Aliyun, etc. Check our new open-source project — 🐧 PenguinHarness: Local-first multi-agent app development platform - create, fine-tune, deploy AI apps automatically! Follow us and give us a star ⭐: Supporters ❤️ Warp, the agentic terminal for developers Available for MacOS, Linux, & Windows Easily fine-tune 100+ large language models with zero-code CLI and Web UI 👋 Join our WeChat and NPU user groups. \\ English [中文 \\] Fine-tuning a large language model can be easy as... Start local training: Please refer to usage Start cloud training: Colab (free): PAI-DSW (free trial): AMD GPU Cloud (free credits): Read technical notes: Documentation (WIP): Documentation (AMD GPU)…",
-    "pushed_at": "2026-11-16T04:22:56Z",
+    "pushed_at": "2026-11-17T04:25:42Z",
     "v": 2
   },
   "imraywang/ray-sticker-shop": {
@@ -271,12 +271,12 @@
   },
   "openclaw/openclaw": {
     "excerpt": "OpenClaw 🦞 — Your assistant, on your devices, in your chats OpenClaw is an open-source AI assistant that runs on your own computer and meets you in the channels you already use: Discord, iMessage, Slack, Teams, Telegram, WhatsApp, and 20+ more, plus native apps for macOS, iOS, Android, Windows, and Linux. One Gateway runs it as a personal claw on a laptop or as a shared multiplayer claw; configuration is the only difference. Yours, with no catch. State, memory, and credentials live on your hardware. Models and agent harnesses (Claude, Codex, local models) are plugins you can swap without changing anything else. Your prompts go to the model provider and chat platforms you configure, plus any…",
-    "pushed_at": "2026-11-16T09:55:56Z",
+    "pushed_at": "2026-11-17T10:49:10Z",
     "v": 2
   },
   "qwdwqfwq/topconf-paper-figure-gallery": {
     "excerpt": "🌐 简体中文 · English · Français · Русский · 한국어 · 日本語 🎨 顶会论文主图灵感画廊 顶会论文主图灵感画廊 · ICLR · ICML · NeurIPS · CVPR · ACL · AAAI · 2023–2026 💖 寻求赞助与资源支持 让科研绘图灵感持续开放，让开源工具走得更远。 欢迎个人与机构提供 资金赞助、模型 API 额度、GPU 算力或云资源，支持画廊维护、FigureForge 开发与效果验证。也欢迎通过贡献代码、推荐论文和分享项目支持我们！ 🤝 洽谈赞助 / 提供资源支持：939123836@qq.com ✨ FigureForge 生图成品 以下是画廊 FigureForge 的实际生图示例。 机器人策略与执行 时空扩散 Transformer · 可控视频生成 湿磨芦苇秸秆浆料 · 稳定性与流变控制 LLM 迎合行为因果分析 -yellow.svg) 🌐 简体中文 · English · Français · Русский · 한국어 · 日本語 国内 AtomGit 托管：访问本项目的 AtomGit 仓库 画论文主图前，先看顶会论文怎么排版。 一个可搜索、可筛选的 Figure 1 / Teaser 画廊。纯静态、零构建、可离线打开。 🌐 在线画廊 · 🛠️ FigureForge 画图 · 🎬 演示视频 · 📚 数据与方法 · ⚖️ 版权 / 下架 · 🤝 贡献指南 🤝 赞助伙伴 感谢以下伙伴为本项目提供大模型 API 与算力支持。点击横幅或名称即可访问，完整介绍可展开查看。 Infistar.cc…",
-    "pushed_at": "2026-11-15T14:28:48Z",
+    "pushed_at": "2026-11-17T10:46:58Z",
     "v": 2
   },
   "ruanyf/weekly": {
@@ -286,7 +286,7 @@
   },
   "scipopt/PySCIPOpt": {
     "excerpt": "PySCIPOpt This project provides an interface from Python to the SCIP Optimization Suite. Starting from v8.0.3, SCIP uses the Apache2.0 license. If you plan to use an earlier version of SCIP, please review SCIP's license restrictions. Documentation Please consult the online documentation or use the help() function directly in Python or ? in IPython/Jupyter. The old documentation, which we are in the process of migrating from, is still more complete w.r.t. the API, and can be found here See CHANGELOG.md for added, removed or fixed functionality. Installation The recommended installation method is via PyPI: To avoid interfering with system packages, it's best to use a virtual environment…",
-    "pushed_at": "2026-11-15T23:37:48Z",
+    "pushed_at": "2026-11-17T10:32:08Z",
     "v": 2
   },
   "tanweai/pua": {
@@ -296,12 +296,12 @@
   },
   "v2fly/v2ray-core": {
     "excerpt": "Project V Project V is a set of network tools that helps you to build your own computer network. It secures your network connections and thus protects your privacy. Related Links Documentation and Newcomer's Instructions Welcome to translate V2Ray documents via Transifex Packaging Status If you are willing to package V2Ray for other distros/platforms, please let us know or seek for help via GitHub issues. License The MIT License (MIT) Credits This repo relies on the following third-party projects: In production: gorilla/websocket quic-go/quic-go pires/go-proxyproto seiflotfy/cuckoofilter google/starlark-go jhump/protoreflect inetaf/netaddr For testing only: miekg/dns h12w/socks",
-    "pushed_at": "2026-11-12T22:52:59Z",
+    "pushed_at": "2026-11-16T22:53:04Z",
     "v": 2
   },
   "vercel-labs/skills": {
     "excerpt": "skills The CLI for the open agent skills ecosystem. Agent skills are reusable instructions that teach coding agents how to perform tasks, from reviewing code to working with a library. Discover skills at skills.sh. Supports OpenCode, Claude Code, Codex, Cursor, and 75 more. Install a Skill Requires Node.js 22.20 or later. Run this from your project: Choose the skills and coding agents to install to. Skills are installed to the current project by default; add -g to make them available across projects. See the installation reference for source formats, private repositories, and all options. Other Commands Command Description npx skills find [query] Search for skills npx skills list List…",
-    "pushed_at": "2026-11-16T09:35:36Z",
+    "pushed_at": "2026-11-17T00:58:04Z",
     "v": 2
   },
   "wesm/pydata-book": {
