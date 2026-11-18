@@ -1,7 +1,7 @@
 {
   "029danio/fly": {
-    "excerpt": "机场推荐 2026：稳定高速翻墙机场 / VPN 推荐（每月更新） 内容最后更新：2026年11月14日｜本页每月更新，榜单内均为国内实测可用的翻墙机场节点，采用 Shadowsocks / V2Ray / Trojan 等协议，稳定高速。 快速结论：2026 年机场推荐怎么选？ 要性价比，追剧 + AI 全都要：选 超实惠机场，年付低至 5.25 元/月，还送 Emby 全网影视会员。 要稳定，做外贸或长期备用：选 狗狗加速VPN，注册送 3 天免费，高速专线。 要便宜，流量不限时慢慢用：选 飞鸟云机场，10 元/月起，不限时套餐流量用完才停。 要速度，专线直连：选 蜂群cheap，直连原生双线路，千兆下行。 要专线，流量不限时慢慢用：选 扬帆云机场，19.99 元/月起，IEPL 专线+不限时流量包，流量用完才停。 目录：机场推荐榜 · 超实惠机场 · 狗狗加速VPN · 飞鸟云机场 · 蜂群cheap · 扬帆云机场 · 机场选购指南 · 常见问题 · 客户端下载 机场推荐榜（2026年11月） 排名 机场 线路与协议 解锁能力 适合人群 官网直达 🥇 超实惠机场 高质量线路，晚高峰 8K 秒开 Netflix / Disney+ / TikTok / ChatGPT / DeepSeek 追剧、AI 工具、主力机场 立即前往 🥈 狗狗加速VPN 高速专线，Hysteria2 协议 流媒体、ChatGPT 外贸、长期备用 立即前往 🥉 飞鸟云机场 节点多、线路多，三年老牌 ChatGPT / Netflix / TikTok / Telegram 备用机场、高性价比…",
-    "pushed_at": "2026-11-14T13:42:31Z",
+    "excerpt": "机场推荐 2026：稳定高速翻墙机场 / VPN 推荐（每月更新） 内容最后更新：2026年11月17日｜本页每月更新，榜单内均为国内实测可用的翻墙机场节点，采用 Shadowsocks / V2Ray / Trojan 等协议，稳定高速。 快速结论：2026 年机场推荐怎么选？ 要性价比，追剧 + AI 全都要：选 超实惠机场，年付低至 5.25 元/月，还送 Emby 全网影视会员。 要稳定，做外贸或长期备用：选 狗狗加速VPN，注册送 3 天免费，高速专线。 要便宜，流量不限时慢慢用：选 飞鸟云机场，10 元/月起，不限时套餐流量用完才停。 要速度，专线直连：选 蜂群cheap，直连原生双线路，千兆下行。 要专线，流量不限时慢慢用：选 扬帆云机场，19.99 元/月起，IEPL 专线+不限时流量包，流量用完才停。 目录：机场推荐榜 · 超实惠机场 · 狗狗加速VPN · 飞鸟云机场 · 蜂群cheap · 扬帆云机场 · 机场选购指南 · 常见问题 · 客户端下载 机场推荐榜（2026年11月） 排名 机场 线路与协议 解锁能力 适合人群 官网直达 🥇 超实惠机场 高质量线路，晚高峰 8K 秒开 Netflix / Disney+ / TikTok / ChatGPT / DeepSeek 追剧、AI 工具、主力机场 立即前往 🥈 狗狗加速VPN 高速专线，Hysteria2 协议 流媒体、ChatGPT 外贸、长期备用 立即前往 🥉 飞鸟云机场 节点多、线路多，三年老牌 ChatGPT / Netflix / TikTok / Telegram 备用机场、高性价比…",
+    "pushed_at": "2026-11-17T13:52:06Z",
     "v": 2
   },
   "521xueweihan/HelloGitHub": {
@@ -35,8 +35,8 @@
     "v": 2
   },
   "HKUDS/Vibe-Trading": {
-    "excerpt": "English 中文 日本語 한국어 العربية Español Bahasa Indonesia Vibe-Trading: Your Personal Trading Agent One Command to Empower Your Agent with Comprehensive Trading Capabilities GitHub topic rankings by stars · Nov 4, 2026 1 Backtesting · 3 Algorithmic Trading · 4 Quantitative Finance Website · Docs · News · Features · Shadow Account · Demo · Quick Start · Examples · API / MCP · Roadmap · Contributors 📰 News 2026-11-16 🛠️ More reliable reports, memory search and messaging — Shadow Account reports keep unmeasured P&L unavailable instead of showing zero, including cached HTML/PDF exports. Memory search repairs legacy indexes; partially failed PDF OCR is marked degraded. Fix Signal pairing, preserve…",
-    "pushed_at": "2026-11-16T12:41:13Z",
+    "excerpt": "English 中文 日本語 한국어 العربية Español Bahasa Indonesia Vibe-Trading: Your Personal Trading Agent One Command to Empower Your Agent with Comprehensive Trading Capabilities GitHub topic rankings by stars · Nov 4, 2026 1 Backtesting · 3 Algorithmic Trading · 4 Quantitative Finance Website · Docs · News · Features · Shadow Account · Demo · Quick Start · Examples · API / MCP · Roadmap · Contributors 📰 News 2026-11-17 📊 Portfolio risk details and reusable options analysis — Risk X-Ray adds observed drawdown periods and signed per-holding volatility contributions. Options Lab exports calculated snapshots as JSON and scenario grids as CSV, and diagnoses observed IV slices with explicit coverage…",
+    "pushed_at": "2026-11-18T08:35:29Z",
     "v": 2
   },
   "Ixiaohuihuihui/Tiny-Defect-Detection-for-PCB": {
@@ -81,12 +81,12 @@
   },
   "MetaCubeX/ClashMetaForAndroid": {
     "excerpt": "Clash Meta for Android A Graphical user interface of Clash.Meta for Android Feature Feature of Clash.Meta Requirement Android 5.0+ (minimum) Android 7.0+ (recommend) armeabi-v7a , arm64-v8a, x86 or x86_64 Architecture Build Update submodules Install OpenJDK 11, Android SDK, CMake and Golang Create local.properties in project root with (Optional) Custom app package name. Add the following configuration to local.properties. properties keystore.path=/path/to/keystore/file keystore.password= key.alias= key.password= bash ./gradlew app:assembleAlphaRelease Automation APP package name is com.github.metacubex.clash.meta Toggle Clash.Meta service status Send intent to activity…",
-    "pushed_at": "2026-11-15T09:58:37Z",
+    "pushed_at": "2026-11-18T01:46:17Z",
     "v": 2
   },
   "MorvanZhou/agentup": {
     "excerpt": "AgentUp Use AI the way you use WhatsApp. A local-first multi-agent desktop IM — add assistants like friends. Download · Website · Your AI Assistants — use AI the way you use WhatsApp. AgentUp is an open-source desktop app for multi-agent collaboration. Study, write, look things up, plan a trip — each assistant handles one kind of job; when the ask spans topics, it brings in another helper. Add assistants to your contacts like friends One assistant, one kind of chat. No mixing. It can read files on your computer and save results there After installing to Applications, run this once in Terminal so macOS will open the app: What AgentUp is (and isn’t) Coding tools manage the workbench. AgentUp…",
-    "pushed_at": "2026-11-12T11:19:58Z",
+    "pushed_at": "2026-11-18T02:56:44Z",
     "v": 2
   },
   "NJUWallSpider/IECourseGuide": {
@@ -150,8 +150,8 @@
     "v": 2
   },
   "ZhuLinsen/daily_stock_analysis": {
-    "excerpt": "📈 股票智能分析系统 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱 产品预览 · 功能特性 · 快速开始 · 推送效果 · 文档中心 · 完整指南 简体中文 English 繁體中文 💖 赞助商 (Sponsors) 感谢 Modelflare 赞助本项目！由美国 Havenbyte LLC 运营，满血稳定不掺水，低成本接入 GPT、Claude、Gemini、Grok 及 40+ 图片/视频模型。指定 OpenAI 分组提供 65% / 75% / 85% 每日缓存命中率保障 ；单笔充值 US$20 解锁 GPT 0.015x ， US$50 解锁 Claude 0.03x 。 专属链接注册 100+ 模型 $5 包月，Claude 1.9 折、GPT 0.9 折、DeepSeek 5.8 折，首充立减 20%。 专属链接注册 🖥️ 产品预览 点击动图查看完整演示 ✨ 功能特性 能力 覆盖内容 AI 决策报告 核心结论、评分、趋势、买卖点位、风险警报、催化因素、操作检查清单 多市场数据聚合 覆盖 A股、港股、美股、日股、韩股、台股和 ETF，支持行情、K 线、技术指标、新闻、公告、基本面与报告辅助数据；不同市场的数据源和能力边界见 市场支持边界 Web / 桌面工作台 手动分析、任务进度、历史报告、完整 Markdown、回测、持仓、配置管理、浅色 / 深色主题 Agent 策略问股…",
-    "pushed_at": "2026-11-16T13:20:41Z",
+    "excerpt": "📈 股票智能分析系统 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱 产品预览 · 功能特性 · 快速开始 · 推送效果 · 文档中心 · 完整指南 简体中文 English 繁體中文 💖 赞助商 (Sponsors) 感谢 Modelflare 赞助本项目！由美国 Havenbyte LLC 运营，满血稳定不掺水，低成本接入 GPT、Claude、Gemini、Grok 及 40+ 图片/视频模型。指定 OpenAI 分组提供 65% / 75% / 85% 每日缓存命中率保障 ；单笔充值 US$20 解锁 GPT 0.015x ， US$50 解锁 Claude 0.03x 。 专属链接注册 100+ 模型 $5 包月，Claude 1.9 折、GPT 0.9 折、DeepSeek 5.8 折，首充立减 20%。 专属链接注册 🖥️ 产品预览 点击动图查看完整演示 [!TIP] 🚀 作者配套开源项目：AlphaSift · 智能选股 ｜ AlphaEvo · 策略回测与进化 ✨ 功能特性 能力 覆盖内容 AI 决策报告 核心结论、评分、趋势、买卖点位、风险警报、催化因素、操作检查清单 多市场数据聚合 覆盖 A股、港股、美股、日股、韩股、台股和 ETF，支持行情、K 线、技术指标、新闻、公告、基本面与报告辅助数据；不同市场的数据源和能力边界见 市场支持边界 Web / 桌面工作台 手动分析、任务进度、历史报告、完整…",
+    "pushed_at": "2026-11-17T14:41:08Z",
     "v": 2
   },
   "aa1143/NamiGPT": {
@@ -226,7 +226,7 @@
   },
   "google/or-tools": {
     "excerpt": "OR-Tools - Google Optimization Tools Google's software suite for combinatorial optimization. About OR-Tools Codemap Installation Quick Start Documentation Contributing License About OR-Tools Google Optimization Tools (a.k.a., OR-Tools) is an open-source, fast and portable software suite for solving combinatorial optimization problems. The suite contains: Two constraint programming solver (CP* and CP-SAT); Two linear programming solvers (Glop and PDLP); Wrappers around commercial and other open source solvers, including mixed integer solvers; Bin packing and knapsack algorithms; Algorithms for the Traveling Salesman Problem and Vehicle Routing Problem; Graph algorithms (shortest paths, min…",
-    "pushed_at": "2026-11-17T10:46:01Z",
+    "pushed_at": "2026-11-18T10:04:32Z",
     "v": 2
   },
   "greyhatguy007/Machine-Learning-Specialization-Coursera": {
@@ -259,6 +259,11 @@
     "pushed_at": "2026-10-18T11:43:51Z",
     "v": 2
   },
+  "microsoft/ResearchStudio": {
+    "excerpt": "ResearchStudio Our AI co-author, from research problem to final publication. ResearchStudio is a collection of skills covering the entire research lifecycle — from an under-specified research direction to a published paper. The skills run on Claude Code and Codex. : one research paper, all deliverables (editable poster, video, blog, and reel) 📄 Paper · 💻 Code · 🎬 Demo Presenting an all-in-one interactive reel. : one research direction, one reviewer-defensible idea card 📄 Paper · 💻 Code · 🎬 Demo IdeaSpark runs the full pipeline end-to-end. News 🔥🔥🔥 [2026-09-15] release pptx2video is now open source — turn editable PowerPoint slides into narrated videos with animations and captions. Use it as…",
+    "pushed_at": "2026-09-21T17:18:54Z",
+    "v": 2
+  },
   "openai/gym": {
     "excerpt": "Important Notice The team that has been maintaining Gym since 2021 has moved all future development to Gymnasium, a drop in replacement for Gym (import gymnasium as gym), and Gym will not be receiving any future updates. Please switch over to Gymnasium as soon as you're able to do so. If you'd like to read more about the story behind this switch, please check out this blog post. Gym Gym is an open source Python library for developing and comparing reinforcement learning algorithms by providing a standard API to communicate between learning algorithms and environments, as well as a standard set of environments compliant with that API. Since its release, Gym's API has become the field…",
     "pushed_at": "2026-03-26T23:13:27Z",
@@ -271,12 +276,12 @@
   },
   "openclaw/openclaw": {
     "excerpt": "OpenClaw 🦞 — Your assistant, on your devices, in your chats OpenClaw is an open-source AI assistant that runs on your own computer and meets you in the channels you already use: Discord, iMessage, Slack, Teams, Telegram, WhatsApp, and 20+ more, plus native apps for macOS, iOS, Android, Windows, and Linux. One Gateway runs it as a personal claw on a laptop or as a shared multiplayer claw; configuration is the only difference. Yours, with no catch. State, memory, and credentials live on your hardware. Models and agent harnesses (Claude, Codex, local models) are plugins you can swap without changing anything else. Your prompts go to the model provider and chat platforms you configure, plus any…",
-    "pushed_at": "2026-11-17T10:49:10Z",
+    "pushed_at": "2026-11-18T10:22:52Z",
     "v": 2
   },
   "qwdwqfwq/topconf-paper-figure-gallery": {
     "excerpt": "🌐 简体中文 · English · Français · Русский · 한국어 · 日本語 🎨 顶会论文主图灵感画廊 顶会论文主图灵感画廊 · ICLR · ICML · NeurIPS · CVPR · ACL · AAAI · 2023–2026 💖 寻求赞助与资源支持 让科研绘图灵感持续开放，让开源工具走得更远。 欢迎个人与机构提供 资金赞助、模型 API 额度、GPU 算力或云资源，支持画廊维护、FigureForge 开发与效果验证。也欢迎通过贡献代码、推荐论文和分享项目支持我们！ 🤝 洽谈赞助 / 提供资源支持：939123836@qq.com ✨ FigureForge 生图成品 以下是画廊 FigureForge 的实际生图示例。 机器人策略与执行 时空扩散 Transformer · 可控视频生成 湿磨芦苇秸秆浆料 · 稳定性与流变控制 LLM 迎合行为因果分析 -yellow.svg) 🌐 简体中文 · English · Français · Русский · 한국어 · 日本語 国内 AtomGit 托管：访问本项目的 AtomGit 仓库 画论文主图前，先看顶会论文怎么排版。 一个可搜索、可筛选的 Figure 1 / Teaser 画廊。纯静态、零构建、可离线打开。 🌐 在线画廊 · 🛠️ FigureForge 画图 · 🎬 演示视频 · 📚 数据与方法 · ⚖️ 版权 / 下架 · 🤝 贡献指南 🤝 赞助伙伴 感谢以下伙伴为本项目提供大模型 API 与算力支持。点击横幅或名称即可访问，完整介绍可展开查看。 Infistar.cc…",
-    "pushed_at": "2026-11-17T10:46:58Z",
+    "pushed_at": "2026-11-18T09:10:38Z",
     "v": 2
   },
   "ruanyf/weekly": {
@@ -286,7 +291,7 @@
   },
   "scipopt/PySCIPOpt": {
     "excerpt": "PySCIPOpt This project provides an interface from Python to the SCIP Optimization Suite. Starting from v8.0.3, SCIP uses the Apache2.0 license. If you plan to use an earlier version of SCIP, please review SCIP's license restrictions. Documentation Please consult the online documentation or use the help() function directly in Python or ? in IPython/Jupyter. The old documentation, which we are in the process of migrating from, is still more complete w.r.t. the API, and can be found here See CHANGELOG.md for added, removed or fixed functionality. Installation The recommended installation method is via PyPI: To avoid interfering with system packages, it's best to use a virtual environment…",
-    "pushed_at": "2026-11-17T10:32:08Z",
+    "pushed_at": "2026-11-18T10:19:50Z",
     "v": 2
   },
   "tanweai/pua": {
@@ -296,7 +301,7 @@
   },
   "v2fly/v2ray-core": {
     "excerpt": "Project V Project V is a set of network tools that helps you to build your own computer network. It secures your network connections and thus protects your privacy. Related Links Documentation and Newcomer's Instructions Welcome to translate V2Ray documents via Transifex Packaging Status If you are willing to package V2Ray for other distros/platforms, please let us know or seek for help via GitHub issues. License The MIT License (MIT) Credits This repo relies on the following third-party projects: In production: gorilla/websocket quic-go/quic-go pires/go-proxyproto seiflotfy/cuckoofilter google/starlark-go jhump/protoreflect inetaf/netaddr For testing only: miekg/dns h12w/socks",
-    "pushed_at": "2026-11-16T22:53:04Z",
+    "pushed_at": "2026-11-17T22:53:04Z",
     "v": 2
   },
   "vercel-labs/skills": {
