@@ -35,8 +35,8 @@
     "v": 2
   },
   "HKUDS/Vibe-Trading": {
-    "excerpt": "English 中文 日本語 한국어 العربية Español Bahasa Indonesia Vibe-Trading: Your Personal Trading Agent One Command to Empower Your Agent with Comprehensive Trading Capabilities GitHub topic rankings by stars · Nov 4, 2026 1 Backtesting · 3 Algorithmic Trading · 4 Quantitative Finance Website · Docs · News · Features · Shadow Account · Demo · Quick Start · Examples · API / MCP · Roadmap · Contributors 📰 News 2026-11-17 📊 Portfolio risk details and reusable options analysis — Risk X-Ray adds observed drawdown periods and signed per-holding volatility contributions. Options Lab exports calculated snapshots as JSON and scenario grids as CSV, and diagnoses observed IV slices with explicit coverage…",
-    "pushed_at": "2026-11-18T08:35:29Z",
+    "excerpt": "English 中文 日本語 한국어 العربية Español Bahasa Indonesia Vibe-Trading: Your Personal Trading Agent One Command to Empower Your Agent with Comprehensive Trading Capabilities 📄 Read the Technical Report GitHub topic rankings by stars · Nov 4, 2026 1 Backtesting · 3 Algorithmic Trading · 4 Quantitative Finance Website · Docs · News · Features · Shadow Account · Demo · Quick Start · Examples · API / MCP · Roadmap · Contributors 📰 News 2026-11-19 📄 Technical report published — The report describes how Vibe-Trading traces results to source data and runs, preserves research revisions, and enforces user-authorized limits on live trading. Vibe-Trading: Towards Agent-Native Trading 2026-11-18 📈 Taiwan…",
+    "pushed_at": "2026-11-19T04:43:49Z",
     "v": 2
   },
   "Ixiaohuihuihui/Tiny-Defect-Detection-for-PCB": {
@@ -57,6 +57,11 @@
   "JackyTJie/SJTURunningMan_Advanced_Edition": {
     "excerpt": "SJTU 一键校园跑工具 轻量 · 实际路线预览 · 记录生成与上传流程研究 简介 本项目仅用于学习、研究和技术测试，主要用于理解运动数据记录与上传相关的技术流程。项目作者不鼓励、不支持任何违反学校规定的使用方式。请在使用前确认自己的行为符合 SJTU 及相关平台的要求，请不要用于伪造运动数据或规避体育锻炼要求。 电脑版提供跑步次数、时间、距离和路线等参数配置，便于进行流程研究、规则测试和结果复核。新版使用 Tauri 2 + React 19 + TypeScript + Rust，界面主要使用 Google 官方 @material/web 组件，结束日期和距离滑块使用 md3.io 的 material 组件，遵循 Material Design 3；运行时使用系统 WebView，不携带 Chromium、Qt 或 Python。程序默认以昨日作为结束日期，向前生成指定次数的跑步记录（默认 1 次），每次跑步 4 km，时间为 08 00。 平台与文档 四个平台各自独立实现、独立发布。按你的平台选对应文档： 平台 版本 安装方式 文档 电脑版（Windows / macOS / Linux） v4.5.0 下载 exe / dmg / deb 直接运行 docs/desktop.md macOS 安装 v4.5.0 需处理首次打开的 Gatekeeper 拦截 docs/macos.md 安卓 4.5.0 下载 APK 安装 docs/android.md iOS 4.5.0 用 Xcode 自行编译安装 docs/ios.md 鸿蒙 NEXT 4.5.0 HAP +…",
     "pushed_at": "2026-10-27T12:10:13Z",
+    "v": 2
+  },
+  "K-Dense-AI/scientific-agent-skills": {
+    "excerpt": "Scientific Agent Skills 🔔 Claude Scientific Skills is now Scientific Agent Skills. Same skills, broader compatibility — now works with any AI agent that supports the open Agent Skills standard, not just Claude. New: K-Dense BYOK — A free, open-source AI co-scientist that runs on your desktop, powered by Scientific Agent Skills. Bring your own API keys, pick from 40+ models, and get a full research workspace with web search, file handling, 100+ scientific databases, and access to all 177 skills in this repo. Your data stays on your computer, and you can optionally scale to cloud compute via Modal for heavy workloads. Get started here. 🎥 Webinar recording — Getting Started with K-Dense BYOK A…",
+    "pushed_at": "2026-11-16T09:19:25Z",
     "v": 2
   },
   "LAMDA-NeSy/Research-Starter-Kit": {
@@ -96,7 +101,7 @@
   },
   "OpenByteInc/QuantDinger": {
     "excerpt": "QuantDinger - Open-Source AI Quant Research Platform Turn trading ideas into Python strategies, backtests, paper trading, live execution, and monitoring — all in one self-hosted stack. QuantDinger is a product of Open Byte Inc. AI research → Strategy code → Backtest → Paper/Live execution → Monitoring 简体中文 繁體中文 Tiếng Việt API AI Agents & MCP Live App Website Deploy on AWS Marketplace Video Demo Official Support Email SUPPORTED BY Open Byte Inc. has joined NVIDIA Inception. Want to contribute? Explore the public roadmap or claim a scoped task from Ready for contributors. QuantDinger can submit real orders when live trading is explicitly enabled. Start with paper trading, use restricted API…",
-    "pushed_at": "2026-11-16T08:40:35Z",
+    "pushed_at": "2026-11-19T10:10:32Z",
     "v": 2
   },
   "RahulShagri/Interactive-Assembly-Line-Balancer": {
@@ -146,12 +151,12 @@
   },
   "Yuan1z0825/nature-skills": {
     "excerpt": "在线网站 · 立即安装 · 快速开始 · 技能索引 · 其他安装 · 贡献方式 · English Nature Skills 网页版：内置 Nature Polishing（论文润色）与 Nature Figure（科研绘图）核心功能，访问地址 nature-skills 面向全球 AI 学者收录可复用科研技能，强调真实问题解决、可验证工作流与可直接使用的科研产物。 1. 项目发起人与运营信息 1.1 创始人介绍 1.2 自营 GPT / Claude 代充与成品号 1.3 知识星球 1.4 商务合作 2. Skills 主要开发者 3. 项目理念与社区 4. 快速开始 5. 安装 5.1 npx skills 安装方式 5.2 Claude Code 安装方式 5.3 Codex 安装方式 5.4 Chatbox 安装与使用 5.5 其他 Agent 场景 6. 技能索引 7. 贡献与开发 8. Star 历史 项目发起人与运营信息 1.1 创始人介绍 大家好，我是 nature-skills 的创立者袁一哲。感谢大家持续关注本项目。我们在抖音更新了许多视频教程，大家可以根据名称检索查看，希望能够真正帮助到科研工作。 1.2 自营 GPT / Claude 代充与成品号 严格筛选渠道商，提供完全正规的充值渠道与服务。欢迎访问 Nature AI 充值卡网（已上线plus一年代充，Pro5x，20x等等）： Nature AI 充值卡网 扫码添加微信客服 1.3 知识星球 知识星球名称：Nature Skills 以及背后的哲学，以加入知识星球代替打赏。 1.4 商务合作…",
-    "pushed_at": "2026-11-16T02:26:27Z",
+    "pushed_at": "2026-11-19T08:39:23Z",
     "v": 2
   },
   "ZhuLinsen/daily_stock_analysis": {
     "excerpt": "📈 股票智能分析系统 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱 产品预览 · 功能特性 · 快速开始 · 推送效果 · 文档中心 · 完整指南 简体中文 English 繁體中文 💖 赞助商 (Sponsors) 感谢 Modelflare 赞助本项目！由美国 Havenbyte LLC 运营，满血稳定不掺水，低成本接入 GPT、Claude、Gemini、Grok 及 40+ 图片/视频模型。指定 OpenAI 分组提供 65% / 75% / 85% 每日缓存命中率保障 ；单笔充值 US$20 解锁 GPT 0.015x ， US$50 解锁 Claude 0.03x 。 专属链接注册 100+ 模型 $5 包月，Claude 1.9 折、GPT 0.9 折、DeepSeek 5.8 折，首充立减 20%。 专属链接注册 🖥️ 产品预览 点击动图查看完整演示 [!TIP] 🚀 作者配套开源项目：AlphaSift · 智能选股 ｜ AlphaEvo · 策略回测与进化 ✨ 功能特性 能力 覆盖内容 AI 决策报告 核心结论、评分、趋势、买卖点位、风险警报、催化因素、操作检查清单 多市场数据聚合 覆盖 A股、港股、美股、日股、韩股、台股和 ETF，支持行情、K 线、技术指标、新闻、公告、基本面与报告辅助数据；不同市场的数据源和能力边界见 市场支持边界 Web / 桌面工作台 手动分析、任务进度、历史报告、完整…",
-    "pushed_at": "2026-11-17T14:41:08Z",
+    "pushed_at": "2026-11-18T15:38:50Z",
     "v": 2
   },
   "aa1143/NamiGPT": {
@@ -171,7 +176,7 @@
   },
   "aldegad/sprite-gen": {
     "excerpt": "sprite-gen One drawing in. Game-ready sprites out — as an atlas, or as transparent motion loops. English · 한국어 · 日本語 · 简体中文 · Español · Français Help cover the model API costs of developing sprite-gen with an optional GitHub sponsorship . Choose your amount and a one-time or monthly contribution. Please wishlist Dungeon Sookuma on Steam , a game in development by the creator of sprite-gen with part of the game art made using this tool. Each character started as one still image . Grok Imagine brought it to life; sprite-gen extracted the transparent loops, and HyperFrames assembled this showcase. A separate village composition made from sprite-gen assets. This GIF preserves the 10-second…",
-    "pushed_at": "2026-11-07T17:40:51Z",
+    "pushed_at": "2026-11-19T07:44:27Z",
     "v": 2
   },
   "anthropics/skills": {
@@ -186,7 +191,7 @@
   },
   "coin-or/pulp": {
     "excerpt": "pulp .. image:: .. image:: PyPI .. image:: PyPI - Downloads PuLP is an linear and mixed integer programming modeler written in Python. With PuLP, it is simple to create MILP optimisation problems and solve them with the latest open-source (or proprietary) solvers. PuLP can generate MPS or LP files and call solvers such as GLPK_, COIN-OR CLP/CBC_ (also through CyLP_), CPLEX_, GUROBI_, MOSEK_, XPRESS_, COPT_, CHOCO_, MIPCL_, HiGHS_, SCIP_/FSCIP_, Clarabel_, NVIDIA cuOpt_, SAS_, and OR-Tools CP-SAT_ and GLOP_ (via the CPSAT and GLOP APIs). The documentation for PuLP can be found here _. PuLP is part of the COIN-OR project _. .. note:: Upgrading from PuLP 3.x? PuLP 4.0 has breaking changes…",
-    "pushed_at": "2026-11-13T11:43:34Z",
+    "pushed_at": "2026-11-19T10:27:28Z",
     "v": 2
   },
   "datawhalechina/machine-learning-toy-code": {
@@ -225,8 +230,8 @@
     "v": 2
   },
   "google/or-tools": {
-    "excerpt": "OR-Tools - Google Optimization Tools Google's software suite for combinatorial optimization. About OR-Tools Codemap Installation Quick Start Documentation Contributing License About OR-Tools Google Optimization Tools (a.k.a., OR-Tools) is an open-source, fast and portable software suite for solving combinatorial optimization problems. The suite contains: Two constraint programming solver (CP* and CP-SAT); Two linear programming solvers (Glop and PDLP); Wrappers around commercial and other open source solvers, including mixed integer solvers; Bin packing and knapsack algorithms; Algorithms for the Traveling Salesman Problem and Vehicle Routing Problem; Graph algorithms (shortest paths, min…",
-    "pushed_at": "2026-11-18T10:04:32Z",
+    "excerpt": "OR-Tools - Google Optimization Tools Google's software suite for combinatorial optimization. About OR-Tools Codemap Installation Quick Start Documentation Contributing License About OR-Tools Google Optimization Tools (a.k.a., OR-Tools) is an open-source, fast and portable software suite for solving combinatorial optimization problems. The suite contains: Two constraint programming solver (CP* and CP-SAT). Two linear programming solvers (Glop and PDLP). Wrappers around commercial and other open source solvers, including mixed integer solvers (MPSolver and MathOpt). Bin packing, set covering, and knapsack algorithms. Algorithms for the Traveling Salesman Problem and Vehicle Routing Problem…",
+    "pushed_at": "2026-11-18T18:36:15Z",
     "v": 2
   },
   "greyhatguy007/Machine-Learning-Specialization-Coursera": {
@@ -236,7 +241,7 @@
   },
   "hiyouga/LlamaFactory": {
     "excerpt": "Used by Amazon, NVIDIA, Aliyun, etc. Check our new open-source project — 🐧 PenguinHarness: Local-first multi-agent app development platform - create, fine-tune, deploy AI apps automatically! Follow us and give us a star ⭐: Supporters ❤️ Warp, the agentic terminal for developers Available for MacOS, Linux, & Windows Easily fine-tune 100+ large language models with zero-code CLI and Web UI 👋 Join our WeChat and NPU user groups. \\ English [中文 \\] Fine-tuning a large language model can be easy as... Start local training: Please refer to usage Start cloud training: Colab (free): PAI-DSW (free trial): AMD GPU Cloud (free credits): Read technical notes: Documentation (WIP): Documentation (AMD GPU)…",
-    "pushed_at": "2026-11-17T04:25:42Z",
+    "pushed_at": "2026-11-18T20:47:11Z",
     "v": 2
   },
   "imraywang/ray-sticker-shop": {
@@ -264,6 +269,11 @@
     "pushed_at": "2026-09-21T17:18:54Z",
     "v": 2
   },
+  "mumdark/nature-review-studio": {
+    "excerpt": "nature-review-studio v1.4.1 简体中文（默认） · English Nature 风格多视角审稿与回复 Skill，基于 1287 份 Nature 审稿意见 (2025–2026) 蒸馏。 一键装机 在 Codex 里说 总体积 ~11 MB。 codex 调用示例 codex可以使用'$'唤起已安装skill: 三个接口 接口 触发 输出 review 审稿 / review review_ _ .docx + .md respond 回复 / response respond_ _ .docx + .md update 入库 / 蒸馏 不输出 docx，跑离线管线 review 与 respond 永远恰好两个文件，无其他附带产物。 蒸馏产物映射 蒸馏产物 落到 references 哪里 作用 12 个 concern axis + 默认严重度 skill/references/review-axes.md 决定\"该问什么\" 6 种 manuscript → reviewer set 映射 skill/references/review-axes.md 决定\"派几个审稿人、各管什么\" 21 种 response strategy skill/references/response-axes.md 决定\"怎么回\" 8 种 action status skill/references/response-axes.md 决定\"任务表状态字段\" 12 个 concern axis（审稿问题分类） 是什么：审稿人可能问的所有问题的\"目录\"。skill…",
+    "pushed_at": "2026-08-29T12:10:16Z",
+    "v": 2
+  },
   "openai/gym": {
     "excerpt": "Important Notice The team that has been maintaining Gym since 2021 has moved all future development to Gymnasium, a drop in replacement for Gym (import gymnasium as gym), and Gym will not be receiving any future updates. Please switch over to Gymnasium as soon as you're able to do so. If you'd like to read more about the story behind this switch, please check out this blog post. Gym Gym is an open source Python library for developing and comparing reinforcement learning algorithms by providing a standard API to communicate between learning algorithms and environments, as well as a standard set of environments compliant with that API. Since its release, Gym's API has become the field…",
     "pushed_at": "2026-03-26T23:13:27Z",
@@ -276,12 +286,12 @@
   },
   "openclaw/openclaw": {
     "excerpt": "OpenClaw 🦞 — Your assistant, on your devices, in your chats OpenClaw is an open-source AI assistant that runs on your own computer and meets you in the channels you already use: Discord, iMessage, Slack, Teams, Telegram, WhatsApp, and 20+ more, plus native apps for macOS, iOS, Android, Windows, and Linux. One Gateway runs it as a personal claw on a laptop or as a shared multiplayer claw; configuration is the only difference. Yours, with no catch. State, memory, and credentials live on your hardware. Models and agent harnesses (Claude, Codex, local models) are plugins you can swap without changing anything else. Your prompts go to the model provider and chat platforms you configure, plus any…",
-    "pushed_at": "2026-11-18T10:22:52Z",
+    "pushed_at": "2026-11-19T10:30:40Z",
     "v": 2
   },
   "qwdwqfwq/topconf-paper-figure-gallery": {
     "excerpt": "🌐 简体中文 · English · Français · Русский · 한국어 · 日本語 🎨 顶会论文主图灵感画廊 顶会论文主图灵感画廊 · ICLR · ICML · NeurIPS · CVPR · ACL · AAAI · 2023–2026 💖 寻求赞助与资源支持 让科研绘图灵感持续开放，让开源工具走得更远。 欢迎个人与机构提供 资金赞助、模型 API 额度、GPU 算力或云资源，支持画廊维护、FigureForge 开发与效果验证。也欢迎通过贡献代码、推荐论文和分享项目支持我们！ 🤝 洽谈赞助 / 提供资源支持：939123836@qq.com ✨ FigureForge 生图成品 以下是画廊 FigureForge 的实际生图示例。 机器人策略与执行 时空扩散 Transformer · 可控视频生成 湿磨芦苇秸秆浆料 · 稳定性与流变控制 LLM 迎合行为因果分析 -yellow.svg) 🌐 简体中文 · English · Français · Русский · 한국어 · 日本語 国内 AtomGit 托管：访问本项目的 AtomGit 仓库 画论文主图前，先看顶会论文怎么排版。 一个可搜索、可筛选的 Figure 1 / Teaser 画廊。纯静态、零构建、可离线打开。 🌐 在线画廊 · 🛠️ FigureForge 画图 · 🎬 演示视频 · 📚 数据与方法 · ⚖️ 版权 / 下架 · 🤝 贡献指南 🤝 赞助伙伴 感谢以下伙伴为本项目提供大模型 API 与算力支持。点击横幅或名称即可访问，完整介绍可展开查看。 Infistar.cc…",
-    "pushed_at": "2026-11-18T09:10:38Z",
+    "pushed_at": "2026-11-19T09:55:32Z",
     "v": 2
   },
   "ruanyf/weekly": {
@@ -291,7 +301,7 @@
   },
   "scipopt/PySCIPOpt": {
     "excerpt": "PySCIPOpt This project provides an interface from Python to the SCIP Optimization Suite. Starting from v8.0.3, SCIP uses the Apache2.0 license. If you plan to use an earlier version of SCIP, please review SCIP's license restrictions. Documentation Please consult the online documentation or use the help() function directly in Python or ? in IPython/Jupyter. The old documentation, which we are in the process of migrating from, is still more complete w.r.t. the API, and can be found here See CHANGELOG.md for added, removed or fixed functionality. Installation The recommended installation method is via PyPI: To avoid interfering with system packages, it's best to use a virtual environment…",
-    "pushed_at": "2026-11-18T10:19:50Z",
+    "pushed_at": "2026-11-18T10:51:52Z",
     "v": 2
   },
   "tanweai/pua": {
