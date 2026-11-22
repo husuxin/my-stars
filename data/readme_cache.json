@@ -101,7 +101,7 @@
   },
   "OpenByteInc/QuantDinger": {
     "excerpt": "QuantDinger - Open-Source AI Quant Research Platform Turn trading ideas into Python strategies, backtests, paper trading, live execution, and monitoring — all in one self-hosted stack. QuantDinger is a product of Open Byte Inc. AI research → Strategy code → Backtest → Paper/Live execution → Monitoring 简体中文 繁體中文 Tiếng Việt API AI Agents & MCP Live App Website Deploy on AWS Marketplace Video Demo Official Support Email SUPPORTED BY Open Byte Inc. has joined NVIDIA Inception. Want to contribute? Explore the public roadmap or claim a scoped task from Ready for contributors. QuantDinger can submit real orders when live trading is explicitly enabled. Start with paper trading, use restricted API…",
-    "pushed_at": "2026-11-21T07:18:16Z",
+    "pushed_at": "2026-11-22T06:46:10Z",
     "v": 2
   },
   "RahulShagri/Interactive-Assembly-Line-Balancer": {
@@ -145,18 +145,18 @@
     "v": 2
   },
   "Xiaoc7r/DOVideo-AI": {
-    "excerpt": "DoVideoAI 面向长视频内容理解的 Video Agent 。 致力于将长视频转化为可检索、可追溯、可继续追问的结构化知识。 项目预览 登录与注册 视频工作台 Agent 目标输入 Agent 分析结果 用户完成登录后，可以上传视频并在工作台管理解析任务；选择视频并输入分析目标后，可以手动选择分析模式，也可以交给 Agent 自动判断。工作台会展示结构化结论、时间戳证据、执行计划、阶段轨迹与质量评估，并支持基于同一视频继续追问；追问历史会通过 Redis 保存，模型可结合多轮对话上下文作答。 核心功能 长视频处理天然是长耗时、高资源消耗、外部调用成本敏感的场景。DoVideoAI 的设计都围绕这一背景展开，可以概括为四层能力。 🎬 可靠的视频任务链路 把大文件上传与耗时的视频解析从请求主链路中剥离，提交即返回，不阻塞、不重复烧钱。 分片上传 + 断点续传 — 前端按 5 MB 分片，Redis 记录已完成分片，MinIO 保存合并后的视频，弱网中断后可从断点续传。 异步削峰 — RocketMQ 将视频解析移出请求线程，提交后立即返回任务 ID；Redisson 按「内容指纹 + 分析目标」加锁，拦截并发与重复消费。 成本护栏 — 用户级与全局令牌桶限制 AI 请求速率；ASR 与模型调用采用有限次数的指数退避重试，兜底第三方网络抖动。 🧩 时序多模态 VideoContext 把语音、画面文字与时间戳融合成一份可检索、可校验的统一上下文。 双分支抽取 — FFmpeg 将音频按 60 秒切片，同时通过场景变化检测抽取关键帧，并以 30 秒保底采样避免遗漏静态板书…",
-    "pushed_at": "2026-10-31T11:46:41Z",
+    "excerpt": "DoVideoAI 面向长视频内容理解的 Video Agent 。 致力于将长视频转化为可检索、可追溯、可继续追问的结构化知识。 项目预览 登录与注册 视频工作台 Agent 目标输入 Agent 分析结果 用户完成登录后，可以上传视频并在工作台管理解析任务；选择视频并输入分析目标后，可以手动选择分析模式，也可以交给 Agent 自动判断。工作台会展示结构化结论、时间戳证据、执行计划、阶段轨迹与质量评估，并支持基于同一视频继续追问；追问历史会通过 Redis 保存，模型可结合多轮对话上下文作答。 核心功能 长视频处理天然是长耗时、高资源消耗、外部调用成本敏感的场景。DoVideoAI 的设计都围绕这一背景展开，可以概括为四层能力。 🎬 可靠的视频任务链路 把大文件上传与耗时的视频解析从请求主链路中剥离，提交即返回，不阻塞、不重复烧钱。 分片上传 + 断点续传 — 前端按 5 MB 分片，Redis 记录已完成分片，MinIO 保存合并后的视频，弱网中断后可从断点续传。 异步削峰 — RocketMQ 将视频解析移出请求线程，提交后立即返回任务 ID；任务按「媒体记录 + 分析目标 + 模式」隔离，同内容结果通过共享锁复用，避免重复消费和重复计算。 成本护栏 — 用户级与全局令牌桶限制 AI 请求速率；ASR 与模型调用采用有限次数的指数退避重试，兜底第三方网络抖动。 🧩 时序多模态 VideoContext 把语音、画面文字与时间戳融合成一份可检索、可校验的统一上下文。 双分支抽取 — FFmpeg 将音频按 60 秒切片，同时通过场景变化检测抽取关键帧，并以 30…",
+    "pushed_at": "2026-11-22T05:27:25Z",
     "v": 2
   },
   "Yuan1z0825/nature-skills": {
     "excerpt": "在线网站 · 立即安装 · 快速开始 · 技能索引 · 其他安装 · 贡献方式 · English Nature Skills 网页版：内置 Nature Polishing（论文润色）与 Nature Figure（科研绘图）核心功能，访问地址 nature-skills 面向全球 AI 学者收录可复用科研技能，强调真实问题解决、可验证工作流与可直接使用的科研产物。 1. 项目发起人与运营信息 1.1 创始人介绍 1.2 自营 GPT / Claude 代充与成品号 1.3 知识星球 1.4 商务合作 2. Skills 主要开发者 3. 项目理念与社区 4. 快速开始 5. 安装 5.1 npx skills 安装方式 5.2 Claude Code 安装方式 5.3 Codex 安装方式 5.4 Chatbox 安装与使用 5.5 其他 Agent 场景 6. 技能索引 7. 贡献与开发 8. Star 历史 项目发起人与运营信息 1.1 创始人介绍 大家好，我是 nature-skills 的创立者袁一哲。感谢大家持续关注本项目。我们在抖音更新了许多视频教程，大家可以根据名称检索查看，希望能够真正帮助到科研工作。目前正在寻找工作，欢迎添加下方二维码与我取得联系。 1.2 自营 GPT / Claude 代充与成品号 严格筛选渠道商，提供完全正规的充值渠道与服务。欢迎访问 Nature AI 充值卡网（已上线plus一年代充，Pro5x，20x等等）： Nature AI 充值卡网 扫码添加微信客服 1.3 知识星球 知识星球名称：Nature Skills…",
-    "pushed_at": "2026-11-20T07:59:12Z",
+    "pushed_at": "2026-11-22T02:25:14Z",
     "v": 2
   },
   "ZhuLinsen/daily_stock_analysis": {
     "excerpt": "📈 股票智能分析系统 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱 产品预览 · 功能特性 · 快速开始 · 推送效果 · 文档中心 · 完整指南 简体中文 English 繁體中文 💖 赞助商 (Sponsors) 感谢 Modelflare 赞助本项目！由美国 Havenbyte LLC 运营，满血稳定不掺水，低成本接入 GPT、Claude、Gemini、Grok 及 40+ 图片/视频模型，支持大陆正规商务合作。指定 OpenAI 分组提供 65% / 75% / 85% 每日缓存命中率保障 ；单笔充值 US$20 解锁 GPT 0.015x ， US$50 解锁 Claude 0.03x 。 专属链接注册 100+ 模型 $5 包月，Claude 1.9 折、GPT 0.9 折、DeepSeek 5.8 折，首充立减 20%。 专属链接注册 🖥️ 产品预览 点击动图查看完整演示 [!TIP] 🚀 作者配套开源项目：AlphaSift · 智能选股 ｜ AlphaEvo · 策略回测与进化 ✨ 功能特性 能力 覆盖内容 AI 决策报告 核心结论、评分、趋势、买卖点位、风险警报、催化因素、操作检查清单 多市场数据聚合 覆盖 A股、港股、美股、日股、韩股、台股和 ETF，支持行情、K 线、技术指标、新闻、公告、基本面与报告辅助数据；不同市场的数据源和能力边界见 市场支持边界 Web / 桌面工作台 手动分析、任务进度、历史报告、完整…",
-    "pushed_at": "2026-11-21T09:54:42Z",
+    "pushed_at": "2026-11-22T03:22:02Z",
     "v": 2
   },
   "aa1143/NamiGPT": {
@@ -176,7 +176,7 @@
   },
   "aldegad/sprite-gen": {
     "excerpt": "sprite-gen One drawing in. Game-ready sprites out — as an atlas, or as transparent motion loops. English · 한국어 · 日本語 · 简体中文 · Español · Français Help cover the model API costs of developing sprite-gen with an optional GitHub sponsorship . Choose your amount and a one-time or monthly contribution. Please wishlist Dungeon Sookuma on Steam , a game in development by the creator of sprite-gen with part of the game art made using this tool. Each character started as one still image . Grok Imagine brought it to life; sprite-gen extracted the transparent loops, and HyperFrames assembled this showcase. A separate village composition made from sprite-gen assets. This GIF preserves the 10-second…",
-    "pushed_at": "2026-11-21T07:28:46Z",
+    "pushed_at": "2026-11-21T12:10:32Z",
     "v": 2
   },
   "anthropics/skills": {
@@ -206,7 +206,7 @@
   },
   "datawhalechina/whale-quant": {
     "excerpt": "Datawhale量化开源课程 [⚠️ Alpha内测版] 本项目为量化开源课程，可以帮助人们快速掌握量化金融知识以及使用Python进行量化开发的能力。更进一步地让人们更好地学习和研究量化交易策略。此项目提供了一套完整的流程和工具链，从策略的理念、研究需要的数据、回测再到实盘，希望给大家带来帮助。 使用说明 在线阅读地址 WhaleQuant 智海平台学习地址 WhaleQuant Notebook运行环境配置 Python版本 请使用python3.9.X，如使用其他版本，requirements.txt中所列的依赖包可能不兼容。 安装相关的依赖包 docsify框架运行 协作规范 由于章节内容中需要有程序和执行结果，采用jupyter notebook的格式进行编写（文件路径：notebook），然后将其导出成markdown格式，再覆盖到docs对应的章节下。 可按照Notebook运行环境配置，配置相关的运行环境。 如果涉及到引用文章，请附上参考引用链接。 当前进度 章节号 标题 进度 负责人&参与人 第一章 投资与量化投资 已完成 孙子涵、崔腾松 第二章 金融市场的基础概念 已完成 崔腾松、袁明坤、戳戳龍、朱松青、管柯琴 第三章 股票数据获取 已完成 戴聪、王复振 第四章 量化选股策略 已完成 王翔、张雨、孙子涵、刘瑞航、徐望杰 第五章 量化择时策略 已完成 张雨、孙子涵、张晋、戳戳龍 第六章 量化调仓策略 已完成 孙子涵、邓昌、何斌、叶梁 第七章 量化回测 已完成 张晋、戳戳龍、王文彬 第八章 机器学习与量化策略 已完成 王翔、徐望杰、管柯琴、王文彬 项目结构…",
-    "pushed_at": "2026-11-12T02:43:06Z",
+    "pushed_at": "2026-11-22T03:08:36Z",
     "v": 2
   },
   "enginefuture/mac-gaming-uncle": {
@@ -220,8 +220,8 @@
     "v": 2
   },
   "feiniaoyun/feiniaoyun": {
-    "excerpt": "飞鸟云最新国内免翻网址,用手机流量访问：(2026/11/17更新) 点击下面地址跳转到飞鸟云官网。节点卡，不稳定，慢，延迟高，掉线，等问题，请官网重新导入订阅，用手机流量试下。账号报错找官网右下角客服恢复。 （2026/11/17更新公告） 官网重新导入订阅，可以解决99%问题。 遇到问题联系官网右下角蓝色图标在线客服解决，或者发工单。 请知悉无退款服务。 翻墙后访问的永久网址： 飞鸟云官网地址防失联发布页： 请加入我们的TG电报群群组:",
-    "pushed_at": "2026-11-17T08:01:30Z",
+    "excerpt": "飞鸟云最新国内免翻网址,用手机流量访问：(2026/11/17更新) 点击下面地址跳转到飞鸟云官网。节点卡，不稳定，慢，延迟高，掉线，等问题，请官网重新导入订阅，用手机流量试下。账号报错找官网右下角客服恢复。 （2026/11/22更新公告） 官网重新导入订阅，可以解决99%问题。 遇到问题联系官网右下角蓝色图标在线客服解决，或者发工单。 请知悉无退款服务。 翻墙后访问的永久网址： 飞鸟云官网地址防失联发布页： 请加入我们的TG电报群群组:",
+    "pushed_at": "2026-11-22T01:34:17Z",
     "v": 2
   },
   "geekcompany/ResumeSample": {
@@ -241,7 +241,7 @@
   },
   "hiyouga/LlamaFactory": {
     "excerpt": "Used by Amazon, NVIDIA, Aliyun, etc. Check our new open-source project — 🐧 PenguinHarness: Local-first multi-agent app development platform - create, fine-tune, deploy AI apps automatically! Follow us and give us a star ⭐: Supporters ❤️ Warp, the agentic terminal for developers Available for MacOS, Linux, & Windows Easily fine-tune 100+ large language models with zero-code CLI and Web UI 👋 Join our WeChat and NPU user groups. \\ English [中文 \\] Fine-tuning a large language model can be easy as... Start local training: Please refer to usage Start cloud training: Colab (free): PAI-DSW (free trial): AMD GPU Cloud (free credits): Read technical notes: Documentation (WIP): Documentation (AMD GPU)…",
-    "pushed_at": "2026-11-19T16:17:35Z",
+    "pushed_at": "2026-11-21T10:57:51Z",
     "v": 2
   },
   "imraywang/ray-sticker-shop": {
@@ -286,7 +286,7 @@
   },
   "openclaw/openclaw": {
     "excerpt": "OpenClaw 🦞 — Your assistant, on your devices, in your chats OpenClaw is an open-source AI assistant that runs on your own computer and meets you in the channels you already use: Discord, iMessage, Slack, Teams, Telegram, WhatsApp, and 20+ more, plus native apps for macOS, iOS, Android, Windows, and Linux. One Gateway runs it as a personal claw on a laptop or as a shared multiplayer claw; configuration is the only difference. Yours, with no catch. State, memory, and credentials live on your hardware. Models and agent harnesses (Claude, Codex, local models) are plugins you can swap without changing anything else. Your prompts go to the model provider and chat platforms you configure, plus any…",
-    "pushed_at": "2026-11-21T09:53:07Z",
+    "pushed_at": "2026-11-22T09:54:53Z",
     "v": 2
   },
   "qwdwqfwq/topconf-paper-figure-gallery": {
@@ -296,7 +296,7 @@
   },
   "ruanyf/weekly": {
     "excerpt": "科技爱好者周刊 记录每周值得分享的科技内容，周五发布。 欢迎投稿文章/软件/资源，请提交 issue 。 P.S. 讨论区的《谁在招人》，是一个免费的程序员招聘帖，提供大量就业信息，欢迎发布工作/实习岗位。 十一月 第 420 期：最分心的一年 第 419 期：机房来了，写字楼走了 第 418 期：如果科技停止在21世纪初 十月 第 417 期：不要让 AI 代表你 第 416 期：编程已经面目全非 第 415 期：3D 版《看不见的城市》 第 414 期：Jev 决策模型有什么用 九月 第 413 期：再见了，React Native 第 412 期：禁止 issue，只用 PR 第 411 期：OpenClaw 2.0 是一个缩影 八月 第 410 期：你需要知道的 AI 三种机制 第 409 期：程序员的职业未来 第 408 期：你需要知道的 AI 缓存知识 第 407 期：国家为什么需要开源软件？ 七月 第 406 期：道可，道非，常道 第 405 期：资源，社会公平与算力 第 404 期：你需要知道的 AI 内存知识 第 403 期：为什么 Dropbox 不成功 第 402 期：我在智念 AI 的日子（小说） 六月 第 401 期：如何赚到10亿美元 第 400 期：rsync 的争论 第 399 期：中国 AI 大厂访问记 五月 第 398 期：Token 费用难以负担 第 397 期：财富正在向 AI 集中 第 396 期：互联网通信的替代方案 第 395 期：软件开发的第三种方式 四月 第 394 期：第二次 API 开放浪潮 第 393 期：脑腐状态 第…",
-    "pushed_at": "2026-11-20T02:21:18Z",
+    "pushed_at": "2026-11-21T15:22:18Z",
     "v": 2
   },
   "scipopt/PySCIPOpt": {
