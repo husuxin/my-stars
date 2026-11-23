@@ -35,8 +35,8 @@
     "v": 2
   },
   "HKUDS/Vibe-Trading": {
-    "excerpt": "English 中文 日本語 한국어 العربية Español Bahasa Indonesia Vibe-Trading: Your Personal Trading Agent One Command to Empower Your Agent with Comprehensive Trading Capabilities 📄 Read the Technical Report GitHub topic rankings by stars · Nov 4, 2026 1 Backtesting · 3 Algorithmic Trading · 4 Quantitative Finance Website · Docs · News · Features · Shadow Account · Demo · Quick Start · Examples · API / MCP · Roadmap · Contributors 📰 News 2026-11-21 🛠️ Research replay, backtest routing and channel reliability — Frozen Research Lab studies now replay saved fundamental and event columns without refetching providers (#2296), and backtests retry symbols whose returned bars fail validation while benchmarks…",
-    "pushed_at": "2026-11-21T05:10:44Z",
+    "excerpt": "English 中文 日本語 한국어 العربية Español Bahasa Indonesia Vibe-Trading: Your Personal Trading Agent One Command to Empower Your Agent with Comprehensive Trading Capabilities 📄 Read the Technical Report GitHub topic rankings by stars · Nov 4, 2026 1 Backtesting · 3 Algorithmic Trading · 4 Quantitative Finance Website · Docs · News · Features · Shadow Account · Demo · Quick Start · Examples · API / MCP · Roadmap · Contributors 📰 News 2026-11-22 🛠️ Backtest accuracy and richer Options Lab exports — Research Lab walk-forward studies keep earlier bars for indicators and score only the original evaluation dates. External benchmark equity matches the reported return across negative prices, and intraday…",
+    "pushed_at": "2026-11-22T16:34:10Z",
     "v": 2
   },
   "Ixiaohuihuihui/Tiny-Defect-Detection-for-PCB": {
@@ -61,7 +61,7 @@
   },
   "K-Dense-AI/scientific-agent-skills": {
     "excerpt": "Scientific Agent Skills 🔔 Claude Scientific Skills is now Scientific Agent Skills. Same skills, broader compatibility — now works with any AI agent that supports the open Agent Skills standard, not just Claude. New: K-Dense BYOK — A free, open-source AI co-scientist that runs on your desktop, powered by Scientific Agent Skills. Bring your own API keys, pick from 40+ models, and get a full research workspace with web search, file handling, 100+ scientific databases, and access to all 177 skills in this repo. Your data stays on your computer, and you can optionally scale to cloud compute via Modal for heavy workloads. Get started here. 🎥 Webinar recording — Getting Started with K-Dense BYOK A…",
-    "pushed_at": "2026-11-16T09:19:25Z",
+    "pushed_at": "2026-11-23T09:18:27Z",
     "v": 2
   },
   "LAMDA-NeSy/Research-Starter-Kit": {
@@ -91,7 +91,7 @@
   },
   "MorvanZhou/agentup": {
     "excerpt": "AgentUp Use AI the way you use WhatsApp. A local-first multi-agent desktop IM — add assistants like friends. Download · Website · Your AI Assistants — use AI the way you use WhatsApp. AgentUp is an open-source desktop app for multi-agent collaboration. Study, write, look things up, plan a trip — each assistant handles one kind of job; when the ask spans topics, it brings in another helper. Add assistants to your contacts like friends One assistant, one kind of chat. No mixing. It can read files on your computer and save results there After installing to Applications, run this once in Terminal so macOS will open the app: What AgentUp is (and isn’t) Coding tools manage the workbench. AgentUp…",
-    "pushed_at": "2026-11-18T02:56:44Z",
+    "pushed_at": "2026-11-23T04:14:46Z",
     "v": 2
   },
   "NJUWallSpider/IECourseGuide": {
@@ -101,7 +101,7 @@
   },
   "OpenByteInc/QuantDinger": {
     "excerpt": "QuantDinger - Open-Source AI Quant Research Platform Turn trading ideas into Python strategies, backtests, paper trading, live execution, and monitoring — all in one self-hosted stack. QuantDinger is a product of Open Byte Inc. AI research → Strategy code → Backtest → Paper/Live execution → Monitoring 简体中文 繁體中文 Tiếng Việt API AI Agents & MCP Live App Website Deploy on AWS Marketplace Video Demo Official Support Email SUPPORTED BY Open Byte Inc. has joined NVIDIA Inception. Want to contribute? Explore the public roadmap or claim a scoped task from Ready for contributors. QuantDinger can submit real orders when live trading is explicitly enabled. Start with paper trading, use restricted API…",
-    "pushed_at": "2026-11-22T06:46:10Z",
+    "pushed_at": "2026-11-22T19:38:46Z",
     "v": 2
   },
   "RahulShagri/Interactive-Assembly-Line-Balancer": {
@@ -121,7 +121,7 @@
   },
   "SoYuCry/awesome-quant-interview": {
     "excerpt": "Quant Research Interview Notes 中文 Quant Research 准备笔记：面试题、项目复盘、论文路线与真实追问。 🚀 字多不看 · 📚 目录 · 🧭 先看哪块 · 🔥 数理基础速查 · 🧪 项目复盘 · 💬 参与贡献 👋 前言 本项目来自社招面试 30+ 家量化私募、拿到数家百亿级私募 QR offer 的经历，以及创业做过实盘产品后对量化全链路的体感。 QR 的核心是在不确定环境里反复提出假设、验证信号、解释失败。如果你喜欢从数据中提出假设，愿意接受大量无效实验，愿意长期补数学 / 统计 / 编程短板，这份笔记会更适合你。 内容覆盖概率统计、线性代数、时间序列、因子研究、机器学习、回测评估、组合优化、经典论文与高频问答。适合： 准备 QR 面试的人 金融工程、数学、统计、计算机背景，想系统补齐量化研究方法论的人 已经会基础 Python / 数学，但需要把知识组织成面试可表达答案的人 想从论文、因子、回测和机器学习角度理解量化研究流程的人 业余做量化、把它当兴趣或副业的人：先建立研究闭环，少踩回测好看、落地全是坑的弯路 🚀 字多不看 如果你快面试了：先看数理基础速查，再回到薄弱章节补定义、直觉和坑。 如果你有项目：直接按项目复盘 8 问整理，写清楚假设、数据、验证、失败和下一步。 如果你刚转 QR，或者业余做量化：先选下面 A/B/C/D 里最像自己的状态，不建议从头硬啃。 如果你只想找资源：大块资料默认折叠，点醒目的标题行展开/收起，少翻一点是一点。 📚 目录 / 跳转导航 范围：主线只做 Quant…",
-    "pushed_at": "2026-08-25T09:21:22Z",
+    "pushed_at": "2026-11-22T10:29:03Z",
     "v": 2
   },
   "SylvanasSun/algs4-study": {
@@ -151,12 +151,12 @@
   },
   "Yuan1z0825/nature-skills": {
     "excerpt": "在线网站 · 立即安装 · 快速开始 · 技能索引 · 其他安装 · 贡献方式 · English Nature Skills 网页版：内置 Nature Polishing（论文润色）与 Nature Figure（科研绘图）核心功能，访问地址 nature-skills 面向全球 AI 学者收录可复用科研技能，强调真实问题解决、可验证工作流与可直接使用的科研产物。 1. 项目发起人与运营信息 1.1 创始人介绍 1.2 自营 GPT / Claude 代充与成品号 1.3 知识星球 1.4 商务合作 2. Skills 主要开发者 3. 项目理念与社区 4. 快速开始 5. 安装 5.1 npx skills 安装方式 5.2 Claude Code 安装方式 5.3 Codex 安装方式 5.4 Chatbox 安装与使用 5.5 其他 Agent 场景 6. 技能索引 7. 贡献与开发 8. Star 历史 项目发起人与运营信息 1.1 创始人介绍 大家好，我是 nature-skills 的创立者袁一哲。感谢大家持续关注本项目。我们在抖音更新了许多视频教程，大家可以根据名称检索查看，希望能够真正帮助到科研工作。目前正在寻找工作，欢迎添加下方二维码与我取得联系。 1.2 自营 GPT / Claude 代充与成品号 严格筛选渠道商，提供完全正规的充值渠道与服务。欢迎访问 Nature AI 充值卡网（已上线plus一年代充，Pro5x，20x等等）： Nature AI 充值卡网 扫码添加微信客服 1.3 知识星球 知识星球名称：Nature Skills…",
-    "pushed_at": "2026-11-22T02:25:14Z",
+    "pushed_at": "2026-11-22T14:37:37Z",
     "v": 2
   },
   "ZhuLinsen/daily_stock_analysis": {
     "excerpt": "📈 股票智能分析系统 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱 产品预览 · 功能特性 · 快速开始 · 推送效果 · 文档中心 · 完整指南 简体中文 English 繁體中文 💖 赞助商 (Sponsors) 感谢 Modelflare 赞助本项目！由美国 Havenbyte LLC 运营，满血稳定不掺水，低成本接入 GPT、Claude、Gemini、Grok 及 40+ 图片/视频模型，支持大陆正规商务合作。指定 OpenAI 分组提供 65% / 75% / 85% 每日缓存命中率保障 ；单笔充值 US$20 解锁 GPT 0.015x ， US$50 解锁 Claude 0.03x 。 专属链接注册 100+ 模型 $5 包月，Claude 1.9 折、GPT 0.9 折、DeepSeek 5.8 折，首充立减 20%。 专属链接注册 🖥️ 产品预览 点击动图查看完整演示 [!TIP] 🚀 作者配套开源项目：AlphaSift · 智能选股 ｜ AlphaEvo · 策略回测与进化 ✨ 功能特性 能力 覆盖内容 AI 决策报告 核心结论、评分、趋势、买卖点位、风险警报、催化因素、操作检查清单 多市场数据聚合 覆盖 A股、港股、美股、日股、韩股、台股和 ETF，支持行情、K 线、技术指标、新闻、公告、基本面与报告辅助数据；不同市场的数据源和能力边界见 市场支持边界 Web / 桌面工作台 手动分析、任务进度、历史报告、完整…",
-    "pushed_at": "2026-11-22T03:22:02Z",
+    "pushed_at": "2026-11-23T09:25:49Z",
     "v": 2
   },
   "aa1143/NamiGPT": {
@@ -171,7 +171,7 @@
   },
   "alchaincyf/huashu-skills": {
     "excerpt": "huashu-skills · 花叔开源Skills总目录 动画由 huashu-design skill制作 这里是花叔在GitHub上全部开源Skill的总目录，共57个，分三层收录。全部是标准Agent Skills格式（SKILL.md），Claude Code / Codex / Kimi Code等支持该格式的agent通用。 花叔 AI Native Coder · 独立开发者 · 全网50万+读者 代表作：小猫补光灯（App Store付费榜Top1）·《一本书玩转DeepSeek》· 女娲Skill生态 CCTV《焦点访谈》报道的「手搓经济」代表人物 30秒上手 全景一览 按需求找Skill 旗舰Skills（21个独立仓库） 人物视角Skills（14个独立仓库） 内置Skills（22个，本仓库） 安装指南 保持更新 给AI Agent的协议 这四个不是Skill 30秒上手 最省事的方式：把这句话发给你的AI agent—— 读 的README和skills.json，帮我安装（某个skill / 按我的需求推荐） 自己动手也只要一条命令（独立仓库skill）： 装完重启agent会话即生效。其余安装方式见安装指南。 全景一览 层 数量 是什么 怎么装 旗舰Skills 21 各自深耕一个领域的完整系统，独立仓库 git clone一条命令 人物视角Skills 14 女娲蒸馏的人物思维操作系统，独立仓库 git clone一条命令 内置Skills 22 轻量内容创作技能+更新检查工具，就在本仓库 复制子目录…",
-    "pushed_at": "2026-11-16T07:38:42Z",
+    "pushed_at": "2026-11-23T08:34:42Z",
     "v": 2
   },
   "aldegad/sprite-gen": {
@@ -191,7 +191,7 @@
   },
   "coin-or/pulp": {
     "excerpt": "pulp .. image:: .. image:: PyPI .. image:: PyPI - Downloads PuLP is an linear and mixed integer programming modeler written in Python. With PuLP, it is simple to create MILP optimisation problems and solve them with the latest open-source (or proprietary) solvers. PuLP can generate MPS or LP files and call solvers such as GLPK_, COIN-OR CLP/CBC_ (also through CyLP_), CPLEX_, GUROBI_, MOSEK_, XPRESS_, COPT_, CHOCO_, MIPCL_, HiGHS_, SCIP_/FSCIP_, Clarabel_, NVIDIA cuOpt_, SAS_, and OR-Tools CP-SAT_ and GLOP_ (via the CPSAT and GLOP APIs). The documentation for PuLP can be found here _. PuLP is part of the COIN-OR project _. .. note:: Upgrading from PuLP 3.x? PuLP 4.0 has breaking changes…",
-    "pushed_at": "2026-11-19T10:55:38Z",
+    "pushed_at": "2026-11-23T08:51:38Z",
     "v": 2
   },
   "datawhalechina/machine-learning-toy-code": {
@@ -231,7 +231,7 @@
   },
   "google/or-tools": {
     "excerpt": "OR-Tools - Google Optimization Tools Google's software suite for combinatorial optimization. About OR-Tools Codemap Installation Quick Start Documentation Contributing License About OR-Tools Google Optimization Tools (a.k.a., OR-Tools) is an open-source, fast and portable software suite for solving combinatorial optimization problems. The suite contains: Two constraint programming solver (CP* and CP-SAT). Two linear programming solvers (Glop and PDLP). Wrappers around commercial and other open source solvers, including mixed integer solvers (MPSolver and MathOpt). Bin packing, set covering, and knapsack algorithms. Algorithms for the Traveling Salesman Problem and Vehicle Routing Problem…",
-    "pushed_at": "2026-11-20T16:08:02Z",
+    "pushed_at": "2026-11-23T10:40:20Z",
     "v": 2
   },
   "greyhatguy007/Machine-Learning-Specialization-Coursera": {
@@ -241,7 +241,7 @@
   },
   "hiyouga/LlamaFactory": {
     "excerpt": "Used by Amazon, NVIDIA, Aliyun, etc. Check our new open-source project — 🐧 PenguinHarness: Local-first multi-agent app development platform - create, fine-tune, deploy AI apps automatically! Follow us and give us a star ⭐: Supporters ❤️ Warp, the agentic terminal for developers Available for MacOS, Linux, & Windows Easily fine-tune 100+ large language models with zero-code CLI and Web UI 👋 Join our WeChat and NPU user groups. \\ English [中文 \\] Fine-tuning a large language model can be easy as... Start local training: Please refer to usage Start cloud training: Colab (free): PAI-DSW (free trial): AMD GPU Cloud (free credits): Read technical notes: Documentation (WIP): Documentation (AMD GPU)…",
-    "pushed_at": "2026-11-21T10:57:51Z",
+    "pushed_at": "2026-11-23T08:41:27Z",
     "v": 2
   },
   "imraywang/ray-sticker-shop": {
@@ -286,7 +286,7 @@
   },
   "openclaw/openclaw": {
     "excerpt": "OpenClaw 🦞 — Your assistant, on your devices, in your chats OpenClaw is an open-source AI assistant that runs on your own computer and meets you in the channels you already use: Discord, iMessage, Slack, Teams, Telegram, WhatsApp, and 20+ more, plus native apps for macOS, iOS, Android, Windows, and Linux. One Gateway runs it as a personal claw on a laptop or as a shared multiplayer claw; configuration is the only difference. Yours, with no catch. State, memory, and credentials live on your hardware. Models and agent harnesses (Claude, Codex, local models) are plugins you can swap without changing anything else. Your prompts go to the model provider and chat platforms you configure, plus any…",
-    "pushed_at": "2026-11-22T09:54:53Z",
+    "pushed_at": "2026-11-23T10:54:55Z",
     "v": 2
   },
   "qwdwqfwq/topconf-paper-figure-gallery": {
@@ -301,7 +301,7 @@
   },
   "scipopt/PySCIPOpt": {
     "excerpt": "PySCIPOpt This project provides an interface from Python to the SCIP Optimization Suite. Starting from v8.0.3, SCIP uses the Apache2.0 license. If you plan to use an earlier version of SCIP, please review SCIP's license restrictions. Documentation Please consult the online documentation or use the help() function directly in Python or ? in IPython/Jupyter. The old documentation, which we are in the process of migrating from, is still more complete w.r.t. the API, and can be found here See CHANGELOG.md for added, removed or fixed functionality. Installation The recommended installation method is via PyPI: To avoid interfering with system packages, it's best to use a virtual environment…",
-    "pushed_at": "2026-11-20T14:33:39Z",
+    "pushed_at": "2026-11-23T09:12:01Z",
     "v": 2
   },
   "tanweai/pua": {
