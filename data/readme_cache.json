@@ -1,7 +1,7 @@
 {
   "029danio/fly": {
-    "excerpt": "机场推荐 2026：稳定高速翻墙机场 / VPN 推荐（每月更新） 内容最后更新：2026年11月20日｜本页每月更新，榜单内均为国内实测可用的翻墙机场节点，采用 Shadowsocks / V2Ray / Trojan 等协议，稳定高速。 快速结论：2026 年机场推荐怎么选？ 要性价比，追剧 + AI 全都要：选 超实惠机场，年付低至 5.25 元/月，还送 Emby 全网影视会员。 要稳定，做外贸或长期备用：选 狗狗加速VPN，注册送 3 天免费，高速专线。 要便宜，流量不限时慢慢用：选 飞鸟云机场，10 元/月起，不限时套餐流量用完才停。 要速度，专线直连：选 蜂群cheap，直连原生双线路，千兆下行。 要专线，流量不限时慢慢用：选 扬帆云机场，19.99 元/月起，IEPL 专线+不限时流量包，流量用完才停。 目录：机场推荐榜 · 超实惠机场 · 狗狗加速VPN · 飞鸟云机场 · 蜂群cheap · 扬帆云机场 · 机场选购指南 · 常见问题 · 客户端下载 机场推荐榜（2026年11月） 排名 机场 线路与协议 解锁能力 适合人群 官网直达 🥇 超实惠机场 高质量线路，晚高峰 8K 秒开 Netflix / Disney+ / TikTok / ChatGPT / DeepSeek 追剧、AI 工具、主力机场 立即前往 🥈 狗狗加速VPN 高速专线，Hysteria2 协议 流媒体、ChatGPT 外贸、长期备用 立即前往 🥉 飞鸟云机场 节点多、线路多，三年老牌 ChatGPT / Netflix / TikTok / Telegram 备用机场、高性价比…",
-    "pushed_at": "2026-11-20T13:55:09Z",
+    "excerpt": "机场推荐 2026：稳定高速翻墙机场 / VPN 推荐（每月更新） 内容最后更新：2026年11月23日｜本页每月更新，榜单内均为国内实测可用的翻墙机场节点，采用 Shadowsocks / V2Ray / Trojan 等协议，稳定高速。 快速结论：2026 年机场推荐怎么选？ 要性价比，追剧 + AI 全都要：选 超实惠机场，年付低至 5.25 元/月，还送 Emby 全网影视会员。 要稳定，做外贸或长期备用：选 狗狗加速VPN，注册送 3 天免费，高速专线。 要便宜，流量不限时慢慢用：选 飞鸟云机场，10 元/月起，不限时套餐流量用完才停。 要速度，专线直连：选 蜂群cheap，直连原生双线路，千兆下行。 要专线，流量不限时慢慢用：选 扬帆云机场，19.99 元/月起，IEPL 专线+不限时流量包，流量用完才停。 目录：机场推荐榜 · 超实惠机场 · 狗狗加速VPN · 飞鸟云机场 · 蜂群cheap · 扬帆云机场 · 机场选购指南 · 常见问题 · 客户端下载 机场推荐榜（2026年11月） 排名 机场 线路与协议 解锁能力 适合人群 官网直达 🥇 超实惠机场 高质量线路，晚高峰 8K 秒开 Netflix / Disney+ / TikTok / ChatGPT / DeepSeek 追剧、AI 工具、主力机场 立即前往 🥈 狗狗加速VPN 高速专线，Hysteria2 协议 流媒体、ChatGPT 外贸、长期备用 立即前往 🥉 飞鸟云机场 节点多、线路多，三年老牌 ChatGPT / Netflix / TikTok / Telegram 备用机场、高性价比…",
+    "pushed_at": "2026-11-23T13:58:51Z",
     "v": 2
   },
   "521xueweihan/HelloGitHub": {
@@ -35,8 +35,8 @@
     "v": 2
   },
   "HKUDS/Vibe-Trading": {
-    "excerpt": "English 中文 日本語 한국어 العربية Español Bahasa Indonesia Vibe-Trading: Your Personal Trading Agent One Command to Empower Your Agent with Comprehensive Trading Capabilities 📄 Read the Technical Report GitHub topic rankings by stars · Nov 4, 2026 1 Backtesting · 3 Algorithmic Trading · 4 Quantitative Finance Website · Docs · News · Features · Shadow Account · Demo · Quick Start · Examples · API / MCP · Roadmap · Contributors 📰 News 2026-11-22 🛠️ Backtest accuracy and richer Options Lab exports — Research Lab walk-forward studies keep earlier bars for indicators and score only the original evaluation dates. External benchmark equity matches the reported return across negative prices, and intraday…",
-    "pushed_at": "2026-11-22T16:34:10Z",
+    "excerpt": "English 中文 日本語 한국어 العربية Español Bahasa Indonesia Vibe-Trading: Your Personal Trading Agent One Command to Empower Your Agent with Comprehensive Trading Capabilities 📄 Read the Technical Report GitHub topic rankings by stars · Nov 4, 2026 1 Backtesting · 3 Algorithmic Trading · 4 Quantitative Finance Website · Docs · News · Features · Shadow Account · Demo · Quick Start · Examples · API / MCP · Roadmap · Contributors 📰 News 2026-11-24 🛠️ Claude CLI compatibility and backtest accuracy — The Claude CLI provider now reads the final result from verbose JSON output. Yahoo Finance aggregates hourly data into four-hour bars, and OHLC validation flags infinite prices. #2324 · #2344 · #2332 Risk…",
+    "pushed_at": "2026-11-24T09:43:55Z",
     "v": 2
   },
   "Ixiaohuihuihui/Tiny-Defect-Detection-for-PCB": {
@@ -86,12 +86,12 @@
   },
   "MetaCubeX/ClashMetaForAndroid": {
     "excerpt": "Clash Meta for Android A Graphical user interface of Clash.Meta for Android Feature Feature of Clash.Meta Requirement Android 5.0+ (minimum) Android 7.0+ (recommend) armeabi-v7a , arm64-v8a, x86 or x86_64 Architecture Build Update submodules Install OpenJDK 11, Android SDK, CMake and Golang Create local.properties in project root with (Optional) Custom app package name. Add the following configuration to local.properties. properties keystore.path=/path/to/keystore/file keystore.password= key.alias= key.password= bash ./gradlew app:assembleAlphaRelease Automation APP package name is com.github.metacubex.clash.meta Toggle Clash.Meta service status Send intent to activity…",
-    "pushed_at": "2026-11-20T00:27:17Z",
+    "pushed_at": "2026-11-24T03:04:46Z",
     "v": 2
   },
   "MorvanZhou/agentup": {
     "excerpt": "AgentUp Use AI the way you use WhatsApp. A local-first multi-agent desktop IM — add assistants like friends. Download · Website · Your AI Assistants — use AI the way you use WhatsApp. AgentUp is an open-source desktop app for multi-agent collaboration. Study, write, look things up, plan a trip — each assistant handles one kind of job; when the ask spans topics, it brings in another helper. Add assistants to your contacts like friends One assistant, one kind of chat. No mixing. It can read files on your computer and save results there After installing to Applications, run this once in Terminal so macOS will open the app: What AgentUp is (and isn’t) Coding tools manage the workbench. AgentUp…",
-    "pushed_at": "2026-11-23T04:14:46Z",
+    "pushed_at": "2026-11-24T01:36:32Z",
     "v": 2
   },
   "NJUWallSpider/IECourseGuide": {
@@ -156,7 +156,7 @@
   },
   "ZhuLinsen/daily_stock_analysis": {
     "excerpt": "📈 股票智能分析系统 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱 产品预览 · 功能特性 · 快速开始 · 推送效果 · 文档中心 · 完整指南 简体中文 English 繁體中文 💖 赞助商 (Sponsors) 感谢 Modelflare 赞助本项目！由美国 Havenbyte LLC 运营，满血稳定不掺水，低成本接入 GPT、Claude、Gemini、Grok 及 40+ 图片/视频模型，支持大陆正规商务合作。指定 OpenAI 分组提供 65% / 75% / 85% 每日缓存命中率保障 ；单笔充值 US$20 解锁 GPT 0.015x ， US$50 解锁 Claude 0.03x 。 专属链接注册 100+ 模型 $5 包月，Claude 1.9 折、GPT 0.9 折、DeepSeek 5.8 折，首充立减 20%。 专属链接注册 🖥️ 产品预览 点击动图查看完整演示 [!TIP] 🚀 作者配套开源项目：AlphaSift · 智能选股 ｜ AlphaEvo · 策略回测与进化 ✨ 功能特性 能力 覆盖内容 AI 决策报告 核心结论、评分、趋势、买卖点位、风险警报、催化因素、操作检查清单 多市场数据聚合 覆盖 A股、港股、美股、日股、韩股、台股和 ETF，支持行情、K 线、技术指标、新闻、公告、基本面与报告辅助数据；不同市场的数据源和能力边界见 市场支持边界 Web / 桌面工作台 手动分析、任务进度、历史报告、完整…",
-    "pushed_at": "2026-11-23T09:25:49Z",
+    "pushed_at": "2026-11-24T05:41:00Z",
     "v": 2
   },
   "aa1143/NamiGPT": {
@@ -191,7 +191,7 @@
   },
   "coin-or/pulp": {
     "excerpt": "pulp .. image:: .. image:: PyPI .. image:: PyPI - Downloads PuLP is an linear and mixed integer programming modeler written in Python. With PuLP, it is simple to create MILP optimisation problems and solve them with the latest open-source (or proprietary) solvers. PuLP can generate MPS or LP files and call solvers such as GLPK_, COIN-OR CLP/CBC_ (also through CyLP_), CPLEX_, GUROBI_, MOSEK_, XPRESS_, COPT_, CHOCO_, MIPCL_, HiGHS_, SCIP_/FSCIP_, Clarabel_, NVIDIA cuOpt_, SAS_, and OR-Tools CP-SAT_ and GLOP_ (via the CPSAT and GLOP APIs). The documentation for PuLP can be found here _. PuLP is part of the COIN-OR project _. .. note:: Upgrading from PuLP 3.x? PuLP 4.0 has breaking changes…",
-    "pushed_at": "2026-11-23T08:51:38Z",
+    "pushed_at": "2026-11-23T11:20:05Z",
     "v": 2
   },
   "datawhalechina/machine-learning-toy-code": {
@@ -231,7 +231,7 @@
   },
   "google/or-tools": {
     "excerpt": "OR-Tools - Google Optimization Tools Google's software suite for combinatorial optimization. About OR-Tools Codemap Installation Quick Start Documentation Contributing License About OR-Tools Google Optimization Tools (a.k.a., OR-Tools) is an open-source, fast and portable software suite for solving combinatorial optimization problems. The suite contains: Two constraint programming solver (CP* and CP-SAT). Two linear programming solvers (Glop and PDLP). Wrappers around commercial and other open source solvers, including mixed integer solvers (MPSolver and MathOpt). Bin packing, set covering, and knapsack algorithms. Algorithms for the Traveling Salesman Problem and Vehicle Routing Problem…",
-    "pushed_at": "2026-11-23T10:40:20Z",
+    "pushed_at": "2026-11-23T17:40:14Z",
     "v": 2
   },
   "greyhatguy007/Machine-Learning-Specialization-Coursera": {
@@ -286,12 +286,12 @@
   },
   "openclaw/openclaw": {
     "excerpt": "OpenClaw 🦞 — Your assistant, on your devices, in your chats OpenClaw is an open-source AI assistant that runs on your own computer and meets you in the channels you already use: Discord, iMessage, Slack, Teams, Telegram, WhatsApp, and 20+ more, plus native apps for macOS, iOS, Android, Windows, and Linux. One Gateway runs it as a personal claw on a laptop or as a shared multiplayer claw; configuration is the only difference. Yours, with no catch. State, memory, and credentials live on your hardware. Models and agent harnesses (Claude, Codex, local models) are plugins you can swap without changing anything else. Your prompts go to the model provider and chat platforms you configure, plus any…",
-    "pushed_at": "2026-11-23T10:54:55Z",
+    "pushed_at": "2026-11-24T12:40:36Z",
     "v": 2
   },
   "qwdwqfwq/topconf-paper-figure-gallery": {
     "excerpt": "🌐 简体中文 · English · Français · Русский · 한국어 · 日本語 🎨 顶会论文主图灵感画廊 顶会论文主图灵感画廊 · ICLR · ICML · NeurIPS · CVPR · ACL · AAAI · 2023–2026 💖 寻求赞助与资源支持 让科研绘图灵感持续开放，让开源工具走得更远。 欢迎个人与机构提供 资金赞助、模型 API 额度、GPU 算力或云资源，支持画廊维护、FigureForge 开发与效果验证。也欢迎通过贡献代码、推荐论文和分享项目支持我们！ 🤝 洽谈赞助 / 提供资源支持：939123836@qq.com ✨ FigureForge 生图成品 以下是画廊 FigureForge 的实际生图示例。 机器人策略与执行 时空扩散 Transformer · 可控视频生成 湿磨芦苇秸秆浆料 · 稳定性与流变控制 LLM 迎合行为因果分析 -yellow.svg) 🌐 简体中文 · English · Français · Русский · 한국어 · 日本語 国内 AtomGit 托管：访问本项目的 AtomGit 仓库 画论文主图前，先看顶会论文怎么排版。 一个可搜索、可筛选的 Figure 1 / Teaser 画廊。纯静态、零构建、可离线打开。 🌐 在线画廊 · 🛠️ FigureForge 画图 · 🎬 演示视频 · 📚 数据与方法 · ⚖️ 版权 / 下架 · 🤝 贡献指南 🤝 赞助伙伴 感谢以下伙伴为本项目提供大模型 API 与算力支持。点击横幅或名称即可访问，完整介绍可展开查看。 Infistar.cc…",
-    "pushed_at": "2026-11-19T17:30:44Z",
+    "pushed_at": "2026-11-24T03:09:52Z",
     "v": 2
   },
   "ruanyf/weekly": {
@@ -301,7 +301,7 @@
   },
   "scipopt/PySCIPOpt": {
     "excerpt": "PySCIPOpt This project provides an interface from Python to the SCIP Optimization Suite. Starting from v8.0.3, SCIP uses the Apache2.0 license. If you plan to use an earlier version of SCIP, please review SCIP's license restrictions. Documentation Please consult the online documentation or use the help() function directly in Python or ? in IPython/Jupyter. The old documentation, which we are in the process of migrating from, is still more complete w.r.t. the API, and can be found here See CHANGELOG.md for added, removed or fixed functionality. Installation The recommended installation method is via PyPI: To avoid interfering with system packages, it's best to use a virtual environment…",
-    "pushed_at": "2026-11-23T09:12:01Z",
+    "pushed_at": "2026-11-24T09:26:00Z",
     "v": 2
   },
   "tanweai/pua": {
