@@ -24,6 +24,11 @@
     "pushed_at": "2026-11-15T10:26:22Z",
     "v": 2
   },
+  "Alpha-Z-Pte-Ltd/frontieror-challenge-starter": {
+    "excerpt": "FrontierOR Challenge starter A starting point for the FrontierOR Challenge: an example LLM agent that writes an algorithm for each problem, and a toolkit that tests the algorithms like the challenge's sandbox and submits them. You need: uv macOS or Linux (on Windows, use WSL) an account and a team on the challenge site an OpenRouter key for the example agent's model calls Docker (optional), only needed for --docker uv run installs everything else on first use, including Python 3.14. Getting started Register on the challenge site, then run: It signs you in through the browser, downloads the problems and sets up the algorithm environment. Write your agent Your agent lives in the agent/…",
+    "pushed_at": "2026-11-16T06:58:32Z",
+    "v": 2
+  },
   "EvoScientist/EvoSkills": {
     "excerpt": "🧬 EvoSkills English 简体中文 The official skill repository for EvoScientist. Each skill is an installable knowledge pack that extends EvoScientist with domain-specific expertise. 📦 Installation [!IMPORTANT] These skills are purpose-built for EvoScientist — together they amplify each other, unlocking the full potential of both the agent and the skills. Under EvoScientist, skills evolve across research cycles through persistent memory (evo-memory). In-session commands Install all skills at once: Or install a single skill: Ask EvoScientist directly Simply ask the agent in conversation: [!TIP] Not using EvoScientist? These skills are compatible with any coding agent. One command via skills.sh to…",
     "pushed_at": "2026-11-13T17:25:43Z",
@@ -35,8 +40,8 @@
     "v": 2
   },
   "HKUDS/Vibe-Trading": {
-    "excerpt": "English 中文 日本語 한국어 العربية Español Bahasa Indonesia Vibe-Trading: Your Personal Trading Agent One Command to Empower Your Agent with Comprehensive Trading Capabilities 📄 Read the Technical Report GitHub topic rankings by stars · Nov 4, 2026 1 Backtesting · 3 Algorithmic Trading · 4 Quantitative Finance Website · Docs · News · Features · Shadow Account · Demo · Quick Start · Examples · API / MCP · Roadmap · Contributors 📰 News 2026-11-24 🛠️ Claude CLI compatibility and backtest accuracy — The Claude CLI provider now reads the final result from verbose JSON output. Yahoo Finance aggregates hourly data into four-hour bars, and OHLC validation flags infinite prices. #2324 · #2344 · #2332 Risk…",
-    "pushed_at": "2026-11-24T09:43:55Z",
+    "excerpt": "English 中文 日本語 한국어 العربية Español Bahasa Indonesia Vibe-Trading: Your Personal Trading Agent One Command to Empower Your Agent with Comprehensive Trading Capabilities 📄 Read the Technical Report GitHub topic rankings by stars · Nov 4, 2026 1 Backtesting · 3 Algorithmic Trading · 4 Quantitative Finance Website · Docs · News · Features · Shadow Account · Demo · Quick Start · Examples · API / MCP · Roadmap · Contributors 📰 News 2026-11-25 🛠️ Walk-forward audits and scheduled paper-trade cancellations — Research Lab can export each walk-forward validation fold and the optional holdout to CSV with the selected parameters and test metrics. In the 5-minute China A-share paper replay, a scheduled…",
+    "pushed_at": "2026-11-25T07:59:39Z",
     "v": 2
   },
   "Ixiaohuihuihui/Tiny-Defect-Detection-for-PCB": {
@@ -52,11 +57,6 @@
   "JKZuo/Diff-DGMN": {
     "excerpt": "Diff-DGMN Diff-DGMN: A Diffusion-Based Dual Graph Multiattention Network for POI Recommendation *Dual-graph-driven Representation*: Direction-aware Sequence Graph Multi-scale Representation Module (SeqGraphRep) and Global-based Distance Graph Geographical Representation Module (DisGraphRep). *Novel Diffusion-based User Preference Sampling (DiffGenerator)*: leverage the Variance-Preserving Stochastic Differential Equation (VP-SDE) to sample user future preferences by reverse-time generation. *Pure (noise-free) Location Archetype Vector*: capable of depicting the diffusion path from a source distribution to the target distribution and allowing for the exploration of evolving user interests…",
     "pushed_at": "2024-11-21T03:53:00Z",
-    "v": 2
-  },
-  "JackyTJie/SJTURunningMan_Advanced_Edition": {
-    "excerpt": "SJTU 一键校园跑工具 轻量 · 实际路线预览 · 记录生成与上传流程研究 简介 本项目仅用于学习、研究和技术测试，主要用于理解运动数据记录与上传相关的技术流程。项目作者不鼓励、不支持任何违反学校规定的使用方式。请在使用前确认自己的行为符合 SJTU 及相关平台的要求，请不要用于伪造运动数据或规避体育锻炼要求。 电脑版提供跑步次数、时间、距离和路线等参数配置，便于进行流程研究、规则测试和结果复核。新版使用 Tauri 2 + React 19 + TypeScript + Rust，界面主要使用 Google 官方 @material/web 组件，结束日期和距离滑块使用 md3.io 的 material 组件，遵循 Material Design 3；运行时使用系统 WebView，不携带 Chromium、Qt 或 Python。程序默认以昨日作为结束日期，向前生成指定次数的跑步记录（默认 1 次），每次跑步 4 km，时间为 08 00。 平台与文档 四个平台各自独立实现、独立发布。按你的平台选对应文档： 平台 版本 安装方式 文档 电脑版（Windows / macOS / Linux） v4.5.0 下载 exe / dmg / deb 直接运行 docs/desktop.md macOS 安装 v4.5.0 需处理首次打开的 Gatekeeper 拦截 docs/macos.md 安卓 4.5.0 下载 APK 安装 docs/android.md iOS 4.5.0 用 Xcode 自行编译安装 docs/ios.md 鸿蒙 NEXT 4.5.0 HAP +…",
-    "pushed_at": "2026-10-27T12:10:13Z",
     "v": 2
   },
   "K-Dense-AI/scientific-agent-skills": {
@@ -86,12 +86,12 @@
   },
   "MetaCubeX/ClashMetaForAndroid": {
     "excerpt": "Clash Meta for Android A Graphical user interface of Clash.Meta for Android Feature Feature of Clash.Meta Requirement Android 5.0+ (minimum) Android 7.0+ (recommend) armeabi-v7a , arm64-v8a, x86 or x86_64 Architecture Build Update submodules Install OpenJDK 11, Android SDK, CMake and Golang Create local.properties in project root with (Optional) Custom app package name. Add the following configuration to local.properties. properties keystore.path=/path/to/keystore/file keystore.password= key.alias= key.password= bash ./gradlew app:assembleAlphaRelease Automation APP package name is com.github.metacubex.clash.meta Toggle Clash.Meta service status Send intent to activity…",
-    "pushed_at": "2026-11-24T03:04:46Z",
+    "pushed_at": "2026-11-25T05:33:00Z",
     "v": 2
   },
   "MorvanZhou/agentup": {
     "excerpt": "AgentUp Use AI the way you use WhatsApp. A local-first multi-agent desktop IM — add assistants like friends. Download · Website · Your AI Assistants — use AI the way you use WhatsApp. AgentUp is an open-source desktop app for multi-agent collaboration. Study, write, look things up, plan a trip — each assistant handles one kind of job; when the ask spans topics, it brings in another helper. Add assistants to your contacts like friends One assistant, one kind of chat. No mixing. It can read files on your computer and save results there After installing to Applications, run this once in Terminal so macOS will open the app: What AgentUp is (and isn’t) Coding tools manage the workbench. AgentUp…",
-    "pushed_at": "2026-11-24T01:36:32Z",
+    "pushed_at": "2026-11-25T10:18:26Z",
     "v": 2
   },
   "NJUWallSpider/IECourseGuide": {
@@ -101,7 +101,7 @@
   },
   "OpenByteInc/QuantDinger": {
     "excerpt": "QuantDinger - Open-Source AI Quant Research Platform Turn trading ideas into Python strategies, backtests, paper trading, live execution, and monitoring — all in one self-hosted stack. QuantDinger is a product of Open Byte Inc. AI research → Strategy code → Backtest → Paper/Live execution → Monitoring 简体中文 繁體中文 Tiếng Việt API AI Agents & MCP Live App Website Deploy on AWS Marketplace Video Demo Official Support Email SUPPORTED BY Open Byte Inc. has joined NVIDIA Inception. Want to contribute? Explore the public roadmap or claim a scoped task from Ready for contributors. QuantDinger can submit real orders when live trading is explicitly enabled. Start with paper trading, use restricted API…",
-    "pushed_at": "2026-11-22T19:38:46Z",
+    "pushed_at": "2026-11-25T07:17:38Z",
     "v": 2
   },
   "RahulShagri/Interactive-Assembly-Line-Balancer": {
@@ -151,12 +151,12 @@
   },
   "Yuan1z0825/nature-skills": {
     "excerpt": "在线网站 · 立即安装 · 快速开始 · 技能索引 · 其他安装 · 贡献方式 · English Nature Skills 网页版：内置 Nature Polishing（论文润色）与 Nature Figure（科研绘图）核心功能，访问地址 nature-skills 面向全球 AI 学者收录可复用科研技能，强调真实问题解决、可验证工作流与可直接使用的科研产物。 1. 项目发起人与运营信息 1.1 创始人介绍 1.2 自营 GPT / Claude 代充与成品号 1.3 知识星球 1.4 商务合作 2. Skills 主要开发者 3. 项目理念与社区 4. 快速开始 5. 安装 5.1 npx skills 安装方式 5.2 Claude Code 安装方式 5.3 Codex 安装方式 5.4 Chatbox 安装与使用 5.5 其他 Agent 场景 6. 技能索引 7. 贡献与开发 8. Star 历史 项目发起人与运营信息 1.1 创始人介绍 大家好，我是 nature-skills 的创立者袁一哲。感谢大家持续关注本项目。我们在抖音更新了许多视频教程，大家可以根据名称检索查看，希望能够真正帮助到科研工作。目前正在寻找工作，欢迎添加下方二维码与我取得联系。 1.2 自营 GPT / Claude 代充与成品号 严格筛选渠道商，提供完全正规的充值渠道与服务。欢迎访问 Nature AI 充值卡网（已上线plus一年代充，Pro5x，20x等等）： Nature AI 充值卡网 扫码添加微信客服 1.3 知识星球 知识星球名称：Nature Skills…",
-    "pushed_at": "2026-11-22T14:37:37Z",
+    "pushed_at": "2026-11-25T07:02:42Z",
     "v": 2
   },
   "ZhuLinsen/daily_stock_analysis": {
-    "excerpt": "📈 股票智能分析系统 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱 产品预览 · 功能特性 · 快速开始 · 推送效果 · 文档中心 · 完整指南 简体中文 English 繁體中文 💖 赞助商 (Sponsors) 感谢 Modelflare 赞助本项目！由美国 Havenbyte LLC 运营，满血稳定不掺水，低成本接入 GPT、Claude、Gemini、Grok 及 40+ 图片/视频模型，支持大陆正规商务合作。指定 OpenAI 分组提供 65% / 75% / 85% 每日缓存命中率保障 ；单笔充值 US$20 解锁 GPT 0.015x ， US$50 解锁 Claude 0.03x 。 专属链接注册 100+ 模型 $5 包月，Claude 1.9 折、GPT 0.9 折、DeepSeek 5.8 折，首充立减 20%。 专属链接注册 🖥️ 产品预览 点击动图查看完整演示 [!TIP] 🚀 作者配套开源项目：AlphaSift · 智能选股 ｜ AlphaEvo · 策略回测与进化 ✨ 功能特性 能力 覆盖内容 AI 决策报告 核心结论、评分、趋势、买卖点位、风险警报、催化因素、操作检查清单 多市场数据聚合 覆盖 A股、港股、美股、日股、韩股、台股和 ETF，支持行情、K 线、技术指标、新闻、公告、基本面与报告辅助数据；不同市场的数据源和能力边界见 市场支持边界 Web / 桌面工作台 手动分析、任务进度、历史报告、完整…",
-    "pushed_at": "2026-11-24T05:41:00Z",
+    "excerpt": "📈 股票智能分析系统 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱 产品预览 · 功能特性 · 快速开始 · 推送效果 · 文档中心 · 完整指南 简体中文 English 繁體中文 [!TIP] 🔎 不知道选哪只股？ 开源选股 AlphaSift 每日选股+策略跟踪 → 免安装在线看今日选股 💖 赞助商 (Sponsors) 感谢 Modelflare 赞助本项目！由美国 Havenbyte LLC 运营，满血稳定不掺水，低成本接入 GPT、Claude、Gemini、Grok 及 40+ 图片/视频模型，支持大陆正规商务合作。指定 OpenAI 分组提供 65% / 75% / 85% 每日缓存命中率保障 ；单笔充值 US$20 解锁 GPT 0.015x ， US$50 解锁 Claude 0.03x 。 专属链接注册 100+ 模型 $5 包月，Claude 1.9 折、GPT 0.9 折、DeepSeek 5.8 折，首充立减 20%。 专属链接注册 🖥️ 产品预览 点击动图查看完整演示 ✨ 功能特性 能力 覆盖内容 AI 决策报告 核心结论、评分、趋势、买卖点位、风险警报、催化因素、操作检查清单 多市场数据聚合 覆盖 A股、港股、美股、日股、韩股、台股和 ETF，支持行情、K 线、技术指标、新闻、公告、基本面与报告辅助数据；不同市场的数据源和能力边界见 市场支持边界 Web / 桌面工作台 手动分析、任务进度、历史报告、完整…",
+    "pushed_at": "2026-11-24T21:54:08Z",
     "v": 2
   },
   "aa1143/NamiGPT": {
@@ -215,8 +215,8 @@
     "v": 2
   },
   "eternity4719/HowToLiveBetter": {
-    "excerpt": "高性价比人生指南 讲怎么活得久、怎么少生病，出了意外怎么救。讲怎么少花冤枉钱，哪些事会让人被骗、摊上官司。讲没工作没钱时能去领什么，开店、开公司、做网站要办什么手续。也讲恋爱结婚生孩子、出国和学手艺。法律、医保、社保这些制度上的内容，按中国大陆的现行规定写。 772 条建议，每条写明花掉什么、换回什么、证据有多硬，来源只引期刊论文和官方文件，少数官方不公开的案件引署名的原创新闻报道并附网页存档。 不用全做：这是一份备选单，不是任务清单——挑走一两条就算数，作者自己也没做到其中大部分。 书里的内容可能过时，也可能有错。不少政策各地执行不一样。真去办事、看病、打官司时，以当地部门、医生和律师的说法为准。发现写错了，欢迎提 issue。 电子书平台上的官方版本由果麦文化独家出品，2026 年 10 月上架，其他版本都不是官方的。本页的网页版、EPUB、PDF 照旧免费，更新也最快。 打开在线检索页 · 让 AI 照书回答（skill） AI 助手 skill 支持 Claude Code 和 Codex。装上后直接问「替朋友担保签不签」，它先查书里的条目再回答，并注明出自第几节第几条。 下载 PDF · EPUB · 离线单文件（HTML） · Anki 牌组 查阅 目录 · 术语表 · 核实记录 自查 生活自查：回答几十道是否题，看看书里哪些事你还没做到、先做哪几件 长文 结婚划不划算 · 家庭应急装备清单 · 遇到陌生人出事该不该停 · 做平台要办哪些证 · 生物钟和夜班 · 被裁了之后先做什么 · 孩子出生前后要办的事 · 刚确诊慢性病之后 · 换工作、换城市之前 交流 QQ…",
-    "pushed_at": "2026-11-16T09:46:16Z",
+    "excerpt": "高性价比人生指南 讲怎么活得久、怎么少生病，出了意外怎么救。讲怎么少花冤枉钱，哪些事会让人被骗、摊上官司。讲没工作没钱时能去领什么，开店、开公司、做网站要办什么手续。也讲恋爱结婚生孩子、出国和学手艺。法律、医保、社保这些制度上的内容，按中国大陆的现行规定写。 774 条建议，每条写明花掉什么、换回什么、证据有多硬，来源只引期刊论文和官方文件，少数官方不公开的案件引署名的原创新闻报道并附网页存档。 不用全做：这是一份备选单，不是任务清单——挑走一两条就算数，作者自己也没做到其中大部分。 书里的内容可能过时，也可能有错。不少政策各地执行不一样。真去办事、看病、打官司时，以当地部门、医生和律师的说法为准。发现写错了，欢迎提 issue。 电子书平台上的官方版本由果麦文化独家出品，2026 年 10 月上架，其他版本都不是官方的。本页的网页版、EPUB、PDF 照旧免费，更新也最快。 打开在线检索页 · 让 AI 照书回答（skill） AI 助手 skill 支持 Claude Code 和 Codex。装上后直接问「替朋友担保签不签」，它先查书里的条目再回答，并注明出自第几节第几条。 下载 PDF · EPUB · 离线单文件（HTML） · Anki 牌组 查阅 目录 · 术语表 · 核实记录 自查 生活自查：回答几十道是否题，看看书里哪些事你还没做到、先做哪几件 长文 结婚划不划算 · 家庭应急装备清单 · 遇到陌生人出事该不该停 · 做平台要办哪些证 · 生物钟和夜班 · 被裁了之后先做什么 · 孩子出生前后要办的事 · 刚确诊慢性病之后 · 换工作、换城市之前 交流 QQ…",
+    "pushed_at": "2026-11-25T10:22:55Z",
     "v": 2
   },
   "feiniaoyun/feiniaoyun": {
@@ -241,7 +241,7 @@
   },
   "hiyouga/LlamaFactory": {
     "excerpt": "Used by Amazon, NVIDIA, Aliyun, etc. Check our new open-source project — 🐧 PenguinHarness: Local-first multi-agent app development platform - create, fine-tune, deploy AI apps automatically! Follow us and give us a star ⭐: Supporters ❤️ Warp, the agentic terminal for developers Available for MacOS, Linux, & Windows Easily fine-tune 100+ large language models with zero-code CLI and Web UI 👋 Join our WeChat and NPU user groups. \\ English [中文 \\] Fine-tuning a large language model can be easy as... Start local training: Please refer to usage Start cloud training: Colab (free): PAI-DSW (free trial): AMD GPU Cloud (free credits): Read technical notes: Documentation (WIP): Documentation (AMD GPU)…",
-    "pushed_at": "2026-11-23T08:41:27Z",
+    "pushed_at": "2026-11-25T04:38:40Z",
     "v": 2
   },
   "imraywang/ray-sticker-shop": {
@@ -279,6 +279,11 @@
     "pushed_at": "2026-03-26T23:13:27Z",
     "v": 2
   },
+  "openai/math": {
+    "excerpt": "Readme This repository contains mathematical manuscripts and supporting proof artifacts produced by an unnamed internal OpenAI model. As part of model development, we evaluate our models on open research problems. We expanded these evaluations after performance on our existing mathematical evaluations saturated. Some outputs build upon earlier results produced by the models. This collection includes results at different stages of verification. Not all have accompanying Lean formalizations. We will continue to update this repository with Lean formalizations as we obtain them. Some of the unformalized results could have issues. We will endeavor to fix any such issues quickly. We are also…",
+    "pushed_at": "2026-11-25T00:18:51Z",
+    "v": 2
+  },
   "openai/skills": {
     "excerpt": "[!IMPORTANT] This repository is deprecated. For current Codex skill and plugin examples, use the OpenAI Plugins repository. If you want to add your own skills to Codex, follow the Build plugins guide, which includes instructions for creating a skill-only plugin. Agent Skills Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at specific tasks. Write once, use everywhere. Codex uses skills to help package capabilities that teams and individuals can use to complete specific tasks in a repeatable way. This repository catalogs skills for use and distribution with Codex. Learn more: Using skills in Codex Create custom skills in Codex…",
     "pushed_at": "2026-10-28T17:31:41Z",
@@ -286,7 +291,7 @@
   },
   "openclaw/openclaw": {
     "excerpt": "OpenClaw 🦞 — Your assistant, on your devices, in your chats OpenClaw is an open-source AI assistant that runs on your own computer and meets you in the channels you already use: Discord, iMessage, Slack, Teams, Telegram, WhatsApp, and 20+ more, plus native apps for macOS, iOS, Android, Windows, and Linux. One Gateway runs it as a personal claw on a laptop or as a shared multiplayer claw; configuration is the only difference. Yours, with no catch. State, memory, and credentials live on your hardware. Models and agent harnesses (Claude, Codex, local models) are plugins you can swap without changing anything else. Your prompts go to the model provider and chat platforms you configure, plus any…",
-    "pushed_at": "2026-11-24T12:40:36Z",
+    "pushed_at": "2026-11-25T11:28:46Z",
     "v": 2
   },
   "qwdwqfwq/topconf-paper-figure-gallery": {
