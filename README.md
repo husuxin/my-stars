@@ -4,43 +4,43 @@
 
 > 把 star 过的项目整理成可检索的索引，每天自动同步。
 >
-> 自动整理自 [@husuxin 的 Stars](https://github.com/husuxin?tab=stars)，共 **74** 个仓库 · **15** 种语言 · 累计 **★ 2.3M**
-> 上次同步：**2026-11-26 19:08**（UTC+8，每天自动更新）
+> 自动整理自 [@husuxin 的 Stars](https://github.com/husuxin?tab=stars)，共 **78** 个仓库 · **16** 种语言 · 累计 **★ 2.5M**
+> 上次同步：**2026-11-27 19:01**（UTC+8，每天自动更新）
 
 [GitHub Stars](https://github.com/husuxin?tab=stars) · [🔍 在线搜索](https://husuxin.github.io/my-stars/) · [🛠️ 维护说明](#maintenance)
 
 ## 🕘 最近收藏 · 15
 
+- [**guanmo-ai/ui-moments**](https://github.com/guanmo-ai/ui-moments) — A hands-on gallery of interactive UI and motion · `JavaScript` · ★ 37 · 2026-11-27
+- [**f/prompts.chat**](https://github.com/f/prompts.chat) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete… · `MDX` · ★ 179k · 2026-11-27
+- [**yrui-cmd/cell_su7**](https://github.com/yrui-cmd/cell_su7) — Original image to editable PowerPoint or Adobe Illustrator, with remaining-credit display. · `Python` · ★ 507 · 2026-11-27
+- [**HKUDS/DeepTutor**](https://github.com/HKUDS/DeepTutor) — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. · `Python` · ★ 64k · 2026-11-27
 - [**jlcodes99/cockpit-tools**](https://github.com/jlcodes99/cockpit-tools) — 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE… · `Rust` · ★ 21k · 2026-11-26
-- [**wynter-yaxley/atrium-desktop**](https://github.com/wynter-yaxley/atrium-desktop) — A native glass desktop for Windows 11: floating taskbar and desktop widgets with real-time refraction. Architecture review and verified feasibility probes. · `C++` · ★ 750 · 2026-11-25
+- [**wynter-yaxley/atrium-desktop**](https://github.com/wynter-yaxley/atrium-desktop) — A native glass desktop for Windows 11: floating taskbar and desktop widgets with real-time refraction. Architecture review and verified feasibility probes. · `C++` · ★ 806 · 2026-11-25
 - [**lbjlaq/Antigravity-Manager**](https://github.com/lbjlaq/Antigravity-Manager) — Professional Antigravity Account Manager &amp; Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的… · `Rust` · ★ 34k · 2026-11-25
-- [**openai/math**](https://github.com/openai/math) — `Lean` · ★ 18k · 2026-11-25
+- [**openai/math**](https://github.com/openai/math) — `Lean` · ★ 19k · 2026-11-25
 - [**Alpha-Z-Pte-Ltd/frontieror-challenge-starter**](https://github.com/Alpha-Z-Pte-Ltd/frontieror-challenge-starter) — Starter code for frontieror-challenge.com · `Python` · ★ 2 · 2026-11-24
-- [**mumdark/nature-review-studio**](https://github.com/mumdark/nature-review-studio) — `Python` · ★ 192 · 2026-11-18
+- [**mumdark/nature-review-studio**](https://github.com/mumdark/nature-review-studio) — `Python` · ★ 193 · 2026-11-18
 - [**K-Dense-AI/scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) — Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus… · `Python` · ★ 59k · 2026-11-18
 - [**microsoft/ResearchStudio**](https://github.com/microsoft/ResearchStudio) — ResearchStudio: Our AI co-author, from research problem to final publication. · `Python` · ★ 3.8k · 2026-11-18
 - [**ZhuLinsen/daily_stock_analysis**](https://github.com/ZhuLinsen/daily_stock_analysis) — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision… · `Python` · ★ 75k · 2026-11-08
 - [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock) — Hunt down social media accounts by username across social networks · `Python` · ★ 118k · 2026-11-06
 - [**aldegad/sprite-gen**](https://github.com/aldegad/sprite-gen) — Generate clean 2D game sprites &amp; animation atlases — component-row pipeline: state rows, alpha cleanup, frame extraction, runtime atlases. Codex/Claude skill. · `Python` · ★ 4.3k · 2026-11-05
-- [**WoYun520/gif-factory**](https://github.com/WoYun520/gif-factory) — GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。 · `Python` · ★ 2.1k · 2026-11-05
-- [**imraywang/ray-sticker-shop**](https://github.com/imraywang/ray-sticker-shop) — 一张照片或角色图，生成一整套形象一致的动态表情包和微信投稿素材（Claude Code / Codex skill） · `Python` · ★ 536 · 2026-11-05
-- [**datawhalechina/pumpkin-book**](https://github.com/datawhalechina/pumpkin-book) — 📝 南瓜书，西瓜书里难懂公式的逐条推导 · 南瓜书：《机器学习》（西瓜书）公式详解 · ★ 26k · 2026-11-04
-- [**datawhalechina/machine-learning-toy-code**](https://github.com/datawhalechina/machine-learning-toy-code) — 📝 西瓜书配套代码，公式和实现对照看 · 《机器学习》（西瓜书）代码实战 · `Jupyter Notebook` · ★ 1k · 2026-11-04
 
 ## 🎲 遗忘角落
 
 > 从至少半年前收藏的项目里随机挑几个，每次同步换一批，帮你想起它们。
 
-- [**tanweai/pua**](https://github.com/tanweai/pua) — 📝 高压式 Agent 提示词，用 PUA 语气催模型干活 · 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。 一个agent使用的高能动性的skill。 Your AI has been placed on a PIP. 30 days to show improvement. | Lead: Minwei Wang… · `Python` · ★ 20k · 2026-03-13
-- [**datawhalechina/whale-quant**](https://github.com/datawhalechina/whale-quant) — 📝 量化金融开源课程，Python 量化入门 · 本项目为量化开源课程，可以帮助人们快速掌握量化金融知识以及使用Python进行量化开发的能力。 · `Jupyter Notebook` · ★ 3k · 2026-02-14
-- [**openclaw/openclaw**](https://github.com/openclaw/openclaw) — 📝 自托管 AI 助手，一个网关接入多种聊天工具 · The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 · `TypeScript` · ★ 395k · 2026-03-13
-- [**labuladong/fucking-algorithm**](https://github.com/labuladong/fucking-algorithm) — 📝 labuladong 算法笔记，刷题和写题解参考 · Crack LeetCode, not only how, but also why. · `Markdown` · ★ 136k · 2025-12-14
+- [**ruanyf/weekly**](https://github.com/ruanyf/weekly) — 📝 阮一峰科技周刊，每周五更新 · 科技爱好者周刊，每周五发布 · ★ 109k · 2025-03-28
+- [**wurmen/Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II**](https://github.com/wurmen/Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II) — 📝 用 GA / NSGA-II 解车间调度的入门实现 · Learning how to implement GA and NSGA-II for job shop scheduling problem in python · `HTML` · ★ 386 · 2025-04-03
+- [**greyhatguy007/Machine-Learning-Specialization-Coursera**](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera) — 📝 吴恩达机器学习专项的作业与笔记 · Contains Solutions and Notes for the Machine Learning Specialization By Stanford University and Deeplearning.ai - Coursera (2022) by Prof. Andrew NG · `Jupyter Notebook` · ★ 8.2k · 2025-08-01
+- [**JKZuo/Diff-DGMN**](https://github.com/JKZuo/Diff-DGMN) — 📝 扩散模型 + 双图注意力的 POI 推荐 · Diff-DGMN: A Diffusion-based Dual Graph Multi-attention Network for POI Recommendation · `Python` · ★ 151 · 2025-03-28
+- [**Ixiaohuihuihui/Tiny-Defect-Detection-for-PCB**](https://github.com/Ixiaohuihuihui/Tiny-Defect-Detection-for-PCB) — 📝 PCB 小缺陷检测，工业视觉小目标参考 · This is a repository about PCB defect detection. · `Jupyter Notebook` · ★ 534 · 2025-03-31
 - [**openai/gym**](https://github.com/openai/gym) 🗄️ — 📝 强化学习环境标准接口，老牌但经典 · A toolkit for developing and comparing reinforcement learning algorithms. · `Python` · ★ 37k · 2025-06-28
-- [**521xueweihan/HelloGitHub**](https://github.com/521xueweihan/HelloGitHub) — 📝 每月一期的开源项目月刊，适合找入门项目 · :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. · `Python` · ★ 191k · 2025-03-28
 
 ## 🧭 分类索引
 
-- [🤖 AI / LLM / Agent](#cat-ai) · 25
+- [🤖 AI / LLM / Agent](#cat-ai) · 27
 - [🧮 运筹优化 / 科学计算](#cat-or) · 9
 - [🔬 科研 / 论文工具](#cat-research) · 4
 - [📊 数据 / 可视化](#cat-data) · 1
@@ -48,6 +48,7 @@
 - [🛠️ 开发工具 / 效率](#cat-tools) · 3
 - [☁️ 云 / DevOps](#cat-infra) · 2
 - [📱 移动 / 桌面](#cat-mobile) · 2
+- [🎨 设计 / 创意](#cat-design) · 2
 - [📚 学习资源 / Awesome](#cat-learning) · 7
 - [🎮 游戏 / 趣味](#cat-game) · 1
 - [🐍 Python](#lang-python) · 9
@@ -56,12 +57,14 @@
 - [📓 Jupyter Notebook](#lang-jupyter-notebook) · 2
 
 <a name="cat-ai"></a>
-## 🤖 AI / LLM / Agent · 25
+## 🤖 AI / LLM / Agent · 27
 
 - [**openclaw/openclaw**](https://github.com/openclaw/openclaw) — 📝 自托管 AI 助手，一个网关接入多种聊天工具 · The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 · `TypeScript` · ★ 395k · 2026-03-13
 - [**anthropics/skills**](https://github.com/anthropics/skills) — 📝 Anthropic 官方 Skills 示例，写自定义技能先看这里 · Public repository for Agent Skills · `Python` · ★ 201k · 2026-06-03
+- [**f/prompts.chat**](https://github.com/f/prompts.chat) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete… · `MDX` · ★ 179k · 2026-11-27
 - [**hiyouga/LlamaFactory**](https://github.com/hiyouga/LlamaFactory) — 📝 统一微调 100+ LLM/VLM 的框架，LoRA 全参都支持 · Unified Efficient Fine-Tuning of 100+ LLMs &amp; VLMs (ACL 2024) · `Python` · ★ 76k · 2025-03-31
 - [**ZhuLinsen/daily_stock_analysis**](https://github.com/ZhuLinsen/daily_stock_analysis) — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision… · `Python` · ★ 75k · 2026-11-08
+- [**HKUDS/DeepTutor**](https://github.com/HKUDS/DeepTutor) — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. · `Python` · ★ 64k · 2026-11-27
 - [**Lordog/dive-into-llms**](https://github.com/Lordog/dive-into-llms) — 📝 动手学大模型系列教程，系统过一遍 LLM 基础 · 《动手学大模型Dive into LLMs》系列编程实践教程 · `Jupyter Notebook` · ★ 61k · 2026-06-17
 - [**K-Dense-AI/scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) — Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus… · `Python` · ★ 59k · 2026-11-18
 - [**vercel-labs/skills**](https://github.com/vercel-labs/skills) — 📝 npx skills：安装和管理 Agent 技能包的命令行工具 · The open agent skills tool - npx skills · `TypeScript` · ★ 41k · 2026-06-03
@@ -71,15 +74,15 @@
 - [**datawhalechina/pumpkin-book**](https://github.com/datawhalechina/pumpkin-book) — 📝 南瓜书，西瓜书里难懂公式的逐条推导 · 南瓜书：《机器学习》（西瓜书）公式详解 · ★ 26k · 2026-11-04
 - [**jlcodes99/cockpit-tools**](https://github.com/jlcodes99/cockpit-tools) — 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE… · `Rust` · ★ 21k · 2026-11-26
 - [**tanweai/pua**](https://github.com/tanweai/pua) — 📝 高压式 Agent 提示词，用 PUA 语气催模型干活 · 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。 一个agent使用的高能动性的skill。 Your AI has been placed on a PIP. 30 days to show improvement. | Lead: Minwei Wang… · `Python` · ★ 20k · 2026-03-13
-- [**openai/math**](https://github.com/openai/math) — `Lean` · ★ 18k · 2026-11-25
+- [**openai/math**](https://github.com/openai/math) — `Lean` · ★ 19k · 2026-11-25
 - [**OpenByteInc/QuantDinger**](https://github.com/OpenByteInc/QuantDinger) — 📝 开源 AI 交易系统，策略、回测到模拟盘 · The most complete open-source, self-hosted Agentic Trading OS—AI research, Python strategies, factor discovery, backtesting, optimization, paper/live… · `Python` · ★ 14k · 2026-06-02
 - [**greyhatguy007/Machine-Learning-Specialization-Coursera**](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera) — 📝 吴恩达机器学习专项的作业与笔记 · Contains Solutions and Notes for the Machine Learning Specialization By Stanford University and Deeplearning.ai - Coursera (2022) by Prof. Andrew NG · `Jupyter Notebook` · ★ 8.2k · 2025-08-01
 - [**qwdwqfwq/topconf-paper-figure-gallery**](https://github.com/qwdwqfwq/topconf-paper-figure-gallery) — 📝 顶会论文 Figure 1 灵感库，科研绘图参考 · 3,516 curated Figure 1 / teasers from ICLR, ICML, NeurIPS, CVPR, ACL, AAAI (2023-2026), with tier badges and FigureForge retrieval-augmented figure drafting · `JavaScript` · ★ 2.4k · 2026-11-04
 - [**alchaincyf/huashu-skills**](https://github.com/alchaincyf/huashu-skills) — 📝 花叔的 Agent Skills 合集，中文技能包参考 · 花叔全部开源 Agent Skills 总目录：16 旗舰 + 14 人物视角 + 22 内置共 52 个 skill，分层分类 + AI Agent 安装协议 + 机器可读 skills.json + 更新检查机制 · `Python` · ★ 2.4k · 2026-10-14
 - [**datawhalechina/machine-learning-toy-code**](https://github.com/datawhalechina/machine-learning-toy-code) — 📝 西瓜书配套代码，公式和实现对照看 · 《机器学习》（西瓜书）代码实战 · `Jupyter Notebook` · ★ 1k · 2026-11-04
-- [**imraywang/ray-sticker-shop**](https://github.com/imraywang/ray-sticker-shop) — 一张照片或角色图，生成一整套形象一致的动态表情包和微信投稿素材（Claude Code / Codex skill） · `Python` · ★ 536 · 2026-11-05
-- [**Xiaoc7r/DOVideo-AI**](https://github.com/Xiaoc7r/DOVideo-AI) — 📝 长视频理解 Video Agent 平台，视频 RAG 参考 · 一个面向长视频内容理解的 Video Agent 平台。 · `Java` · ★ 513 · 2026-10-28
-- [**aa1143/NamiGPT**](https://github.com/aa1143/NamiGPT) — 📝 从零手写 GPT-2 的中文教程，看底层实现 · 零基础入门大模型（LLM）的基础教程：从零手写 GPT-2，一行行看懂大模型是怎么工作的 | Build GPT-2 from scratch in PyTorch, step by step · `Python` · ★ 312 · 2026-10-28
+- [**imraywang/ray-sticker-shop**](https://github.com/imraywang/ray-sticker-shop) — 一张照片或角色图，生成一整套形象一致的动态表情包和微信投稿素材（Claude Code / Codex skill） · `Python` · ★ 537 · 2026-11-05
+- [**Xiaoc7r/DOVideo-AI**](https://github.com/Xiaoc7r/DOVideo-AI) — 📝 长视频理解 Video Agent 平台，视频 RAG 参考 · 一个面向长视频内容理解的 Video Agent 平台。 · `Java` · ★ 515 · 2026-10-28
+- [**aa1143/NamiGPT**](https://github.com/aa1143/NamiGPT) — 📝 从零手写 GPT-2 的中文教程，看底层实现 · 零基础入门大模型（LLM）的基础教程：从零手写 GPT-2，一行行看懂大模型是怎么工作的 | Build GPT-2 from scratch in PyTorch, step by step · `Python` · ★ 318 · 2026-10-28
 - [**ai-for-decision-making-tue/Job_Shop_Scheduling_Benchmark_Environments_and_Instances**](https://github.com/ai-for-decision-making-tue/Job_Shop_Scheduling_Benchmark_Environments_and_Instances) — 📝 车间调度基准算例与多种求解方法，做对比实验用 · A benchmarking repo with various solution methods to various machine scheduling problems · `Jupyter Notebook` · ★ 221 · 2025-04-04
 - [**JKZuo/Diff-DGMN**](https://github.com/JKZuo/Diff-DGMN) — 📝 扩散模型 + 双图注意力的 POI 推荐 · Diff-DGMN: A Diffusion-based Dual Graph Multi-attention Network for POI Recommendation · `Python` · ★ 151 · 2025-03-28
 - [**MorvanZhou/agentup**](https://github.com/MorvanZhou/agentup) — 📝 把 AI 助手当联系人用的桌面应用 · Use AI Team the way you use WhatsApp 像微信一样用 ai agents 团队 · `TypeScript` · ★ 25 · 2026-10-29
@@ -101,7 +104,7 @@
 ## 🔬 科研 / 论文工具 · 4
 
 - [**billryan/resume**](https://github.com/billryan/resume) — 📝 LaTeX 简历模板，排版干净，支持中文 · An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git · `TeX` · ★ 12k · 2026-11-03
-- [**Adkid-Zephyr/anti-defensive-writing-Skill**](https://github.com/Adkid-Zephyr/anti-defensive-writing-Skill) — 📝 论文防防御性写作 Skill，改语气和措辞时参考 · 极致轻量｜阻止论文的防御性写作 | Anti-defensive writing for academic papers — 学术写作原则 Skill + prompt pack (CN/EN) · `Python` · ★ 7.3k · 2026-10-19
+- [**Adkid-Zephyr/anti-defensive-writing-Skill**](https://github.com/Adkid-Zephyr/anti-defensive-writing-Skill) — 📝 论文防防御性写作 Skill，改语气和措辞时参考 · 极致轻量｜阻止论文的防御性写作 | Anti-defensive writing for academic papers — 学术写作原则 Skill + prompt pack (CN/EN) · `Python` · ★ 7.4k · 2026-10-19
 - [**microsoft/ResearchStudio**](https://github.com/microsoft/ResearchStudio) — ResearchStudio: Our AI co-author, from research problem to final publication. · `Python` · ★ 3.8k · 2026-11-18
 - [**LingxiaoWu2021/VSPP**](https://github.com/LingxiaoWu2021/VSPP) — 📝 港口船舶服务规划论文的算例与代码 · This repository contains the instances and code used in our paper "Vessel Service Planning in Seaports". · `C++` · ★ 17 · 2026-10-05
 
@@ -120,7 +123,7 @@
 ## 🛠️ 开发工具 / 效率 · 3
 
 - [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock) — Hunt down social media accounts by username across social networks · `Python` · ★ 118k · 2026-11-06
-- [**AlephAITech/DoubaoWorkGuide**](https://github.com/AlephAITech/DoubaoWorkGuide) — 📝 豆包工作流中文指南，Skills、连接器、多 Agent 示例 · 豆包工作系统化中文实践指南：教程、真实任务、Skills、连接器、自动化与多 Agent 工作流。 · `JavaScript` · ★ 273 · 2026-09-01
+- [**AlephAITech/DoubaoWorkGuide**](https://github.com/AlephAITech/DoubaoWorkGuide) — 📝 豆包工作流中文指南，Skills、连接器、多 Agent 示例 · 豆包工作系统化中文实践指南：教程、真实任务、Skills、连接器、自动化与多 Agent 工作流。 · `JavaScript` · ★ 272 · 2026-09-01
 - [**enginefuture/mac-gaming-uncle**](https://github.com/enginefuture/mac-gaming-uncle) — 📝 在 Mac 上跑 Windows 游戏的非商业工具 · Mac Gaming Uncle — a permanently noncommercial project making Windows gaming on Mac as simple as SteamOS. · `Swift` · ★ 46 · 2026-09-07
 
 <a name="cat-infra"></a>
@@ -133,16 +136,22 @@
 ## 📱 移动 / 桌面 · 2
 
 - [**MetaCubeX/ClashMetaForAndroid**](https://github.com/MetaCubeX/ClashMetaForAndroid) — 📝 Android 上基于规则的代理客户端 · A rule-based tunnel for Android. · `Kotlin` · ★ 50k · 2025-10-05
-- [**wynter-yaxley/atrium-desktop**](https://github.com/wynter-yaxley/atrium-desktop) — A native glass desktop for Windows 11: floating taskbar and desktop widgets with real-time refraction. Architecture review and verified feasibility probes. · `C++` · ★ 750 · 2026-11-25
+- [**wynter-yaxley/atrium-desktop**](https://github.com/wynter-yaxley/atrium-desktop) — A native glass desktop for Windows 11: floating taskbar and desktop widgets with real-time refraction. Architecture review and verified feasibility probes. · `C++` · ★ 806 · 2026-11-25
+
+<a name="cat-design"></a>
+## 🎨 设计 / 创意 · 2
+
+- [**yrui-cmd/cell_su7**](https://github.com/yrui-cmd/cell_su7) — Original image to editable PowerPoint or Adobe Illustrator, with remaining-credit display. · `Python` · ★ 507 · 2026-11-27
+- [**guanmo-ai/ui-moments**](https://github.com/guanmo-ai/ui-moments) — A hands-on gallery of interactive UI and motion · `JavaScript` · ★ 37 · 2026-11-27
 
 <a name="cat-learning"></a>
 ## 📚 学习资源 / Awesome · 7
 
 - [**TheAlgorithms/Python**](https://github.com/TheAlgorithms/Python) — 📝 Python 算法大全，查经典实现 · All Algorithms implemented in Python · `Python` · ★ 226k · 2025-12-29
-- [**521xueweihan/HelloGitHub**](https://github.com/521xueweihan/HelloGitHub) — 📝 每月一期的开源项目月刊，适合找入门项目 · :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. · `Python` · ★ 191k · 2025-03-28
+- [**521xueweihan/HelloGitHub**](https://github.com/521xueweihan/HelloGitHub) — 📝 每月一期的开源项目月刊，适合找入门项目 · :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. · `Python` · ★ 192k · 2025-03-28
 - [**labuladong/fucking-algorithm**](https://github.com/labuladong/fucking-algorithm) — 📝 labuladong 算法笔记，刷题和写题解参考 · Crack LeetCode, not only how, but also why. · `Markdown` · ★ 136k · 2025-12-14
 - [**LAMDA-NeSy/Research-Starter-Kit**](https://github.com/LAMDA-NeSy/Research-Starter-Kit) — 📝 从零学做科研、写论文的流程指南 · 从0开始，掌握做科研、写论文的基本流程。 · ★ 11k · 2026-10-02
-- [**SoYuCry/awesome-quant-interview**](https://github.com/SoYuCry/awesome-quant-interview) — 📝 量化面试八股与高频考点整理 · 量化金融八股文 | 55道高频考点 × 详细解答 | 数学统计 · Python/C++ · 因子与Alpha策略 · 机器学习/深度学习 | 面试 + 学习两用指南 · ★ 922 · 2026-06-16
+- [**SoYuCry/awesome-quant-interview**](https://github.com/SoYuCry/awesome-quant-interview) — 📝 量化面试八股与高频考点整理 · 量化金融八股文 | 55道高频考点 × 详细解答 | 数学统计 · Python/C++ · 因子与Alpha策略 · 机器学习/深度学习 | 面试 + 学习两用指南 · ★ 924 · 2026-06-16
 - [**JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA**](https://github.com/JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA) — 📝 行程时间与到达时间预测的论文清单 · A curated list/survey of/on Deep learning for Travel-Time-Estimation (TTE) &amp; Estimated Time of Arrival (ETA) · ★ 115 · 2025-03-28
 - [**SylvanasSun/algs4-study**](https://github.com/SylvanasSun/algs4-study) — 📝 《算法》第四版学习笔记与代码 · algorithms4 book study. · `Java` · ★ 7 · 2026-01-02
 
@@ -156,9 +165,9 @@
 
 - [**Yuan1z0825/nature-skills**](https://github.com/Yuan1z0825/nature-skills) — 📝 偏 Nature 风格的学术表达与科研绘图 Skill · 符合nature论文学术表达和科研绘图的Skill · `Python` · ★ 55k · 2026-09-15
 - [**WoYun520/gif-factory**](https://github.com/WoYun520/gif-factory) — GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。 · `Python` · ★ 2.1k · 2026-11-05
-- [**EvoScientist/EvoSkills**](https://github.com/EvoScientist/EvoSkills) — 📝 EvoScientist 的可安装技能包，科研 Agent 扩展 · 🧬 Extend EvoScientist with Installable Skill &amp; Knowledge Packs · `Python` · ★ 486 · 2026-10-02
-- [**jiarui-liu/IdeaScientist**](https://github.com/jiarui-liu/IdeaScientist) — 📝 多 Agent 科研选题：找 gap、迁移机制、写报告 · `Python` · ★ 366 · 2026-10-13
-- [**mumdark/nature-review-studio**](https://github.com/mumdark/nature-review-studio) — `Python` · ★ 192 · 2026-11-18
+- [**EvoScientist/EvoSkills**](https://github.com/EvoScientist/EvoSkills) — 📝 EvoScientist 的可安装技能包，科研 Agent 扩展 · 🧬 Extend EvoScientist with Installable Skill &amp; Knowledge Packs · `Python` · ★ 488 · 2026-10-02
+- [**jiarui-liu/IdeaScientist**](https://github.com/jiarui-liu/IdeaScientist) — 📝 多 Agent 科研选题：找 gap、迁移机制、写报告 · `Python` · ★ 365 · 2026-10-13
+- [**mumdark/nature-review-studio**](https://github.com/mumdark/nature-review-studio) — `Python` · ★ 193 · 2026-11-18
 - [**Aihong-Sun/MOEA-D-and-NSGA--for-FJSP**](https://github.com/Aihong-Sun/MOEA-D-and-NSGA--for-FJSP) — 📝 MOEA/D + NSGA-II 解多目标柔性车间调度 · this repo has use MOEA/D and NSGA-Ⅱ to solve multi-objective FJSP problem · `Python` · ★ 74 · 2025-04-04
 - [**RahulShagri/Interactive-Assembly-Line-Balancer**](https://github.com/RahulShagri/Interactive-Assembly-Line-Balancer) — 📝 装配线平衡的 Python GUI 小工具 · A python based GUI to solve simple assembly line balancing problems quickly. · `Python` · ★ 39 · 2025-05-18
 - [**NJUWallSpider/IECourseGuide**](https://github.com/NJUWallSpider/IECourseGuide) — 📝 南大工业工程课程指南，IE 学习路线和资料 · `Python` · ★ 34 · 2026-06-24
@@ -187,7 +196,7 @@
 
 ## 📈 统计
 
-- 语言分布：`Python` 31 · `Jupyter Notebook` 9 · `C++` 4 · `Java` 4 · `HTML` 3 · `TypeScript` 3 · `JavaScript` 2 · `Markdown` 2 · `Rust` 2 · `Cython` 1
+- 语言分布：`Python` 33 · `Jupyter Notebook` 9 · `C++` 4 · `Java` 4 · `HTML` 3 · `JavaScript` 3 · `TypeScript` 3 · `Markdown` 2 · `Rust` 2 · `Cython` 1
 - 已归档仓库：2 个（仍保留在列表中，标注 🗄️）
 - 最早收藏：2025-03-28
 
