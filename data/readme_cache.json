@@ -6,7 +6,7 @@
   },
   "521xueweihan/HelloGitHub": {
     "excerpt": "分享 GitHub 上有趣、入门级的开源项目。 兴趣是最好的老师，HelloGitHub 帮你找到开源的乐趣！ 简介 HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。每月 28 号以月刊的形式更新发布，内容包括：有趣、入门级的开源项目、开源书籍、实战项目、企业级项目等，让你用很短时间感受到开源的魅力，爱上开源！ 内容 获得更好的阅读体验 官网 或 HelloGitHub 公众号 欢迎推荐或自荐项目成为 HelloGitHub 的贡献者 赞助 UCloud 聚合200+主流大模型 OpenIM 开源IM力争No.1 OfoxAI 100+ 模型官方直连不掉线 SerpApi AI Agent 实时搜索数据 API RustFS 高性能 S3 兼容对象存储 声明 本作品采用 署名-非商业性使用-禁止演绎 4.0 国际 进行许可。 联系我",
-    "pushed_at": "2026-11-27T00:14:35Z",
+    "pushed_at": "2026-11-27T12:50:49Z",
     "v": 2
   },
   "Adkid-Zephyr/anti-defensive-writing-Skill": {
@@ -41,12 +41,12 @@
   },
   "HKUDS/DeepTutor": {
     "excerpt": "DeepTutor: Lifelong Personalized Tutoring Features · Get Started · Explore · CLI · Ecosystem · Community 🤝 We're actively recruiting maintainers! See the Contributing Guide for the roles, requirements and how to apply. 📦 Releases [2026.11.20] v1.7.4 — Desktop security update for macOS and Windows. Install the new app to trust the replacement runtime signing key. [2026.11.16] v1.7.3 — Flexible reading and book editing, richer search and agent connections, clearer learning records, and more reliable model streams and desktop upgrades. Past releases (more than 1 week ago) [2026.11.6] v1.7.2 — Complete desktop downloads, selected-text speech, easier model setup, Korean interface preview, NVIDIA…",
-    "pushed_at": "2026-11-27T10:08:57Z",
+    "pushed_at": "2026-11-28T10:24:39Z",
     "v": 2
   },
   "HKUDS/Vibe-Trading": {
     "excerpt": "English 中文 日本語 한국어 العربية Español Bahasa Indonesia Vibe-Trading: Your Personal Trading Agent One Command to Empower Your Agent with Comprehensive Trading Capabilities 📄 Read the Technical Report GitHub topic rankings by stars · Nov 4, 2026 1 Backtesting · 3 Algorithmic Trading · 4 Quantitative Finance Website · Docs · News · Features · Shadow Account · Demo · Quick Start · Examples · API / MCP · Roadmap · Contributors 📰 News 2026-11-27 🛠️ NIFTY 100 benchmarks and backtest fixes — Alpha Zoo can benchmark and compare factors on the NIFTY 100. Historical tests use current constituents, which introduces survivorship bias. #2352 Web chat can copy user prompts. When several MT5 broker symbols…",
-    "pushed_at": "2026-11-27T09:15:23Z",
+    "pushed_at": "2026-11-28T08:23:35Z",
     "v": 2
   },
   "Ixiaohuihuihui/Tiny-Defect-Detection-for-PCB": {
@@ -91,7 +91,7 @@
   },
   "MetaCubeX/ClashMetaForAndroid": {
     "excerpt": "Clash Meta for Android A Graphical user interface of Clash.Meta for Android Feature Feature of Clash.Meta Requirement Android 5.0+ (minimum) Android 7.0+ (recommend) armeabi-v7a , arm64-v8a, x86 or x86_64 Architecture Build Update submodules Install OpenJDK 11, Android SDK, CMake and Golang Create local.properties in project root with (Optional) Custom app package name. Add the following configuration to local.properties. properties keystore.path=/path/to/keystore/file keystore.password= key.alias= key.password= bash ./gradlew app:assembleAlphaRelease Automation APP package name is com.github.metacubex.clash.meta Toggle Clash.Meta service status Send intent to activity…",
-    "pushed_at": "2026-11-25T05:33:00Z",
+    "pushed_at": "2026-11-27T15:22:53Z",
     "v": 2
   },
   "MorvanZhou/agentup": {
@@ -106,7 +106,7 @@
   },
   "OpenByteInc/QuantDinger": {
     "excerpt": "QuantDinger - Open-Source AI Quant Research Platform Turn trading ideas into Python strategies, backtests, paper trading, live execution, and monitoring — all in one self-hosted stack. QuantDinger is a product of Open Byte Inc. AI research → Strategy code → Backtest → Paper/Live execution → Monitoring 简体中文 繁體中文 Tiếng Việt API AI Agents & MCP Live App Website Deploy on AWS Marketplace Video Demo Official Support Email SUPPORTED BY Open Byte Inc. has joined NVIDIA Inception. Want to contribute? Explore the public roadmap or claim a scoped task from Ready for contributors. QuantDinger can submit real orders when live trading is explicitly enabled. Start with paper trading, use restricted API…",
-    "pushed_at": "2026-11-27T08:18:11Z",
+    "pushed_at": "2026-11-28T07:15:53Z",
     "v": 2
   },
   "RahulShagri/Interactive-Assembly-Line-Balancer": {
@@ -156,12 +156,12 @@
   },
   "Yuan1z0825/nature-skills": {
     "excerpt": "在线网站 · 立即安装 · 快速开始 · 技能索引 · 其他安装 · 贡献方式 · English Nature Skills 网页版：内置 Nature Polishing（论文润色）与 Nature Figure（科研绘图）核心功能，访问地址 nature-skills 面向全球 AI 学者收录可复用科研技能，强调真实问题解决、可验证工作流与可直接使用的科研产物。 1. 项目发起人与运营信息 1.1 创始人介绍 1.2 自营 GPT / Claude 代充与成品号 1.3 知识星球 1.4 商务合作 2. Skills 主要开发者 3. 项目理念与社区 4. 快速开始 5. 安装 5.1 npx skills 安装方式 5.2 Claude Code 安装方式 5.3 Codex 安装方式 5.4 Chatbox 安装与使用 5.5 其他 Agent 场景 6. 技能索引 7. 贡献与开发 8. Star 历史 项目发起人与运营信息 1.1 创始人介绍 大家好，我是 nature-skills 的创立者袁一哲。感谢大家持续关注本项目。我们在抖音更新了许多视频教程，大家可以根据名称检索查看，希望能够真正帮助到科研工作。目前正在寻找工作，欢迎添加下方二维码与我取得联系。 1.2 自营 GPT / Claude 代充与成品号 严格筛选渠道商，提供完全正规的充值渠道与服务。欢迎访问 Nature AI 充值卡网（已上线plus一年代充，Pro5x，20x等等）： Nature AI 充值卡网 扫码添加微信客服 1.3 知识星球 知识星球名称：Nature Skills…",
-    "pushed_at": "2026-11-26T03:05:03Z",
+    "pushed_at": "2026-11-28T02:24:27Z",
     "v": 2
   },
   "ZhuLinsen/daily_stock_analysis": {
     "excerpt": "📈 股票智能分析系统 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱 产品预览 · 功能特性 · 快速开始 · 推送效果 · 文档中心 · 完整指南 简体中文 English 繁體中文 [!TIP] 🔎 不知道选哪只股？ 开源选股 AlphaSift 每日选股+策略跟踪 → 免安装在线看今日选股 💖 赞助商 (Sponsors) 感谢 Modelflare 赞助本项目！由美国 Havenbyte LLC 运营，满血稳定不掺水，低成本接入 GPT、Claude、Gemini、Grok 及 40+ 图片/视频模型，支持大陆正规商务合作。指定 OpenAI 分组提供 65% / 75% / 85% 每日缓存命中率保障 ；单笔充值 US$20 解锁 GPT 0.015x ， US$50 解锁 Claude 0.03x 。 专属链接注册 100+ 模型 $5 包月，Claude 1.9 折、GPT 0.9 折、DeepSeek 5.8 折，首充立减 20%。 专属链接注册 🖥️ 产品预览 点击动图查看完整演示 ✨ 功能特性 能力 覆盖内容 AI 决策报告 核心结论、评分、趋势、买卖点位、风险警报、催化因素、操作检查清单 多市场数据聚合 覆盖 A股、港股、美股、日股、韩股、台股和 ETF，支持行情、K 线、技术指标、新闻、公告、基本面与报告辅助数据；不同市场的数据源和能力边界见 市场支持边界 Web / 桌面工作台 手动分析、任务进度、历史报告、完整…",
-    "pushed_at": "2026-11-27T03:17:10Z",
+    "pushed_at": "2026-11-28T09:35:25Z",
     "v": 2
   },
   "aa1143/NamiGPT": {
@@ -181,7 +181,7 @@
   },
   "aldegad/sprite-gen": {
     "excerpt": "sprite-gen One drawing in. Game-ready sprites out — as an atlas, or as transparent motion loops. English · 한국어 · 日本語 · 简体中文 · Español · Français Help cover the model API costs of developing sprite-gen with an optional GitHub sponsorship . Choose your amount and a one-time or monthly contribution. Please wishlist Dungeon Sookuma on Steam , a game in development by the creator of sprite-gen with part of the game art made using this tool. Each character started as one still image . Grok Imagine brought it to life; sprite-gen extracted the transparent loops, and HyperFrames assembled this showcase. A separate village composition made from sprite-gen assets. This GIF preserves the 10-second…",
-    "pushed_at": "2026-11-27T03:44:21Z",
+    "pushed_at": "2026-11-27T11:10:18Z",
     "v": 2
   },
   "anthropics/skills": {
@@ -221,17 +221,22 @@
   },
   "eternity4719/HowToLiveBetter": {
     "excerpt": "高性价比人生指南 讲怎么活得久、怎么少生病，出了意外怎么救。讲怎么少花冤枉钱，哪些事会让人被骗、摊上官司。讲没工作没钱时能去领什么，开店、开公司、做网站要办什么手续。也讲恋爱结婚生孩子、出国和学手艺。法律、医保、社保这些制度上的内容，按中国大陆的现行规定写。 774 条建议，每条写明花掉什么、换回什么、证据有多硬，来源只引期刊论文和官方文件，少数官方不公开的案件引署名的原创新闻报道并附网页存档。 不用全做：这是一份备选单，不是任务清单——挑走一两条就算数，作者自己也没做到其中大部分。 书里的内容可能过时，也可能有错。不少政策各地执行不一样。真去办事、看病、打官司时，以当地部门、医生和律师的说法为准。发现写错了，欢迎提 issue。 电子书平台上的官方版本由果麦文化独家出品，2026 年 10 月上架，其他版本都不是官方的。本页的网页版、EPUB、PDF 照旧免费，更新也最快。 打开在线检索页 · 让 AI 照书回答（skill） AI 助手 skill 支持 Claude Code 和 Codex。装上后直接问「替朋友担保签不签」，它先查书里的条目再回答，并注明出自第几节第几条。 下载 PDF · EPUB · 离线单文件（HTML） · Anki 牌组 查阅 目录 · 术语表 · 核实记录 自查 生活自查：回答几十道是否题，看看书里哪些事你还没做到、先做哪几件 长文 结婚划不划算 · 家庭应急装备清单 · 遇到陌生人出事该不该停 · 做平台要办哪些证 · 生物钟和夜班 · 被裁了之后先做什么 · 孩子出生前后要办的事 · 刚确诊慢性病之后 · 换工作、换城市之前 交流 QQ…",
-    "pushed_at": "2026-11-27T08:49:16Z",
+    "pushed_at": "2026-11-28T01:14:35Z",
     "v": 2
   },
   "f/prompts.chat": {
     "excerpt": "prompts.chat The world's largest open-source prompt library for AI Works with ChatGPT, Claude, Gemini, Llama, Mistral, and more formerly known as Awesome ChatGPT Prompts 🌐 Browse Prompts • 📖 Read the Book • 📄 View on GitHub • 🚀 Self-Host 🏆 Featured in Forbes · 🎓 Referenced by Harvard , Columbia · 📄 40+ academic citations · ❤️ Most liked dataset on Hugging Face ⭐ 143k+ GitHub stars · 🏅 GitHub Staff Pick · 🚀 First prompt library (Dec 2022) Loved by AI pioneers: Greg Brockman (OpenAI Co-Founder) · Wojciech Zaremba (OpenAI Co-Founder) · Clement Delangue (Hugging Face CEO) · Thomas Dohmke (Former GitHub CEO) What is this? A curated collection of prompts for AI chat models. Originally created for…",
-    "pushed_at": "2026-11-27T03:13:20Z",
+    "pushed_at": "2026-11-28T06:59:45Z",
     "v": 2
   },
   "feiniaoyun/feiniaoyun": {
     "excerpt": "飞鸟云最新国内免翻网址,用手机流量访问：(2026/11/17更新) 点击下面地址跳转到飞鸟云官网。节点卡，不稳定，慢，延迟高，掉线，等问题，请官网重新导入订阅，用手机流量试下。账号报错找官网右下角客服恢复。 （2026/11/22更新公告） 官网重新导入订阅，可以解决99%问题。 遇到问题联系官网右下角蓝色图标在线客服解决，或者发工单。 请知悉无退款服务。 翻墙后访问的永久网址： 飞鸟云官网地址防失联发布页： 请加入我们的TG电报群群组:",
     "pushed_at": "2026-11-22T01:34:17Z",
+    "v": 2
+  },
+  "fengyiqicoder/awesome-fable-5.2": {
+    "excerpt": "Things people built with Claude Fable 5.2 that you can actually open and play English · 简体中文 · 繁體中文 · 日本語 · 한국어 · Español · Português · Français · Deutsch · Русский 🌐 Browse on the web: fablelist.000ooo.ooo (searchable, a page for every work) 258 live works and 157 video demos built with Claude Fable 5.2, every link checked 2026-11-28. Updated daily; a ⭐ keeps it coming. 📑 Contents ⭐ Most Loved · 🆕 Recent · 🎮 Games 123 · 🌍 3D Worlds & Scenes 56 · 🧰 Web Pages & Tools 60 · 🎬 Animation & Film (with source) 19 · 📺 Video-only Demos 157 · 🤝 Contributing ⭐ Most Loved Starry Nightrider @ebbyamir · ♥ 17.9k · ▶ Video Van Gogh riding through his Starry Night, as a game. ✨ Get the prompt Saltline —…",
+    "pushed_at": "2026-11-28T02:58:22Z",
     "v": 2
   },
   "geekcompany/ResumeSample": {
@@ -241,7 +246,7 @@
   },
   "google/or-tools": {
     "excerpt": "OR-Tools - Google Optimization Tools Google's software suite for combinatorial optimization. About OR-Tools Codemap Installation Quick Start Documentation Contributing License About OR-Tools Google Optimization Tools (a.k.a., OR-Tools) is an open-source, fast and portable software suite for solving combinatorial optimization problems. The suite contains: Two constraint programming solver (CP* and CP-SAT). Two linear programming solvers (Glop and PDLP). Wrappers around commercial and other open source solvers, including mixed integer solvers (MPSolver and MathOpt). Bin packing, set covering, and knapsack algorithms. Algorithms for the Traveling Salesman Problem and Vehicle Routing Problem…",
-    "pushed_at": "2026-11-27T10:51:06Z",
+    "pushed_at": "2026-11-27T17:30:53Z",
     "v": 2
   },
   "greyhatguy007/Machine-Learning-Specialization-Coursera": {
@@ -250,13 +255,13 @@
     "v": 2
   },
   "guanmo-ai/ui-moments": {
-    "excerpt": "English · 简体中文 UI Moments · Interactive UI Gallery UI Moments is a hands-on gallery of interactive UI and motion, maintained by 观默 (Guanmo). The first release has 884 examples, and every card is live. What's in the gallery Category Examples Core controls Ink Switch, Detent Dial, Hold to Confirm, Odometer Stepper, Leaf Tabs, Tide Progress Visual interactions Magnet Grid, Jelly Cube, Merge Drops, Ripple Pad, Bloom Toggle Gestures and physics Swipe to Confirm, Pull to Refresh, Elastic String, Domino Row, Rocker Switch, Scrub Wave, Snap Grid, Radial Menu, Step Track, Breath Orb Action feedback Copy Button, Like Burst, Paper Plane Send, Download Ring, Code Shake, Bell Toggle Form inputs Stroke…",
-    "pushed_at": "2026-11-27T09:36:45Z",
+    "excerpt": "English · 简体中文 UI Moments · Interactive UI Gallery UI Moments is a hands-on gallery of interactive UI and motion, maintained by 观默 (Guanmo). The main gallery has 144 featured works. Find 181 more examples under Other or in search. What's in the gallery Category Examples Core controls Ink Switch, Detent Dial, Hold to Confirm, Odometer Stepper, Leaf Tabs, Tide Progress Visual interactions Magnet Grid, Jelly Cube, Merge Drops, Ripple Pad, Bloom Toggle Gestures and physics Swipe to Confirm, Pull to Refresh, Elastic String, Domino Row, Rocker Switch, Scrub Wave, Snap Grid, Radial Menu, Step Track, Breath Orb Action feedback Copy Button, Like Burst, Paper Plane Send, Download Ring, Code Shake…",
+    "pushed_at": "2026-11-28T07:20:00Z",
     "v": 2
   },
   "hiyouga/LlamaFactory": {
     "excerpt": "Used by Amazon, NVIDIA, Aliyun, etc. Check our new open-source project — 🐧 PenguinHarness: Local-first multi-agent app development platform - create, fine-tune, deploy AI apps automatically! Follow us and give us a star ⭐: Supporters ❤️ Warp, the agentic terminal for developers Available for MacOS, Linux, & Windows Easily fine-tune 100+ large language models with zero-code CLI and Web UI 👋 Join our WeChat and NPU user groups. \\ English [中文 \\] Fine-tuning a large language model can be easy as... Start local training: Please refer to usage Start cloud training: Colab (free): PAI-DSW (free trial): AMD GPU Cloud (free credits): Read technical notes: Documentation (WIP): Documentation (AMD GPU)…",
-    "pushed_at": "2026-11-25T04:38:40Z",
+    "pushed_at": "2026-11-28T06:26:36Z",
     "v": 2
   },
   "imraywang/ray-sticker-shop": {
@@ -270,8 +275,8 @@
     "v": 2
   },
   "jlcodes99/cockpit-tools": {
-    "excerpt": "Cockpit Tools English · Portuguese (BR) · 한국어 · 简体中文 一款通用的 AI IDE 账号管理工具，目前支持 Antigravity IDE、Codex、GitHub Copilot、Windsurf、Kiro、Cursor、Grok CLI、CodeBuddy、CodeBuddy CN、Qoder、Trae、TraeWork、Trae CN、TraeWork CN、Zed、ZCode 和 WorkBuddy AI，并支持多账号多实例并行运行。 本工具旨在帮助用户高效管理多个 AI IDE 账号，支持一键切换、配额监控、自动唤醒与应用多开并行运行，助您充分利用不同账号的资源。 功能：一键切号 · 多账号管理 · 应用多开 · 配额监控 · 唤醒任务 · 插件联动 · GitHub Copilot 管理 · Windsurf 管理 · Kiro 管理 · Cursor 管理 · Grok CLI 管理 · CodeBuddy 管理 · CodeBuddy CN 管理 · Qoder 管理 · Trae 套件管理 · Zed 管理 · ZCode 管理 WorkBuddy AI 国际版（macOS、Windows）：支持浏览器授权、本机或 JSON 导入、积分余额和桌面客户端切号。 T3 Code：在统一列表中管理已接入的提供方账号，添加、移除或设置默认账号，并查看真实订阅与剩余额度。启动 T3 Code 后，可在聊天输入框查看当前账号的额度。 语言：支持 18 种语言 🇺🇸 English · 🇨🇳 简体中文 · 繁體中文 · 🇯🇵…",
-    "pushed_at": "2026-11-26T16:01:34Z",
+    "excerpt": "Cockpit Tools English · Portuguese (BR) · 한국어 · 简体中文 一款通用的 AI IDE 账号管理工具，目前支持 Antigravity IDE、Codex、GitHub Copilot、Windsurf、Kiro、Cursor、Grok CLI、CodeBuddy、CodeBuddy CN、Qoder、Qoder CN、Trae、TraeWork、Trae CN、TraeWork CN、Zed、ZCode 和 WorkBuddy AI，并支持多账号多实例并行运行。 本工具旨在帮助用户高效管理多个 AI IDE 账号，支持一键切换、配额监控、自动唤醒与应用多开并行运行，助您充分利用不同账号的资源。 功能：一键切号 · 多账号管理 · 应用多开 · 配额监控 · 唤醒任务 · 插件联动 · GitHub Copilot 管理 · Windsurf 管理 · Kiro 管理 · Cursor 管理 · Grok CLI 管理 · CodeBuddy 管理 · CodeBuddy CN 管理 · Qoder / Qoder CN 管理 · Trae 套件管理 · Zed 管理 · ZCode 管理 WorkBuddy AI 国际版（macOS、Windows）：支持浏览器授权、本机或 JSON 导入、积分余额和桌面客户端切号。 T3 Code：在统一列表中管理已接入的提供方账号，添加、移除或设置默认账号，并查看真实订阅与剩余额度。启动 T3 Code 后，可在聊天输入框查看当前账号的额度。 语言：支持 18 种语言 🇺🇸 English ·…",
+    "pushed_at": "2026-11-28T03:59:16Z",
     "v": 2
   },
   "kevin-wayne/algs4": {
@@ -286,12 +291,12 @@
   },
   "lbjlaq/Antigravity-Manager": {
     "excerpt": "Antigravity Tools 🚀 Professional Account Management & Protocol Proxy System for AI Services (v5.0.4) Antigravity Tools Multi-platform automation & multi-account matrix dispatch console Features • GUI Overview • Architecture • Installation • Integration 简体中文 Antigravity Tools is an all-in-one desktop application designed for developers and AI enthusiasts. It perfectly combines multi-account management, protocol conversion, and smart request scheduling to provide you with a stable, high-speed, and low-cost Local AI Relay Station. By leveraging this app, you can transform common Web Sessions (Google/Anthropic) into standardized API interfaces, completely eliminating the protocol gap between…",
-    "pushed_at": "2026-11-26T23:39:07Z",
+    "pushed_at": "2026-11-28T07:10:51Z",
     "v": 2
   },
   "microsoft/ResearchStudio": {
     "excerpt": "ResearchStudio Our AI co-author, from research problem to final publication. ResearchStudio is a collection of skills covering the entire research lifecycle — from an under-specified research direction to a published paper. The skills run on Claude Code and Codex. : one research paper, all deliverables (editable poster, video, blog, and reel) 📄 Paper · 💻 Code · 🎬 Demo Presenting an all-in-one interactive reel. : one research direction, one reviewer-defensible idea card 📄 Paper · 💻 Code · 🎬 Demo IdeaSpark runs the full pipeline end-to-end. News 🔥🔥🔥 [2026-09-15] release pptx2video is now open source — turn editable PowerPoint slides into narrated videos with animations and captions. Use it as…",
-    "pushed_at": "2026-09-21T17:18:54Z",
+    "pushed_at": "2026-11-28T10:01:13Z",
     "v": 2
   },
   "mumdark/nature-review-studio": {
@@ -316,7 +321,7 @@
   },
   "openclaw/openclaw": {
     "excerpt": "OpenClaw 🦞 — Your assistant, on your devices, in your chats OpenClaw is an open-source AI assistant that runs on your own computer and meets you in the channels you already use: Discord, iMessage, Slack, Teams, Telegram, WhatsApp, and 20+ more, plus native apps for macOS, iOS, Android, Windows, and Linux. One Gateway runs it as a personal claw on a laptop or as a shared multiplayer claw; configuration is the only difference. Yours, with no catch. State, memory, and credentials live on your hardware. Models and agent harnesses (Claude, Codex, local models) are plugins you can swap without changing anything else. Your prompts go to the model provider and chat platforms you configure, plus any…",
-    "pushed_at": "2026-11-27T11:01:03Z",
+    "pushed_at": "2026-11-28T10:37:09Z",
     "v": 2
   },
   "qwdwqfwq/topconf-paper-figure-gallery": {
@@ -361,7 +366,7 @@
   },
   "wynter-yaxley/atrium-desktop": {
     "excerpt": "Atrium Desktop 不仅仅是桌面美化。 保留 Windows 的用法，换上一块实时折射的液态玻璃， 再用同一套设计语言，把任务栏、开始菜单、启动台、控制中心、通知和小组件连成一个整体。 下载 · 功能 · 开始使用 · English 不仅仅是桌面美化 Windows 的桌面是几代设计叠起来的：任务栏、托盘、开始菜单、通知、快捷设置，各有各的圆角、字号和动画。Atrium 把每天看到的这一层重新做了一遍，但没有改变你用 Windows 的方式。 用法不变：固定应用、切换窗口、右键菜单、把文件拖到应用图标上打开，都和原来一样。 同一块玻璃：栏、面板、菜单、通知和小组件用的是同一种材质，实时映出背后的桌面。 同一套设计语言：圆角、间距、字体和动画遵循同一套规则，同一种控件在哪里都是同样的手感。 三个独立模块：任务栏、桌面小组件和台前调度可以分别打开，只用其中一个也行。 多语言界面：设置中心的“系统 → 语言”可选择简体中文、English、Русский、Türkçe，或跟随 Windows；栏、面板、菜单、通知、小组件和设置中心一起切换。语言文案在 locales/ 下，每门语言一个 JSON 文件；没有翻译的词条回退英文。 干净：不向系统进程注入代码，不改系统文件，不装服务，不需要管理员权限。退出后，Windows 自己的任务栏照常回来。 功能 液态与磨砂 玻璃会折射背后的画面，边缘带一点高光和色散。喜欢通透，用液态（左）；喜欢安静，用磨砂（右）。透明度、模糊和折射强度也可以在设置中心里自己调。玻璃上的文字会跟着背后的明暗自动换成深色或浅色。 任务栏…",
-    "pushed_at": "2026-11-27T10:42:12Z",
+    "pushed_at": "2026-11-28T09:57:58Z",
     "v": 2
   },
   "yrui-cmd/cell_su7": {
